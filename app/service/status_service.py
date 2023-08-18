@@ -103,7 +103,8 @@ def get_weapon(equip: enka_model.Equip):
         sub_name = flat.weaponStats[1].appendPropId
         sub_value = flat.weaponStats[1].statValue
     level = equip.weapon.level
-    rank = flat.rankLevel
+    rarity = flat.rankLevel
+    rank = int([v for k, v in equip.weapon.affixMap.items()][0])+1
     return status_model.Weapon(
         icon_name=icon_name,
         main_name=main_name,
@@ -111,6 +112,7 @@ def get_weapon(equip: enka_model.Equip):
         sub_name=sub_name,
         sub_value=sub_value,
         level=level,
+        rarity=rarity,
         rank=rank
     )
 
@@ -151,7 +153,7 @@ def get_character_status(uid: int, create_date: str, avatar_info: enka_model.Ava
     if check_traveler(id):
         id = f"{id}-{avatar_info.skillDepotId}"
     star = CHARACTER_DATA_DICT[id].quality
-    constellations = len(CHARACTER_DATA_DICT[id].consts)
+    constellations = len(avatar_info.talentIdList)
     level = int(avatar_info.propMap["4001"].val)
     base_hp = int(avatar_info.fightPropMap["1"])
     added_hp = avatar_info.fightPropMap["2000"] - base_hp
