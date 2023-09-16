@@ -6616,6 +6616,93 @@
             }
         }
     },
+    "10000005-503": {
+        "element": "Water",
+        "consts": [
+            {
+                "name": "UI_Talent_S_PlayerWater_01.png",
+                "path": "image/character/PlayerBoy/consts/UI_Talent_S_PlayerWater_01.png"
+            },
+            {
+                "name": "UI_Talent_S_PlayerWater_02.png",
+                "path": "image/character/PlayerBoy/consts/UI_Talent_S_PlayerWater_02.png"
+            },
+            {
+                "name": "UI_Talent_U_PlayerWater_01.png",
+                "path": "image/character/PlayerBoy/consts/UI_Talent_U_PlayerWater_01.png"
+            },
+            {
+                "name": "UI_Talent_S_PlayerWater_03.png",
+                "path": "image/character/PlayerBoy/consts/UI_Talent_S_PlayerWater_03.png"
+            },
+            {
+                "name": "UI_Talent_U_PlayerWater_02.png",
+                "path": "image/character/PlayerBoy/consts/UI_Talent_U_PlayerWater_02.png"
+            },
+            {
+                "name": "UI_Talent_S_PlayerWater_04.png",
+                "path": "image/character/PlayerBoy/consts/UI_Talent_S_PlayerWater_04.png"
+            }
+        ],
+        "skills": [
+            {
+                "name": "通常攻撃",
+                "icon": {
+                    "name": "Skill_A_01.png",
+                    "path": "image/character/PlayerBoy/skill/Skill_A_01.png"
+                },
+                "id": "100542",
+                "proud_id": "630"
+            },
+            {
+                "name": "元素スキル",
+                "icon": {
+                    "name": "Skill_S_PlayerWater_01.png",
+                    "path": "image/character/PlayerBoy/skill/Skill_S_PlayerWater_01.png"
+                },
+                "id": "10087",
+                "proud_id": "632"
+            },
+            {
+                "name": "元素爆発",
+                "icon": {
+                    "name": "Skill_E_PlayerWater_01.png",
+                    "path": "image/character/PlayerBoy/skill/Skill_E_PlayerWater_01.png"
+                },
+                "id": "10088",
+                "proud_id": "639"
+            }
+        ],
+        "name": "旅人",
+        "english_name": "PlayerBoy",
+        "proud_map": {
+            "10087": "632",
+            "10088": "639",
+            "100542": "630"
+        },
+        "quality": 5,
+        "costumes": {
+            "default": {
+                "side_icon": {
+                    "name": "UI_AvatarIcon_Side_PlayerBoy.png",
+                    "path": "image/character/Liney/avatar/default/UI_AvatarIcon_Side_PlayerBoy.png"
+                },
+                "avatar_icon": {
+                    "name": "UI_AvatarIcon_PlayerBoy.png",
+                    "path": "image/character/Liney/avatar/default/UI_AvatarIcon_PlayerBoy.png"
+                },
+                "gacha_icon": {
+                    "name": "UI_Gacha_AvatarImg_PlayerBoy.png",
+                    "path": "image/character/PlayerBoy/avatar/default/UI_Gacha_AvatarImg_PlayerBoy.png"
+                },
+                "position": {
+                    "x": -294,
+                    "y": 55,
+                    "scale": 83
+                }
+            }
+        }
+    },
     "10000005-504": {
         "element": "Wind",
         "consts": [
