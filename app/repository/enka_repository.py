@@ -13,6 +13,15 @@ MESSAGES = {
     503: "Enka.network（ビルドデータを取得するサービス）サーバーの一時停止中です。\nしばらくお待ちください。※開発者はこれについて確認ぐらいしか取れないです。\n詳しくはEnkaのTwitterを確認してください"
 }
 
+CHANGE_STATUS_CODE = {
+    400: 435,
+    404: 436,
+    424: 437,
+    429: 438,
+    500: 439,
+    503: 440,
+}
+
 
 async def get_enka_model(uid: int):
     try:
@@ -26,4 +35,4 @@ async def get_enka_model(uid: int):
     except client_exceptions.ClientResponseError as e:
         print(e)
         raise HTTPException(
-            status_code=451, detail=f"{MESSAGES[e.status]} \ncode: {e.status}")
+            status_code=CHANGE_STATUS_CODE[e.status], detail=f"{MESSAGES[e.status]} \ncode: {e.status}")
