@@ -12,7 +12,7 @@ class ShowAvatarInfo(BaseModel):
 
 
 class ProfilePicture(BaseModel):
-    avatarId: str
+    avatarId: str = "10000007"
     costumeId: str = "default"
 
 
