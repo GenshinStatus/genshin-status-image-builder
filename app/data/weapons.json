@@ -1195,5 +1195,54 @@
             "path": "image/weapon/UI_EquipIcon_Bow_Pledge.png"
         },
         "name": "始まりの大魔術"
+    },
+    "UI_EquipIcon_Sword_Mechanic": {
+        "icon": {
+            "name": "UI_EquipIcon_Sword_Mechanic.png",
+            "path": "image/weapon/UI_EquipIcon_Sword_Mechanic.png"
+        },
+        "name": "船渠剣"
+    },
+    "UI_EquipIcon_Claymore_Mechanic": {
+        "icon": {
+            "name": "UI_EquipIcon_Claymore_Mechanic.png",
+            "path": "image/weapon/UI_EquipIcon_Claymore_Mechanic.png"
+        },
+        "name": "携帯型チェーンソー"
+    },
+    "UI_EquipIcon_Pole_Mechanic": {
+        "icon": {
+            "name": "UI_EquipIcon_Pole_Mechanic.png",
+            "path": "image/weapon/UI_EquipIcon_Pole_Mechanic.png"
+        },
+        "name": "プロスペクタードリル"
+    },
+    "UI_EquipIcon_Bow_Mechanic": {
+        "icon": {
+            "name": "UI_EquipIcon_Bow_Mechanic.png",
+            "path": "image/weapon/UI_EquipIcon_Bow_Mechanic.png"
+        },
+        "name": "レンジゲージ"
+    },
+    "UI_EquipIcon_Catalyst_DandelionPoem": {
+        "icon": {
+            "name": "UI_EquipIcon_Catalyst_DandelionPoem.png",
+            "path": "image/weapon/UI_EquipIcon_Catalyst_DandelionPoem.png"
+        },
+        "name": "果てなき紺碧の唄"
+    },
+    "UI_EquipIcon_Catalyst_Wheatley": {
+        "icon": {
+            "name": "UI_EquipIcon_Catalyst_Wheatley.png",
+            "path": "image/weapon/UI_EquipIcon_Catalyst_Wheatley.png"
+        },
+        "name": "凛流の監視者"
+    },
+    "UI_EquipIcon_Catalyst_Iudex": {
+        "icon": {
+            "name": "UI_EquipIcon_Catalyst_Iudex.png",
+            "path": "image/weapon/UI_EquipIcon_Catalyst_Iudex.png"
+        },
+        "name": "久遠流転の大典"
     }
 }

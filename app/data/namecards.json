@@ -1012,5 +1012,41 @@
             "name": "UI_NameCardPic_Bp26_P.png",
             "path": "image/namecard/.png"
         }
+    },
+    "210174": {
+        "icon": {
+            "name": "UI_NameCardPic_Neuvillette_P.png",
+            "path": "image/namecard/.png"
+        }
+    },
+    "210175": {
+        "icon": {
+            "name": "UI_NameCardPic_Wriothesley_P.png",
+            "path": "image/namecard/.png"
+        }
+    },
+    "210176": {
+        "icon": {
+            "name": "UI_NameCardPic_Bp27_P.png",
+            "path": "image/namecard/.png"
+        }
+    },
+    "210177": {
+        "icon": {
+            "name": "UI_NameCardPic_Guqin_P.png",
+            "path": "image/namecard/.png"
+        }
+    },
+    "210178": {
+        "icon": {
+            "name": "UI_NameCardPic_Tzz8_P.png",
+            "path": "image/namecard/.png"
+        }
+    },
+    "210179": {
+        "icon": {
+            "name": "UI_NameCardPic_FD2_P.png",
+            "path": "image/namecard/.png"
+        }
     }
 }

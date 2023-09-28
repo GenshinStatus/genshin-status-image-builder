@@ -6529,6 +6529,180 @@
             }
         }
     },
+    "10000086": {
+        "element": "Ice",
+        "consts": [
+            {
+                "name": "UI_Talent_S_Wriothesley_01.png",
+                "path": "image/character/Wriothesley/consts/UI_Talent_S_Wriothesley_01.png"
+            },
+            {
+                "name": "UI_Talent_S_Wriothesley_02.png",
+                "path": "image/character/Wriothesley/consts/UI_Talent_S_Wriothesley_02.png"
+            },
+            {
+                "name": "UI_Talent_U_Wriothesley_01.png",
+                "path": "image/character/Wriothesley/consts/UI_Talent_U_Wriothesley_01.png"
+            },
+            {
+                "name": "UI_Talent_S_Wriothesley_03.png",
+                "path": "image/character/Wriothesley/consts/UI_Talent_S_Wriothesley_03.png"
+            },
+            {
+                "name": "UI_Talent_U_Wriothesley_02.png",
+                "path": "image/character/Wriothesley/consts/UI_Talent_U_Wriothesley_02.png"
+            },
+            {
+                "name": "UI_Talent_S_Wriothesley_04.png",
+                "path": "image/character/Wriothesley/consts/UI_Talent_S_Wriothesley_04.png"
+            }
+        ],
+        "skills": [
+            {
+                "name": "通常攻撃",
+                "icon": {
+                    "name": "Skill_A_Catalyst_MD.png",
+                    "path": "image/character/Wriothesley/skill/Skill_A_Catalyst_MD.png"
+                },
+                "id": "10861",
+                "proud_id": "8631"
+            },
+            {
+                "name": "元素スキル",
+                "icon": {
+                    "name": "Skill_S_Wriothesley_01.png",
+                    "path": "image/character/Wriothesley/skill/Skill_S_Wriothesley_01.png"
+                },
+                "id": "10862",
+                "proud_id": "8632"
+            },
+            {
+                "name": "元素爆発",
+                "icon": {
+                    "name": "Skill_E_Wriothesley_01.png",
+                    "path": "image/character/Wriothesley/skill/Skill_E_Wriothesley_01.png"
+                },
+                "id": "10865",
+                "proud_id": "8639"
+            }
+        ],
+        "name": "リオセスリ",
+        "english_name": "Wriothesley",
+        "proud_map": {
+            "10851": "8531",
+            "10852": "8532",
+            "10855": "8539"
+        },
+        "quality": 5,
+        "costumes": {
+            "default": {
+                "side_icon": {
+                    "name": "UI_AvatarIcon_Side_Wriothesley.png",
+                    "path": "image/character/Wriothesley/avatar/default/UI_AvatarIcon_Side_Wriothesley.png"
+                },
+                "avatar_icon": {
+                    "name": "UI_AvatarIcon_Wriothesley.png",
+                    "path": "image/character/Wriothesley/avatar/default/UI_AvatarIcon_Wriothesley.png"
+                },
+                "gacha_icon": {
+                    "name": "UI_Gacha_AvatarImg_Wriothesley.png",
+                    "path": "image/character/Wriothesley/avatar/default/UI_Gacha_AvatarImg_Wriothesley.png"
+                },
+                "position": {
+                    "x": -196,
+                    "y": 103,
+                    "scale": 100
+                }
+            }
+        }
+    },
+    "10000087": {
+        "element": "Water",
+        "consts": [
+            {
+                "name": "UI_Talent_S_Neuvillette_01.png",
+                "path": "image/character/Neuvillette/consts/UI_Talent_S_Neuvillette_01.png"
+            },
+            {
+                "name": "UI_Talent_S_Neuvillette_02.png",
+                "path": "image/character/Neuvillette/consts/UI_Talent_S_Neuvillette_02.png"
+            },
+            {
+                "name": "UI_Talent_U_Neuvillette_01.png",
+                "path": "image/character/Neuvillette/consts/UI_Talent_U_Neuvillette_01.png"
+            },
+            {
+                "name": "UI_Talent_S_Neuvillette_03.png",
+                "path": "image/character/Neuvillette/consts/UI_Talent_S_Neuvillette_03.png"
+            },
+            {
+                "name": "UI_Talent_U_Neuvillette_02.png",
+                "path": "image/character/Neuvillette/consts/UI_Talent_U_Neuvillette_02.png"
+            },
+            {
+                "name": "UI_Talent_S_Neuvillette_04.png",
+                "path": "image/character/Neuvillette/consts/UI_Talent_S_Neuvillette_04.png"
+            }
+        ],
+        "skills": [
+            {
+                "name": "通常攻撃",
+                "icon": {
+                    "name": "Skill_A_Catalyst_MD.png",
+                    "path": "image/character/Neuvillette/skill/Skill_A_Catalyst_MD.png"
+                },
+                "id": "10871",
+                "proud_id": "8731"
+            },
+            {
+                "name": "元素スキル",
+                "icon": {
+                    "name": "Skill_S_Neuvillette_01.png",
+                    "path": "image/character/Neuvillette/skill/Skill_S_Neuvillette_01.png"
+                },
+                "id": "10872",
+                "proud_id": "8732"
+            },
+            {
+                "name": "元素爆発",
+                "icon": {
+                    "name": "Skill_E_Neuvillette_01.png",
+                    "path": "image/character/Neuvillette/skill/Skill_E_Neuvillette_01.png"
+                },
+                "id": "10875",
+                "proud_id": "8739"
+            }
+        ],
+        "name": "ヌヴィレット",
+        "english_name": "Neuvillette",
+        "proud_map": {
+            "10871": "8731",
+            "10872": "8732",
+            "10875": "8739"
+        },
+        "quality": 5,
+        "costumes": {
+            "default": {
+                "side_icon": {
+                    "name": "UI_AvatarIcon_Side_Neuvillette.png",
+                    "path": "image/character/Neuvillette/avatar/default/UI_AvatarIcon_Side_Neuvillette.png"
+                },
+                "avatar_icon": {
+                    "name": "UI_AvatarIcon_Neuvillette.png",
+                    "path": "image/character/Neuvillette/avatar/default/UI_AvatarIcon_Neuvillette.png"
+                },
+                "gacha_icon": {
+                    "name": "UI_Gacha_AvatarImg_Neuvillette.png",
+                    "path": "image/character/Neuvillette/avatar/default/UI_Gacha_AvatarImg_Neuvillette.png"
+                },
+                "position": {
+                    "x": -234,
+                    "y": 30,
+                    "scale": 81
+                }
+            }
+        }
+    },
     "10000005-501": {
         "element": "None",
         "consts": [
