@@ -67,13 +67,16 @@ def get_artifact(equip: enka_model.Equip):
     suffix = get_suffix(main_name)
     level = equip.reliquary.level - 1
     star = flat.rankLevel
-    status = [
-        status_model.ArtifactStatus(
-            value=round(v.statValue, 1),
-            name=v.appendPropId,
-            suffix=get_suffix(v.appendPropId),
-        ) for v in flat.reliquarySubstats
-    ]
+    if flat.reliquarySubstats != None:
+        status = [
+            status_model.ArtifactStatus(
+                value=round(v.statValue, 1),
+                name=v.appendPropId,
+                suffix=get_suffix(v.appendPropId),
+            ) for v in flat.reliquarySubstats
+        ]
+    else:
+        status = []
     return status_model.Artifact(
         icon_name=icon_name,
         main_name=main_name,
