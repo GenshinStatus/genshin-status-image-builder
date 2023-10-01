@@ -25,7 +25,7 @@ class Prop(BaseModel):
 class Reliquary(BaseModel):
     level: int
     mainPropId: int
-    appendPropIdList: list[int]
+    appendPropIdList: Optional[list[int]] = None
 
 
 class ReliquaryStat(BaseModel):
