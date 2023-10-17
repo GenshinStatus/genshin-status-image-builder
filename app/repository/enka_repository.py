@@ -34,5 +34,9 @@ async def get_enka_model(uid: int):
 
     except client_exceptions.ClientResponseError as e:
         print(e)
-        raise HTTPException(
-            status_code=CHANGE_STATUS_CODE[e.status], detail=f"{MESSAGES[e.status]} \ncode: {e.status}")
+        try:
+            raise HTTPException(
+                status_code=CHANGE_STATUS_CODE[e.status], detail=f"{MESSAGES[e.status]} \ncode: {e.status}")
+        except KeyError:
+            raise HTTPException(
+                status_code=441, detail=f"Enka error.")
