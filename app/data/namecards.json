@@ -1048,5 +1048,29 @@
             "name": "UI_NameCardPic_FD2_P.png",
             "path": "image/namecard/.png"
         }
+    },
+    "210180": {
+        "icon": {
+            "name": "UI_NameCardIcon_Furina.png",
+            "path": "image/namecard/.png"
+        }
+    },
+    "210181": {
+        "icon": {
+            "name": "UI_NameCardIcon_Charlotte.png",
+            "path": "image/namecard/.png"
+        }
+    },
+    "210182": {
+        "icon": {
+            "name": "UI_NameCardIcon_FD3.png",
+            "path": "image/namecard/.png"
+        }
+    },
+    "210183": {
+        "icon": {
+            "name": "UI_NameCardIcon_Bp28.png",
+            "path": "image/namecard/.png"
+        }
     }
 }

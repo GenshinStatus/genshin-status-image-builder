@@ -1244,5 +1244,19 @@
             "path": "image/weapon/UI_EquipIcon_Catalyst_Iudex.png"
         },
         "name": "久遠流転の大典"
+    },
+    "UI_EquipIcon_Sword_Purewill": {
+        "icon": {
+            "name": "UI_EquipIcon_Sword_Purewill.png",
+            "path": "image/weapon/UI_EquipIcon_Sword_Purewill.png"
+        },
+        "name": "水仙十字の剣"
+    },
+    "UI_EquipIcon_Sword_Regalis": {
+        "icon": {
+            "name": "UI_EquipIcon_Sword_Regalis.png",
+            "path": "image/weapon/UI_EquipIcon_Sword_Regalis.png"
+        },
+        "name": "静水流転の輝き"
     }
 }

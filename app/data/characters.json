@@ -6703,6 +6703,180 @@
             }
         }
     },
+    "10000088": {
+        "element": "Ice",
+        "consts": [
+            {
+                "name": "UI_Talent_S_Charlotte_01.png",
+                "path": "image/character/Charlotte/consts/UI_Talent_S_Charlotte_01.png"
+            },
+            {
+                "name": "UI_Talent_S_Charlotte_02.png",
+                "path": "image/character/Charlotte/consts/UI_Talent_S_Charlotte_02.png"
+            },
+            {
+                "name": "UI_Talent_U_Charlotte_01.png",
+                "path": "image/character/Charlotte/consts/UI_Talent_U_Charlotte_01.png"
+            },
+            {
+                "name": "UI_Talent_S_Charlotte_03.png",
+                "path": "image/character/Charlotte/consts/UI_Talent_S_Charlotte_03.png"
+            },
+            {
+                "name": "UI_Talent_U_Charlotte_02.png",
+                "path": "image/character/Charlotte/consts/UI_Talent_U_Charlotte_02.png"
+            },
+            {
+                "name": "UI_Talent_S_Charlotte_04.png",
+                "path": "image/character/Charlotte/consts/UI_Talent_S_Charlotte_04.png"
+            }
+        ],
+        "skills": [
+            {
+                "name": "通常攻撃",
+                "icon": {
+                    "name": "Skill_A_Catalyst_MD.png",
+                    "path": "image/character/Charlotte/skill/Skill_A_Catalyst_MD.png"
+                },
+                "id": "10881",
+                "proud_id": "8831"
+            },
+            {
+                "name": "元素スキル",
+                "icon": {
+                    "name": "Skill_S_Charlotte_01.png",
+                    "path": "image/character/Charlotte/skill/Skill_S_Charlotte_01.png"
+                },
+                "id": "10882",
+                "proud_id": "8832"
+            },
+            {
+                "name": "元素爆発",
+                "icon": {
+                    "name": "Skill_E_Charlotte_01.png",
+                    "path": "image/character/Charlotte/skill/Skill_E_Charlotte_01.png"
+                },
+                "id": "10885",
+                "proud_id": "8839"
+            }
+        ],
+        "name": "シャルロット",
+        "english_name": "Charlotte",
+        "proud_map": {
+            "10881": "8831",
+            "10882": "8832",
+            "10885": "8839"
+        },
+        "quality": 4,
+        "costumes": {
+            "default": {
+                "side_icon": {
+                    "name": "UI_AvatarIcon_Side_Charlotte.png",
+                    "path": "image/character/Charlotte/avatar/default/UI_AvatarIcon_Side_Charlotte.png"
+                },
+                "avatar_icon": {
+                    "name": "UI_AvatarIcon_Charlotte.png",
+                    "path": "image/character/Charlotte/avatar/default/UI_AvatarIcon_Charlotte.png"
+                },
+                "gacha_icon": {
+                    "name": "UI_Gacha_AvatarImg_Charlotte.png",
+                    "path": "image/character/Charlotte/avatar/default/UI_Gacha_AvatarImg_Charlotte.png"
+                },
+                "position": {
+                    "x": -253,
+                    "y": 27,
+                    "scale": 100
+                }
+            }
+        }
+    },
+    "10000089": {
+        "element": "Water",
+        "consts": [
+            {
+                "name": "UI_Talent_S_Furina_01.png",
+                "path": "image/character/Furina/consts/UI_Talent_S_Furina_01.png"
+            },
+            {
+                "name": "UI_Talent_S_Furina_04.png",
+                "path": "image/character/Furina/consts/UI_Talent_S_Furina_04.png"
+            },
+            {
+                "name": "UI_Talent_U_Furina_02.png",
+                "path": "image/character/Furina/consts/UI_Talent_U_Furina_02.png"
+            },
+            {
+                "name": "UI_Talent_S_Furina_03.png",
+                "path": "image/character/Furina/consts/UI_Talent_S_Furina_03.png"
+            },
+            {
+                "name": "UI_Talent_U_Furina_01.png",
+                "path": "image/character/Furina/consts/UI_Talent_U_Furina_01.png"
+            },
+            {
+                "name": "UI_Talent_S_Furina_02.png",
+                "path": "image/character/Furina/consts/UI_Talent_S_Furina_02.png"
+            }
+        ],
+        "skills": [
+            {
+                "name": "通常攻撃",
+                "icon": {
+                    "name": "Skill_A_01.png",
+                    "path": "image/character/Furina/skill/Skill_A_01.png"
+                },
+                "id": "10891",
+                "proud_id": "8931"
+            },
+            {
+                "name": "元素スキル",
+                "icon": {
+                    "name": "Skill_S_Furina_01.png",
+                    "path": "image/character/Furina/skill/Skill_S_Furina_01.png"
+                },
+                "id": "10892",
+                "proud_id": "8932"
+            },
+            {
+                "name": "元素爆発",
+                "icon": {
+                    "name": "Skill_E_Furina_01.png",
+                    "path": "image/character/Furina/skill/Skill_E_Furina_01.png"
+                },
+                "id": "10895",
+                "proud_id": "8939"
+            }
+        ],
+        "name": "フリーナ",
+        "english_name": "Furina",
+        "proud_map": {
+            "10891": "8931",
+            "10892": "8932",
+            "10895": "8939"
+        },
+        "quality": 4,
+        "costumes": {
+            "default": {
+                "side_icon": {
+                    "name": "UI_AvatarIcon_Side_Furina.png",
+                    "path": "image/character/Furina/avatar/default/UI_AvatarIcon_Side_Furina.png"
+                },
+                "avatar_icon": {
+                    "name": "UI_AvatarIcon_Furina.png",
+                    "path": "image/character/Furina/avatar/default/UI_AvatarIcon_Furina.png"
+                },
+                "gacha_icon": {
+                    "name": "UI_Gacha_AvatarImg_Furina.png",
+                    "path": "image/character/Furina/avatar/default/UI_Gacha_AvatarImg_Furina.png"
+                },
+                "position": {
+                    "x": -211,
+                    "y": -5,
+                    "scale": 100
+                }
+            }
+        }
+    },
     "10000005-501": {
         "element": "None",
         "consts": [
