@@ -1839,6 +1839,86 @@
         "set_name": "黄金の劇団",
         "equip_type": "EQUIP_SHOES"
     },
+    "UI_RelicIcon_15033_1": {
+        "icon": {
+            "name": "UI_RelicIcon_15033_1.png",
+            "path": "image/artifact/UI_RelicIcon_15033_1.png"
+        },
+        "set_name": "在りし日の歌",
+        "equip_type": "EQUIP_RING"
+    },
+    "UI_RelicIcon_15033_2": {
+        "icon": {
+            "name": "UI_RelicIcon_15033_2.png",
+            "path": "image/artifact/UI_RelicIcon_15033_2.png"
+        },
+        "set_name": "在りし日の歌",
+        "equip_type": "EQUIP_NECKLACE"
+    },
+    "UI_RelicIcon_15033_3": {
+        "icon": {
+            "name": "UI_RelicIcon_15033_3.png",
+            "path": "image/artifact/UI_RelicIcon_15033_3.png"
+        },
+        "set_name": "在りし日の歌",
+        "equip_type": "EQUIP_DRESS"
+    },
+    "UI_RelicIcon_15033_4": {
+        "icon": {
+            "name": "UI_RelicIcon_15033_4.png",
+            "path": "image/artifact/UI_RelicIcon_15033_4.png"
+        },
+        "set_name": "在りし日の歌",
+        "equip_type": "EQUIP_BRACER"
+    },
+    "UI_RelicIcon_15033_5": {
+        "icon": {
+            "name": "UI_RelicIcon_15033_5.png",
+            "path": "image/artifact/UI_RelicIcon_15033_5.png"
+        },
+        "set_name": "在りし日の歌",
+        "equip_type": "EQUIP_SHOES"
+    },
+    "UI_RelicIcon_15034_1": {
+        "icon": {
+            "name": "UI_RelicIcon_15034_1.png",
+            "path": "image/artifact/UI_RelicIcon_15034_1.png"
+        },
+        "set_name": "残響の森で囁かれる夜話",
+        "equip_type": "EQUIP_RING"
+    },
+    "UI_RelicIcon_15034_2": {
+        "icon": {
+            "name": "UI_RelicIcon_15034_2.png",
+            "path": "image/artifact/UI_RelicIcon_15034_2.png"
+        },
+        "set_name": "残響の森で囁かれる夜話",
+        "equip_type": "EQUIP_NECKLACE"
+    },
+    "UI_RelicIcon_15034_3": {
+        "icon": {
+            "name": "UI_RelicIcon_15034_3.png",
+            "path": "image/artifact/UI_RelicIcon_15034_3.png"
+        },
+        "set_name": "残響の森で囁かれる夜話",
+        "equip_type": "EQUIP_DRESS"
+    },
+    "UI_RelicIcon_15034_4": {
+        "icon": {
+            "name": "UI_RelicIcon_15034_4.png",
+            "path": "image/artifact/UI_RelicIcon_15034_4.png"
+        },
+        "set_name": "残響の森で囁かれる夜話",
+        "equip_type": "EQUIP_BRACER"
+    },
+    "UI_RelicIcon_15034_5": {
+        "icon": {
+            "name": "UI_RelicIcon_15034_5.png",
+            "path": "image/artifact/UI_RelicIcon_15034_5.png"
+        },
+        "set_name": "残響の森で囁かれる夜話",
+        "equip_type": "EQUIP_SHOES"
+    },
     "UI_RelicIcon_10000_2": {
         "icon": {
             "name": "UI_RelicIcon_10000_2.png",
