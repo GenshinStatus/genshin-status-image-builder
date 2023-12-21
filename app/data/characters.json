@@ -6877,6 +6877,180 @@
             }
         }
     },
+    "10000090": {
+        "element": "Fire",
+        "consts": [
+            {
+                "name": "UI_Talent_S_Chevreuse_01.png",
+                "path": "image/character/Chevreuse/consts/UI_Talent_S_Chevreuse_01.png"
+            },
+            {
+                "name": "UI_Talent_S_Chevreuse_02.png",
+                "path": "image/character/Chevreuse/consts/UI_Talent_S_Chevreuse_02.png"
+            },
+            {
+                "name": "UI_Talent_U_Chevreuse_01.png",
+                "path": "image/character/Chevreuse/consts/UI_Talent_U_Chevreuse_01.png"
+            },
+            {
+                "name": "UI_Talent_S_Chevreuse_03.png",
+                "path": "image/character/Chevreuse/consts/UI_Talent_S_Chevreuse_03.png"
+            },
+            {
+                "name": "UI_Talent_U_Chevreuse_02.png",
+                "path": "image/character/Chevreuse/consts/UI_Talent_U_Chevreuse_02.png"
+            },
+            {
+                "name": "UI_Talent_S_Chevreuse_04.png",
+                "path": "image/character/Chevreuse/consts/UI_Talent_S_Chevreuse_04.png"
+            }
+        ],
+        "skills": [
+            {
+                "name": "通常攻撃",
+                "icon": {
+                    "name": "Skill_A_03.png",
+                    "path": "image/character/Chevreuse/skill/Skill_A_03.png"
+                },
+                "id": "10901",
+                "proud_id": "9031"
+            },
+            {
+                "name": "元素スキル",
+                "icon": {
+                    "name": "Skill_S_Chevreuse_01.png",
+                    "path": "image/character/Chevreuse/skill/Skill_S_Chevreuse_01.png"
+                },
+                "id": "10902",
+                "proud_id": "9032"
+            },
+            {
+                "name": "元素爆発",
+                "icon": {
+                    "name": "Skill_E_Chevreuse_01.png",
+                    "path": "image/character/Chevreuse/skill/Skill_E_Chevreuse_01.png"
+                },
+                "id": "10905",
+                "proud_id": "9039"
+            }
+        ],
+        "name": "シュヴルーズ",
+        "english_name": "Chevreuse",
+        "proud_map": {
+            "10901": "9031",
+            "10902": "9032",
+            "10905": "9039"
+        },
+        "quality": 4,
+        "costumes": {
+            "default": {
+                "side_icon": {
+                    "name": "UI_AvatarIcon_Side_Chevreuse.png",
+                    "path": "image/character/Chevreuse/avatar/default/UI_AvatarIcon_Side_Chevreuse.png"
+                },
+                "avatar_icon": {
+                    "name": "UI_AvatarIcon_Chevreuse.png",
+                    "path": "image/character/Chevreuse/avatar/default/UI_AvatarIcon_Chevreuse.png"
+                },
+                "gacha_icon": {
+                    "name": "UI_Gacha_AvatarImg_Chevreuse.png",
+                    "path": "image/character/Chevreuse/avatar/default/UI_Gacha_AvatarImg_Chevreuse.png"
+                },
+                "position": {
+                    "x": -196,
+                    "y": 29,
+                    "scale": 100
+                }
+            }
+        }
+    },
+    "10000091": {
+        "element": "Rock",
+        "consts": [
+            {
+                "name": "UI_Talent_S_Navia_01.png",
+                "path": "image/character/Navia/consts/UI_Talent_S_Navia_01.png"
+            },
+            {
+                "name": "UI_Talent_S_Navia_02.png",
+                "path": "image/character/Navia/consts/UI_Talent_S_Navia_02.png"
+            },
+            {
+                "name": "UI_Talent_U_Navia_01.png",
+                "path": "image/character/Navia/consts/UI_Talent_U_Navia_01.png"
+            },
+            {
+                "name": "UI_Talent_S_Navia_03.png",
+                "path": "image/character/Navia/consts/UI_Talent_S_Navia_03.png"
+            },
+            {
+                "name": "UI_Talent_U_Navia_02.png",
+                "path": "image/character/Navia/consts/UI_Talent_U_Navia_02.png"
+            },
+            {
+                "name": "UI_Talent_S_Navia_04.png",
+                "path": "image/character/Navia/consts/UI_Talent_S_Navia_04.png"
+            }
+        ],
+        "skills": [
+            {
+                "name": "通常攻撃",
+                "icon": {
+                    "name": "Skill_A_04.png",
+                    "path": "image/character/Navia/skill/Skill_A_04.png"
+                },
+                "id": "10911",
+                "proud_id": "9131"
+            },
+            {
+                "name": "元素スキル",
+                "icon": {
+                    "name": "Skill_S_Navia_01.png",
+                    "path": "image/character/Navia/skill/Skill_S_Navia_01.png"
+                },
+                "id": "10912",
+                "proud_id": "9132"
+            },
+            {
+                "name": "元素爆発",
+                "icon": {
+                    "name": "Skill_E_Navia_01.png",
+                    "path": "image/character/Navia/skill/Skill_E_Navia_01.png"
+                },
+                "id": "10915",
+                "proud_id": "9139"
+            }
+        ],
+        "name": "ナヴィア",
+        "english_name": "Navia",
+        "proud_map": {
+            "10911": "9131",
+            "10912": "9132",
+            "10915": "9139"
+        },
+        "quality": 5,
+        "costumes": {
+            "default": {
+                "side_icon": {
+                    "name": "UI_AvatarIcon_Side_Navia.png",
+                    "path": "image/character/Navia/avatar/default/UI_AvatarIcon_Side_Navia.png"
+                },
+                "avatar_icon": {
+                    "name": "UI_AvatarIcon_Navia.png",
+                    "path": "image/character/Navia/avatar/default/UI_AvatarIcon_Navia.png"
+                },
+                "gacha_icon": {
+                    "name": "UI_Gacha_AvatarImg_Navia.png",
+                    "path": "image/character/Navia/avatar/default/UI_Gacha_AvatarImg_Navia.png"
+                },
+                "position": {
+                    "x": -196,
+                    "y": 29,
+                    "scale": 100
+                }
+            }
+        }
+    },
     "10000005-501": {
         "element": "None",
         "consts": [

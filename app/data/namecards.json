@@ -1072,5 +1072,23 @@
             "name": "UI_NameCardIcon_Bp28.png",
             "path": "image/namecard/.png"
         }
+    },
+    "210184": {
+        "icon": {
+            "name": "UI_NameCardPic_Navia_P.png",
+            "path": "image/namecard/.png"
+        }
+    },
+    "210185": {
+        "icon": {
+            "name": "UI_NameCardPic_Chevreuse_P.png",
+            "path": "image/namecard/.png"
+        }
+    },
+    "210186": {
+        "icon": {
+            "name": "UI_NameCardPic_Bp29_P.png",
+            "path": "image/namecard/.png"
+        }
     }
 }

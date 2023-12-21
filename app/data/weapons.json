@@ -1258,5 +1258,19 @@
             "path": "image/weapon/UI_EquipIcon_Sword_Regalis.png"
         },
         "name": "静水流転の輝き"
+    },
+    "UI_EquipIcon_Claymore_Champion": {
+        "icon": {
+            "name": "UI_EquipIcon_Claymore_Champion.png",
+            "path": "image/weapon/UI_EquipIcon_Claymore_Champion.png"
+        },
+        "name": "「スーパーアルティメット覇王魔剣」"
+    },
+    "UI_EquipIcon_Claymore_GoldenVerdict": {
+        "icon": {
+            "name": "UI_EquipIcon_Claymore_GoldenVerdict.png",
+            "path": "image/weapon/UI_EquipIcon_Claymore_GoldenVerdict.png"
+        },
+        "name": "裁断"
     }
 }
