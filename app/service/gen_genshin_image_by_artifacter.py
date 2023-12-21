@@ -520,12 +520,20 @@ def __create_weapon(weapon: status_model.Weapon) -> Image.Image:
         __gen_weapon_reality(weapon=weapon)
     )
     # 武器名の合成
-    img.draw_text_with_max_width(
-        text=weapon.util.name,
-        max_width=400,
-        position=(1582, 47),
-        font_size=24,
-    )
+    if len(weapon.util.name) < 10:
+        img.draw_text_with_max_width(
+            text=weapon.util.name,
+            max_width=400,
+            position=(1582, 47),
+            font_size=24,
+        )
+    else:
+        img.draw_text_with_max_width(
+            text=weapon.util.name,
+            max_width=400,
+            position=(1582, 47),
+            font_size=24 - len(weapon.util.name) + 11,
+        )
     # 武器のステータスの合成
     img.draw_text(
         text=f'基礎攻撃力  {weapon.main_value}',
@@ -795,19 +803,19 @@ def __create_artifact_set(character: status_model.Character) -> Image.Image:
             img.draw_text(
                 text=text[0]+'(2)'+'、'+text[1]+'(2)', 
                 position=(1530, 263),
-                font_size=20,
+                font_size=20 - len(text[0]+'(2)'+'、'+text[1]+'(2)') + 18,
                 font_color=Colors.GENSHIN_GREEN)
         except IndexError:
             img.draw_text(
                 text=text[0]+'(2)', 
                 position=(1530, 260),
-                font_size=28,
+                font_size=28 - len(text[0]+'(2)') + 9,
                 font_color=Colors.GENSHIN_GREEN)
     elif 4 <= max(counts) <= 5:
         img.draw_text(
             text=''.join([k for k, v in count_dict.items() if v >= 4])+'(4)', 
             position=(1530, 260),
-            font_size=28,
+            font_size=28 - len(''.join([k for k, v in count_dict.items() if v >= 4])+'(4)') + 9,
             font_color=Colors.GENSHIN_GREEN)
     
     return img.get_image()
