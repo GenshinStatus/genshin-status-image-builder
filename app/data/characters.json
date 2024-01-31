@@ -1348,6 +1348,25 @@
         },
         "quality": 4,
         "costumes": {
+            "202501": {
+                "side_icon": {
+                    "name": "UI_AvatarIcon_Side_XingqiuCostumeBamboo.png",
+                    "path": "image/character/Xingqiu/avatar/202501/UI_AvatarIcon_Side_XingqiuCostumeBamboo.png"
+                },
+                "avatar_icon": {
+                    "name": "UI_AvatarIcon_XingqiuCostumeBamboo.png",
+                    "path": "image/character/Xingqiu/avatar/202501/avatar/202501/UI_AvatarIcon_XingqiuCostumeBamboo.png"
+                },
+                "gacha_icon": {
+                    "name": "UI_Costume_XingqiuCostumeBamboo.png",
+                    "path": "image/character/Xingqiu/avatar/202501/avatar/202501/UI_Costume_XingqiuCostumeBamboo.png"
+                },
+                "position": {
+                    "x": -257,
+                    "y": 60,
+                    "scale": 100
+                }
+            },
             "default": {
                 "side_icon": {
                     "name": "UI_AvatarIcon_Side_Xingqiu.png",
@@ -2362,6 +2381,25 @@
         },
         "quality": 5,
         "costumes": {
+            "203701": {
+                "side_icon": {
+                    "name": "UI_AvatarIcon_Side_GanyuCostumeYu.png",
+                    "path": "image/character/Ganyu/avatar/203701/UI_AvatarIcon_Side_GanyuCostumeYu.png"
+                },
+                "avatar_icon": {
+                    "name": "UI_AvatarIcon_GanyuCostumeYu.png",
+                    "path": "image/character/Ganyu/avatar/203701/avatar/203701/UI_AvatarIcon_GanyuCostumeYu.png"
+                },
+                "gacha_icon": {
+                    "name": "UI_Costume_GanyuCostumeYu.png",
+                    "path": "image/character/Ganyu/avatar/203701/avatar/203701/UI_Costume_GanyuCostumeYu.png"
+                },
+                "position": {
+                    "x": -257,
+                    "y": 60,
+                    "scale": 100
+                }
+            },
             "default": {
                 "side_icon": {
                     "name": "UI_AvatarIcon_Side_Ganyu.png",
@@ -4594,6 +4632,25 @@
         },
         "quality": 5,
         "costumes": {
+            "206301": {
+                "side_icon": {
+                    "name": "UI_AvatarIcon_Side_ShenheCostumeDai.png",
+                    "path": "image/character/Shenhe/avatar/206301/UI_AvatarIcon_Side_ShenheCostumeDai.png"
+                },
+                "avatar_icon": {
+                    "name": "UI_AvatarIcon_ShenheCostumeDai.png",
+                    "path": "image/character/Shenhe/avatar/206301/avatar/206301/UI_AvatarIcon_ShenheCostumeDai.png"
+                },
+                "gacha_icon": {
+                    "name": "UI_Costume_ShenheCostumeDai.png",
+                    "path": "image/character/Shenhe/avatar/206301/avatar/206301/UI_Costume_ShenheCostumeDai.png"
+                },
+                "position": {
+                    "x": -257,
+                    "y": 60,
+                    "scale": 100
+                }
+            },
             "default": {
                 "side_icon": {
                     "name": "UI_AvatarIcon_Side_Shenhe.png",
@@ -7046,6 +7103,180 @@
                 "position": {
                     "x": -196,
                     "y": 29,
+                    "scale": 100
+                }
+            }
+        }
+    },
+    "10000092": {
+        "element": "Fire",
+        "consts": [
+            {
+                "name": "UI_Talent_S_Gaming_01.png",
+                "path": "image/character/Gaming/consts/UI_Talent_S_Gaming_01.png"
+            },
+            {
+                "name": "UI_Talent_S_Gaming_02.png",
+                "path": "image/character/Gaming/consts/UI_Talent_S_Gaming_02.png"
+            },
+            {
+                "name": "UI_Talent_U_Gaming_01.png",
+                "path": "image/character/Gaming/consts/UI_Talent_U_Gaming_01.png"
+            },
+            {
+                "name": "UI_Talent_S_Gaming_03.png",
+                "path": "image/character/Gaming/consts/UI_Talent_S_Gaming_03.png"
+            },
+            {
+                "name": "UI_Talent_U_Gaming_02.png",
+                "path": "image/character/Gaming/consts/UI_Talent_U_Gaming_02.png"
+            },
+            {
+                "name": "UI_Talent_S_Gaming_04.png",
+                "path": "image/character/Gaming/consts/UI_Talent_S_Gaming_04.png"
+            }
+        ],
+        "skills": [
+            {
+                "name": "通常攻撃",
+                "icon": {
+                    "name": "Skill_A_04.png",
+                    "path": "image/character/Gaming/skill/Skill_A_04.png"
+                },
+                "id": "10921",
+                "proud_id": "9231"
+            },
+            {
+                "name": "元素スキル",
+                "icon": {
+                    "name": "Skill_S_Gaming_01.png",
+                    "path": "image/character/Gaming/skill/Skill_S_Gaming_01.png"
+                },
+                "id": "10922",
+                "proud_id": "9232"
+            },
+            {
+                "name": "元素爆発",
+                "icon": {
+                    "name": "Skill_E_Gaming_01.png",
+                    "path": "image/character/Gaming/skill/Skill_E_Gaming_01.png"
+                },
+                "id": "10925",
+                "proud_id": "9239"
+            }
+        ],
+        "name": "嘉明",
+        "english_name": "Gaming",
+        "proud_map": {
+            "10921": "9231",
+            "10922": "9232",
+            "10925": "9239"
+        },
+        "quality": 4,
+        "costumes": {
+            "default": {
+                "side_icon": {
+                    "name": "UI_AvatarIcon_Side_Gaming.png",
+                    "path": "image/character/Gaming/avatar/default/UI_AvatarIcon_Side_Gaming.png"
+                },
+                "avatar_icon": {
+                    "name": "UI_AvatarIcon_Gaming.png",
+                    "path": "image/character/Gaming/avatar/default/UI_AvatarIcon_Gaming.png"
+                },
+                "gacha_icon": {
+                    "name": "UI_Gacha_AvatarImg_Gaming.png",
+                    "path": "image/character/Gaming/avatar/default/UI_Gacha_AvatarImg_Gaming.png"
+                },
+                "position": {
+                    "x": -259,
+                    "y": 60,
+                    "scale": 100
+                }
+            }
+        }
+    },
+    "10000093": {
+        "element": "Wind",
+        "consts": [
+            {
+                "name": "UI_Talent_S_Liuyun_01.png",
+                "path": "image/character/Liuyun/consts/UI_Talent_S_Liuyun_01.png"
+            },
+            {
+                "name": "UI_Talent_S_Liuyun_02.png",
+                "path": "image/character/Liuyun/consts/UI_Talent_S_Liuyun_02.png"
+            },
+            {
+                "name": "UI_Talent_U_Liuyun_01.png",
+                "path": "image/character/Liuyun/consts/UI_Talent_U_Liuyun_01.png"
+            },
+            {
+                "name": "UI_Talent_S_Liuyun_03.png",
+                "path": "image/character/Liuyun/consts/UI_Talent_S_Liuyun_03.png"
+            },
+            {
+                "name": "UI_Talent_U_Liuyun_02.png",
+                "path": "image/character/Liuyun/consts/UI_Talent_U_Liuyun_02.png"
+            },
+            {
+                "name": "UI_Talent_S_Liuyun_04.png",
+                "path": "image/character/Liuyun/consts/UI_Talent_S_Liuyun_04.png"
+            }
+        ],
+        "skills": [
+            {
+                "name": "通常攻撃",
+                "icon": {
+                    "name": "Skill_A_Catalyst_MD.png",
+                    "path": "image/character/Liuyun/skill/Skill_A_Catalyst_MD.png"
+                },
+                "id": "10931",
+                "proud_id": "9331"
+            },
+            {
+                "name": "元素スキル",
+                "icon": {
+                    "name": "Skill_S_Liuyun_01.png",
+                    "path": "image/character/Liuyun/skill/Skill_S_Liuyun_01.png"
+                },
+                "id": "10932",
+                "proud_id": "9332"
+            },
+            {
+                "name": "元素爆発",
+                "icon": {
+                    "name": "Skill_E_Liuyun_01.png",
+                    "path": "image/character/Liuyun/skill/Skill_E_Liuyun_01.png"
+                },
+                "id": "10935",
+                "proud_id": "9339"
+            }
+        ],
+        "name": "閑雲",
+        "english_name": "Liuyun",
+        "proud_map": {
+            "10931": "9331",
+            "10932": "9332",
+            "10935": "9339"
+        },
+        "quality": 5,
+        "costumes": {
+            "default": {
+                "side_icon": {
+                    "name": "UI_AvatarIcon_Side_Liuyun.png",
+                    "path": "image/character/Liuyun/avatar/default/UI_AvatarIcon_Side_Liuyun.png"
+                },
+                "avatar_icon": {
+                    "name": "UI_AvatarIcon_Liuyun.png",
+                    "path": "image/character/Liuyun/avatar/default/UI_AvatarIcon_Liuyun.png"
+                },
+                "gacha_icon": {
+                    "name": "UI_Gacha_AvatarImg_Liuyun.png",
+                    "path": "image/character/Liuyun/avatar/default/UI_Gacha_AvatarImg_Liuyun.png"
+                },
+                "position": {
+                    "x": -257,
+                    "y": 60,
                     "scale": 100
                 }
             }
