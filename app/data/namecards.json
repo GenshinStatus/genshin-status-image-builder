@@ -1090,5 +1090,23 @@
             "name": "UI_NameCardPic_Bp29_P.png",
             "path": "image/namecard/.png"
         }
+    },
+    "210187": {
+        "icon": {
+            "name": "UI_NameCardPic_Liuyun_P.png",
+            "path": "image/namecard/.png"
+        }
+    },
+    "210188": {
+        "icon": {
+            "name": "UI_NameCardPic_Gaming_P.png",
+            "path": "image/namecard/.png"
+        }
+    },
+    "210189": {
+        "icon": {
+            "name": "UI_NameCardPic_Bp30_P.png",
+            "path": "image/namecard/.png"
+        }
     }
 }

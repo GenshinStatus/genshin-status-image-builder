@@ -174,12 +174,61 @@
         },
         "name": "サイフォスの月明かり"
     },
+    "UI_EquipIcon_Sword_YoutouEnchanted": {
+        "icon": {
+            "name": "UI_EquipIcon_Sword_YoutouEnchanted.png",
+            "path": "image/weapon/UI_EquipIcon_Sword_YoutouEnchanted.png"
+        },
+        "name": "「一心伝」名刀"
+    },
+    "UI_EquipIcon_Sword_YoutouShattered": {
+        "icon": {
+            "name": "UI_EquipIcon_Sword_YoutouShattered.png",
+            "path": "image/weapon/UI_EquipIcon_Sword_YoutouShattered.png"
+        },
+        "name": "「一心伝」名刀"
+    },
     "UI_EquipIcon_Sword_Kasabouzu": {
         "icon": {
             "name": "UI_EquipIcon_Sword_Kasabouzu.png",
             "path": "image/weapon/UI_EquipIcon_Sword_Kasabouzu.png"
         },
         "name": "東花坊時雨"
+    },
+    "UI_EquipIcon_Sword_Boreas": {
+        "icon": {
+            "name": "UI_EquipIcon_Sword_Boreas.png",
+            "path": "image/weapon/UI_EquipIcon_Sword_Boreas.png"
+        },
+        "name": "狼牙"
+    },
+    "UI_EquipIcon_Sword_Vorpal": {
+        "icon": {
+            "name": "UI_EquipIcon_Sword_Vorpal.png",
+            "path": "image/weapon/UI_EquipIcon_Sword_Vorpal.png"
+        },
+        "name": "海淵のフィナーレ"
+    },
+    "UI_EquipIcon_Sword_Machination": {
+        "icon": {
+            "name": "UI_EquipIcon_Sword_Machination.png",
+            "path": "image/weapon/UI_EquipIcon_Sword_Machination.png"
+        },
+        "name": "サーンドルの渡し守"
+    },
+    "UI_EquipIcon_Sword_Mechanic": {
+        "icon": {
+            "name": "UI_EquipIcon_Sword_Mechanic.png",
+            "path": "image/weapon/UI_EquipIcon_Sword_Mechanic.png"
+        },
+        "name": "船渠剣"
+    },
+    "UI_EquipIcon_Sword_Purewill": {
+        "icon": {
+            "name": "UI_EquipIcon_Sword_Purewill.png",
+            "path": "image/weapon/UI_EquipIcon_Sword_Purewill.png"
+        },
+        "name": "水仙十字の剣"
     },
     "UI_EquipIcon_Sword_Falcon": {
         "icon": {
@@ -243,6 +292,13 @@
             "path": "image/weapon/UI_EquipIcon_Sword_Ayus.png"
         },
         "name": "萃光の裁葉"
+    },
+    "UI_EquipIcon_Sword_Regalis": {
+        "icon": {
+            "name": "UI_EquipIcon_Sword_Regalis.png",
+            "path": "image/weapon/UI_EquipIcon_Sword_Regalis.png"
+        },
+        "name": "静水流転の輝き"
     },
     "UI_EquipIcon_Claymore_Aniki": {
         "icon": {
@@ -419,6 +475,34 @@
         },
         "name": "鉄彩の花"
     },
+    "UI_EquipIcon_Claymore_BeastTamer": {
+        "icon": {
+            "name": "UI_EquipIcon_Claymore_BeastTamer.png",
+            "path": "image/weapon/UI_EquipIcon_Claymore_BeastTamer.png"
+        },
+        "name": "話死合い棒"
+    },
+    "UI_EquipIcon_Claymore_Vorpal": {
+        "icon": {
+            "name": "UI_EquipIcon_Claymore_Vorpal.png",
+            "path": "image/weapon/UI_EquipIcon_Claymore_Vorpal.png"
+        },
+        "name": "タイダル·シャドー"
+    },
+    "UI_EquipIcon_Claymore_Champion": {
+        "icon": {
+            "name": "UI_EquipIcon_Claymore_Champion.png",
+            "path": "image/weapon/UI_EquipIcon_Claymore_Champion.png"
+        },
+        "name": "「スーパーアルティメット覇王魔剣」"
+    },
+    "UI_EquipIcon_Claymore_Mechanic": {
+        "icon": {
+            "name": "UI_EquipIcon_Claymore_Mechanic.png",
+            "path": "image/weapon/UI_EquipIcon_Claymore_Mechanic.png"
+        },
+        "name": "携帯型チェーンソー"
+    },
     "UI_EquipIcon_Claymore_Dvalin": {
         "icon": {
             "name": "UI_EquipIcon_Claymore_Dvalin.png",
@@ -460,6 +544,13 @@
             "path": "image/weapon/UI_EquipIcon_Claymore_Deshret.png"
         },
         "name": "葦海の標"
+    },
+    "UI_EquipIcon_Claymore_GoldenVerdict": {
+        "icon": {
+            "name": "UI_EquipIcon_Claymore_GoldenVerdict.png",
+            "path": "image/weapon/UI_EquipIcon_Claymore_GoldenVerdict.png"
+        },
+        "name": "裁断"
     },
     "UI_EquipIcon_Pole_Gewalt": {
         "icon": {
@@ -600,6 +691,27 @@
             "path": "image/weapon/UI_EquipIcon_Pole_Windvane.png"
         },
         "name": "風信の矛"
+    },
+    "UI_EquipIcon_Pole_Shanty": {
+        "icon": {
+            "name": "UI_EquipIcon_Pole_Shanty.png",
+            "path": "image/weapon/UI_EquipIcon_Pole_Shanty.png"
+        },
+        "name": "フィヨルドの歌"
+    },
+    "UI_EquipIcon_Pole_Vorpal": {
+        "icon": {
+            "name": "UI_EquipIcon_Pole_Vorpal.png",
+            "path": "image/weapon/UI_EquipIcon_Pole_Vorpal.png"
+        },
+        "name": "正義の報酬"
+    },
+    "UI_EquipIcon_Pole_Mechanic": {
+        "icon": {
+            "name": "UI_EquipIcon_Pole_Mechanic.png",
+            "path": "image/weapon/UI_EquipIcon_Pole_Mechanic.png"
+        },
+        "name": "プロスペクタードリル"
     },
     "UI_EquipIcon_Pole_Homa": {
         "icon": {
@@ -818,6 +930,27 @@
         },
         "name": "満悦の実"
     },
+    "UI_EquipIcon_Catalyst_Yue": {
+        "icon": {
+            "name": "UI_EquipIcon_Catalyst_Yue.png",
+            "path": "image/weapon/UI_EquipIcon_Catalyst_Yue.png"
+        },
+        "name": "古祠の瓏"
+    },
+    "UI_EquipIcon_Catalyst_Vorpal": {
+        "icon": {
+            "name": "UI_EquipIcon_Catalyst_Vorpal.png",
+            "path": "image/weapon/UI_EquipIcon_Catalyst_Vorpal.png"
+        },
+        "name": "純水流華"
+    },
+    "UI_EquipIcon_Catalyst_DandelionPoem": {
+        "icon": {
+            "name": "UI_EquipIcon_Catalyst_DandelionPoem.png",
+            "path": "image/weapon/UI_EquipIcon_Catalyst_DandelionPoem.png"
+        },
+        "name": "果てなき紺碧の唄"
+    },
     "UI_EquipIcon_Catalyst_Dvalin": {
         "icon": {
             "name": "UI_EquipIcon_Catalyst_Dvalin.png",
@@ -873,6 +1006,27 @@
             "path": "image/weapon/UI_EquipIcon_Catalyst_Alaya.png"
         },
         "name": "トゥライトゥーラの記憶"
+    },
+    "UI_EquipIcon_Catalyst_Wheatley": {
+        "icon": {
+            "name": "UI_EquipIcon_Catalyst_Wheatley.png",
+            "path": "image/weapon/UI_EquipIcon_Catalyst_Wheatley.png"
+        },
+        "name": "凛流の監視者"
+    },
+    "UI_EquipIcon_Catalyst_Iudex": {
+        "icon": {
+            "name": "UI_EquipIcon_Catalyst_Iudex.png",
+            "path": "image/weapon/UI_EquipIcon_Catalyst_Iudex.png"
+        },
+        "name": "久遠流転の大典"
+    },
+    "UI_EquipIcon_Catalyst_MountainGale": {
+        "icon": {
+            "name": "UI_EquipIcon_Catalyst_MountainGale.png",
+            "path": "image/weapon/UI_EquipIcon_Catalyst_MountainGale.png"
+        },
+        "name": "鶴鳴の余韻"
     },
     "UI_EquipIcon_Bow_Hunters": {
         "icon": {
@@ -1063,6 +1217,27 @@
         },
         "name": "トキの嘴"
     },
+    "UI_EquipIcon_Bow_Gurabad": {
+        "icon": {
+            "name": "UI_EquipIcon_Bow_Gurabad.png",
+            "path": "image/weapon/UI_EquipIcon_Bow_Gurabad.png"
+        },
+        "name": "烈日の後嗣"
+    },
+    "UI_EquipIcon_Bow_Vorpal": {
+        "icon": {
+            "name": "UI_EquipIcon_Bow_Vorpal.png",
+            "path": "image/weapon/UI_EquipIcon_Bow_Vorpal.png"
+        },
+        "name": "静寂の唄"
+    },
+    "UI_EquipIcon_Bow_Mechanic": {
+        "icon": {
+            "name": "UI_EquipIcon_Bow_Mechanic.png",
+            "path": "image/weapon/UI_EquipIcon_Bow_Mechanic.png"
+        },
+        "name": "レンジゲージ"
+    },
     "UI_EquipIcon_Bow_Dvalin": {
         "icon": {
             "name": "UI_EquipIcon_Bow_Dvalin.png",
@@ -1112,165 +1287,11 @@
         },
         "name": "狩人の道"
     },
-    "UI_EquipIcon_Sword_Boreas": {
-        "icon": {
-            "name": "UI_EquipIcon_Sword_Boreas.png",
-            "path": "image/weapon/UI_EquipIcon_Sword_Boreas.png"
-        },
-        "name": "狼牙"
-    },
-    "UI_EquipIcon_Sword_Vorpal": {
-        "icon": {
-            "name": "UI_EquipIcon_Sword_Vorpal.png",
-            "path": "image/weapon/UI_EquipIcon_Sword_Vorpal.png"
-        },
-        "name": "海淵のフィナーレ"
-    },
-    "UI_EquipIcon_Sword_Machination": {
-        "icon": {
-            "name": "UI_EquipIcon_Sword_Machination.png",
-            "path": "image/weapon/UI_EquipIcon_Sword_Machination.png"
-        },
-        "name": "サーンドルの渡し守"
-    },
-    "UI_EquipIcon_Claymore_BeastTamer": {
-        "icon": {
-            "name": "UI_EquipIcon_Claymore_BeastTamer.png",
-            "path": "image/weapon/UI_EquipIcon_Claymore_BeastTamer.png"
-        },
-        "name": "話死合い棒"
-    },
-    "UI_EquipIcon_Claymore_Vorpal": {
-        "icon": {
-            "name": "UI_EquipIcon_Claymore_Vorpal.png",
-            "path": "image/weapon/UI_EquipIcon_Claymore_Vorpal.png"
-        },
-        "name": "タイダルシャドー"
-    },
-    "UI_EquipIcon_Pole_Shanty": {
-        "icon": {
-            "name": "UI_EquipIcon_Pole_Shanty.png",
-            "path": "image/weapon/UI_EquipIcon_Pole_Shanty.png"
-        },
-        "name": "フィヨルドの歌"
-    },
-    "UI_EquipIcon_Pole_Vorpal": {
-        "icon": {
-            "name": "UI_EquipIcon_Pole_Vorpal.png",
-            "path": "image/weapon/UI_EquipIcon_Pole_Vorpal.png"
-        },
-        "name": "正義の報酬"
-    },
-    "UI_EquipIcon_Catalyst_Yue": {
-        "icon": {
-            "name": "UI_EquipIcon_Catalyst_Yue.png",
-            "path": "image/weapon/UI_EquipIcon_Catalyst_Yue.png"
-        },
-        "name": "古祠の瓏"
-    },
-    "UI_EquipIcon_Catalyst_Vorpal": {
-        "icon": {
-            "name": "UI_EquipIcon_Catalyst_Vorpal.png",
-            "path": "image/weapon/UI_EquipIcon_Catalyst_Vorpal.png"
-        },
-        "name": "純水流華"
-    },
-    "UI_EquipIcon_Bow_Gurabad": {
-        "icon": {
-            "name": "UI_EquipIcon_Bow_Gurabad.png",
-            "path": "image/weapon/UI_EquipIcon_Bow_Gurabad.png"
-        },
-        "name": "烈日の後嗣"
-    },
-    "UI_EquipIcon_Bow_Vorpal": {
-        "icon": {
-            "name": "UI_EquipIcon_Bow_Vorpal.png",
-            "path": "image/weapon/UI_EquipIcon_Bow_Vorpal.png"
-        },
-        "name": "静寂の唄"
-    },
     "UI_EquipIcon_Bow_Pledge": {
         "icon": {
             "name": "UI_EquipIcon_Bow_Pledge.png",
             "path": "image/weapon/UI_EquipIcon_Bow_Pledge.png"
         },
         "name": "始まりの大魔術"
-    },
-    "UI_EquipIcon_Sword_Mechanic": {
-        "icon": {
-            "name": "UI_EquipIcon_Sword_Mechanic.png",
-            "path": "image/weapon/UI_EquipIcon_Sword_Mechanic.png"
-        },
-        "name": "船渠剣"
-    },
-    "UI_EquipIcon_Claymore_Mechanic": {
-        "icon": {
-            "name": "UI_EquipIcon_Claymore_Mechanic.png",
-            "path": "image/weapon/UI_EquipIcon_Claymore_Mechanic.png"
-        },
-        "name": "携帯型チェーンソー"
-    },
-    "UI_EquipIcon_Pole_Mechanic": {
-        "icon": {
-            "name": "UI_EquipIcon_Pole_Mechanic.png",
-            "path": "image/weapon/UI_EquipIcon_Pole_Mechanic.png"
-        },
-        "name": "プロスペクタードリル"
-    },
-    "UI_EquipIcon_Bow_Mechanic": {
-        "icon": {
-            "name": "UI_EquipIcon_Bow_Mechanic.png",
-            "path": "image/weapon/UI_EquipIcon_Bow_Mechanic.png"
-        },
-        "name": "レンジゲージ"
-    },
-    "UI_EquipIcon_Catalyst_DandelionPoem": {
-        "icon": {
-            "name": "UI_EquipIcon_Catalyst_DandelionPoem.png",
-            "path": "image/weapon/UI_EquipIcon_Catalyst_DandelionPoem.png"
-        },
-        "name": "果てなき紺碧の唄"
-    },
-    "UI_EquipIcon_Catalyst_Wheatley": {
-        "icon": {
-            "name": "UI_EquipIcon_Catalyst_Wheatley.png",
-            "path": "image/weapon/UI_EquipIcon_Catalyst_Wheatley.png"
-        },
-        "name": "凛流の監視者"
-    },
-    "UI_EquipIcon_Catalyst_Iudex": {
-        "icon": {
-            "name": "UI_EquipIcon_Catalyst_Iudex.png",
-            "path": "image/weapon/UI_EquipIcon_Catalyst_Iudex.png"
-        },
-        "name": "久遠流転の大典"
-    },
-    "UI_EquipIcon_Sword_Purewill": {
-        "icon": {
-            "name": "UI_EquipIcon_Sword_Purewill.png",
-            "path": "image/weapon/UI_EquipIcon_Sword_Purewill.png"
-        },
-        "name": "水仙十字の剣"
-    },
-    "UI_EquipIcon_Sword_Regalis": {
-        "icon": {
-            "name": "UI_EquipIcon_Sword_Regalis.png",
-            "path": "image/weapon/UI_EquipIcon_Sword_Regalis.png"
-        },
-        "name": "静水流転の輝き"
-    },
-    "UI_EquipIcon_Claymore_Champion": {
-        "icon": {
-            "name": "UI_EquipIcon_Claymore_Champion.png",
-            "path": "image/weapon/UI_EquipIcon_Claymore_Champion.png"
-        },
-        "name": "「スーパーアルティメット覇王魔剣」"
-    },
-    "UI_EquipIcon_Claymore_GoldenVerdict": {
-        "icon": {
-            "name": "UI_EquipIcon_Claymore_GoldenVerdict.png",
-            "path": "image/weapon/UI_EquipIcon_Claymore_GoldenVerdict.png"
-        },
-        "name": "裁断"
     }
 }
