@@ -51,3 +51,8 @@ class JpCharacterModel(BaseModel):
     proud_map: dict[str, str]
     quality: int
     costumes: dict[str, Costume]
+
+class Pfps(BaseModel):
+    icon: str
+    characterId: str
+    costumeId: str

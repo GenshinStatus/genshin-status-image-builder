@@ -1,4 +1,4 @@
-from model.util_model import Artifact, JpCharacterModel,  NameCard,  Weapon, Position
+from model.util_model import Artifact, JpCharacterModel,  NameCard,  Weapon, Position, Pfps
 from lib.json_lib import load_json
 from pydantic import BaseModel
 import asyncio
@@ -10,7 +10,7 @@ NAMECARD_DATA_DICT: dict[str, NameCard]
 WEAPON_DATA_DICT: dict[str, Weapon]
 STATUS_NAMEHASH_DICT: dict[str, str]
 NAMEHASH_DICT: dict[str, str]
-
+PFPS_DICT: dict[str, Pfps]
 
 def base(file_name: str, model: BaseModel) -> dict[str, BaseModel]:
     data = load_json(f"data/{file_name}")
@@ -56,6 +56,9 @@ def update_namehash_model_dict():
     names.update(STATUS_NAMEHASH_DICT)
     NAMEHASH_DICT = names
 
+def update_pfps_model_dict():
+    global PFPS_DICT
+    PFPS_DICT = base("pfps.json", Pfps)
 
 def static_init():
     update_artfact_model_dict()
@@ -64,6 +67,7 @@ def static_init():
     update_weapon_model_dict()
     update_status_namehash_model_dict()
     update_namehash_model_dict()
+    update_pfps_model_dict()
 
 
 static_init()
