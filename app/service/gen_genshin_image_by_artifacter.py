@@ -50,7 +50,7 @@ def __create_background(character: status_model.Character):
         ASSETS.artifacter.background[character.util.element]).get_image()
     chara_img = GImage(character.costume.gacha_icon.path).get_image()
     shadow = Image.open(ASSETS.artifacter.shadow).resize(bg.size)
-    chara_img = chara_img.crop((289, 0, 1728, 1024))
+    chara_img = chara_img.crop(((chara_img.width - 1439) // 2, (chara_img.height - 1024) // 2, (chara_img.width + 1439) // 2, (chara_img.height + 1024) // 2))
     chara_img = chara_img.resize(
         (
             int(chara_img.width*0.75),
@@ -69,7 +69,8 @@ def __create_background(character: status_model.Character):
 
     chara_paste = Image.new("RGBA", BASE_SIZE, (255, 255, 255, 0))
 
-    chara_paste.paste(chara_img, (-160, -45), mask=chara_mask)
+    chara_paste.paste(chara_img, (-160+1024-490-chara_img.width//2, -45+512-130-chara_img.height//2), mask=chara_mask)
+    #2048だったときに中央
     bg = Image.alpha_composite(bg, chara_paste)
     bg = Image.alpha_composite(bg, shadow)
 
