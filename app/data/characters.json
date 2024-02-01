@@ -2395,7 +2395,7 @@
                     "path": "image/character/Ganyu/avatar/203701/avatar/203701/UI_Costume_GanyuCostumeYu.png"
                 },
                 "position": {
-                    "x": -257,
+                    "x": -217,
                     "y": 60,
                     "scale": 100
                 }
@@ -4646,7 +4646,7 @@
                     "path": "image/character/Shenhe/avatar/206301/avatar/206301/UI_Costume_ShenheCostumeDai.png"
                 },
                 "position": {
-                    "x": -257,
+                    "x": -207,
                     "y": 60,
                     "scale": 100
                 }
