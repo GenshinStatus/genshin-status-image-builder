@@ -1105,7 +1105,25 @@
     },
     "210189": {
         "icon": {
+            "name": "UI_NameCardPic_Chenyu1_P.png",
+            "path": "image/namecard/.png"
+        }
+    },
+    "210190": {
+        "icon": {
+            "name": "UI_NameCardPic_OfferingSilong_P.png",
+            "path": "image/namecard/.png"
+        }
+    },
+    "210191": {
+        "icon": {
             "name": "UI_NameCardPic_Bp30_P.png",
+            "path": "image/namecard/.png"
+        }
+    },
+    "210192": {
+        "icon": {
+            "name": "UI_NameCardPic_OST4_P.png",
             "path": "image/namecard/.png"
         }
     }

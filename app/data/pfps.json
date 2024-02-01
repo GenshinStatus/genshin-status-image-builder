@@ -1,0 +1,492 @@
+{
+    "1": {
+        "icon": "UI_AvatarIcon_PlayerBoy_Circle",
+        "characterId": "10000005",
+        "costumeId": "default"
+    },
+    "2": {
+        "icon": "UI_AvatarIcon_PlayerGirl_Circle",
+        "characterId": "10000007",
+        "costumeId": "default"
+    },
+    "100": {
+        "icon": "UI_AvatarIcon_Ambor_Circle",
+        "characterId": "10000021",
+        "costumeId": "default"
+    },
+    "101": {
+        "icon": "UI_AvatarIcon_AmborCostumeWic_Circle",
+        "characterId": "10000021",
+        "costumeId": "202101"
+    },
+    "200": {
+        "icon": "UI_AvatarIcon_Kaeya_Circle",
+        "characterId": "10000015",
+        "costumeId": "default"
+    },
+    "201": {
+        "icon": "UI_AvatarIcon_KaeyaCostumeDancer_Circle",
+        "characterId": "10000015",
+        "costumeId": "201501"
+    },
+    "300": {
+        "icon": "UI_AvatarIcon_Lisa_Circle",
+        "characterId": "10000006",
+        "costumeId": "default"
+    },
+    "301": {
+        "icon": "UI_AvatarIcon_LisaCostumeStudentin_Circle",
+        "characterId": "10000006",
+        "costumeId": "200601"
+    },
+    "400": {
+        "icon": "UI_AvatarIcon_Barbara_Circle",
+        "characterId": "10000014",
+        "costumeId": "default"
+    },
+    "401": {
+        "icon": "UI_AvatarIcon_BarbaraCostumeSummertime_Circle",
+        "characterId": "10000014",
+        "costumeId": "201401"
+    },
+    "500": {
+        "icon": "UI_AvatarIcon_Razor_Circle",
+        "characterId": "10000020",
+        "costumeId": "default"
+    },
+    "600": {
+        "icon": "UI_AvatarIcon_Xiangling_Circle",
+        "characterId": "10000023",
+        "costumeId": "default"
+    },
+    "700": {
+        "icon": "UI_AvatarIcon_Beidou_Circle",
+        "characterId": "10000024",
+        "costumeId": "default"
+    },
+    "800": {
+        "icon": "UI_AvatarIcon_Xingqiu_Circle",
+        "characterId": "10000025",
+        "costumeId": "default"
+    },
+    "801": {
+        "icon": "UI_AvatarIcon_XingqiuCostumeBamboo_Circle",
+        "characterId": "10000025",
+        "costumeId": "202501"
+    },
+    "900": {
+        "icon": "UI_AvatarIcon_Ningguang_Circle",
+        "characterId": "10000027",
+        "costumeId": "default"
+    },
+    "901": {
+        "icon": "UI_AvatarIcon_NingguangCostumeFloral_Circle",
+        "characterId": "10000027",
+        "costumeId": "202701"
+    },
+    "1000": {
+        "icon": "UI_AvatarIcon_Fischl_Circle",
+        "characterId": "10000031",
+        "costumeId": "default"
+    },
+    "1001": {
+        "icon": "UI_AvatarIcon_FischlCostumeHighness_Circle",
+        "characterId": "10000031",
+        "costumeId": "203101"
+    },
+    "1100": {
+        "icon": "UI_AvatarIcon_Bennett_Circle",
+        "characterId": "10000032",
+        "costumeId": "default"
+    },
+    "1200": {
+        "icon": "UI_AvatarIcon_Noel_Circle",
+        "characterId": "10000034",
+        "costumeId": "default"
+    },
+    "1300": {
+        "icon": "UI_AvatarIcon_Chongyun_Circle",
+        "characterId": "10000036",
+        "costumeId": "default"
+    },
+    "1400": {
+        "icon": "UI_AvatarIcon_Sucrose_Circle",
+        "characterId": "10000043",
+        "costumeId": "default"
+    },
+    "1500": {
+        "icon": "UI_AvatarIcon_Qin_Circle",
+        "characterId": "10000003",
+        "costumeId": "default"
+    },
+    "1501": {
+        "icon": "UI_AvatarIcon_QinCostumeWic_Circle",
+        "characterId": "10000003",
+        "costumeId": "200302"
+    },
+    "1502": {
+        "icon": "UI_AvatarIcon_QinCostumeSea_Circle",
+        "characterId": "10000003",
+        "costumeId": "200301"
+    },
+    "1600": {
+        "icon": "UI_AvatarIcon_Diluc_Circle",
+        "characterId": "10000016",
+        "costumeId": "default"
+    },
+    "1601": {
+        "icon": "UI_AvatarIcon_DilucCostumeFlamme_Circle",
+        "characterId": "10000016",
+        "costumeId": "201601"
+    },
+    "1700": {
+        "icon": "UI_AvatarIcon_Qiqi_Circle",
+        "characterId": "10000035",
+        "costumeId": "default"
+    },
+    "1800": {
+        "icon": "UI_AvatarIcon_Mona_Circle",
+        "characterId": "10000041",
+        "costumeId": "default"
+    },
+    "1801": {
+        "icon": "UI_AvatarIcon_MonaCostumeWic_Circle",
+        "characterId": "10000041",
+        "costumeId": "204101"
+    },
+    "1900": {
+        "icon": "UI_AvatarIcon_Keqing_Circle",
+        "characterId": "10000042",
+        "costumeId": "default"
+    },
+    "1901": {
+        "icon": "UI_AvatarIcon_KeqingCostumeFeather_Circle",
+        "characterId": "10000042",
+        "costumeId": "204201"
+    },
+    "2000": {
+        "icon": "UI_AvatarIcon_Venti_Circle",
+        "characterId": "10000022",
+        "costumeId": "default"
+    },
+    "2100": {
+        "icon": "UI_AvatarIcon_Klee_Circle",
+        "characterId": "10000029",
+        "costumeId": "default"
+    },
+    "2101": {
+        "icon": "UI_AvatarIcon_KleeCostumeWitch_Circle",
+        "characterId": "10000029",
+        "costumeId": "202901"
+    },
+    "2200": {
+        "icon": "UI_AvatarIcon_Diona_Circle",
+        "characterId": "10000039",
+        "costumeId": "default"
+    },
+    "2300": {
+        "icon": "UI_AvatarIcon_Tartaglia_Circle",
+        "characterId": "10000033",
+        "costumeId": "default"
+    },
+    "2400": {
+        "icon": "UI_AvatarIcon_Xinyan_Circle",
+        "characterId": "10000044",
+        "costumeId": "default"
+    },
+    "2500": {
+        "icon": "UI_AvatarIcon_Zhongli_Circle",
+        "characterId": "10000030",
+        "costumeId": "default"
+    },
+    "2600": {
+        "icon": "UI_AvatarIcon_Albedo_Circle",
+        "characterId": "10000038",
+        "costumeId": "default"
+    },
+    "2700": {
+        "icon": "UI_AvatarIcon_Ganyu_Circle",
+        "characterId": "10000037",
+        "costumeId": "default"
+    },
+    "2701": {
+        "icon": "UI_AvatarIcon_GanyuCostumeYu_Circle",
+        "characterId": "10000037",
+        "costumeId": "203701"
+    },
+    "2800": {
+        "icon": "UI_AvatarIcon_Xiao_Circle",
+        "characterId": "10000026",
+        "costumeId": "default"
+    },
+    "2900": {
+        "icon": "UI_AvatarIcon_Hutao_Circle",
+        "characterId": "10000046",
+        "costumeId": "default"
+    },
+    "3000": {
+        "icon": "UI_AvatarIcon_Rosaria_Circle",
+        "characterId": "10000045",
+        "costumeId": "default"
+    },
+    "3001": {
+        "icon": "UI_AvatarIcon_RosariaCostumeWic_Circle",
+        "characterId": "10000045",
+        "costumeId": "204501"
+    },
+    "3100": {
+        "icon": "UI_AvatarIcon_Feiyan_Circle",
+        "characterId": "10000048",
+        "costumeId": "default"
+    },
+    "3200": {
+        "icon": "UI_AvatarIcon_Eula_Circle",
+        "characterId": "10000051",
+        "costumeId": "default"
+    },
+    "3300": {
+        "icon": "UI_AvatarIcon_Kazuha_Circle",
+        "characterId": "10000047",
+        "costumeId": "default"
+    },
+    "3400": {
+        "icon": "UI_AvatarIcon_Ayaka_Circle",
+        "characterId": "10000002",
+        "costumeId": "default"
+    },
+    "3401": {
+        "icon": "UI_AvatarIcon_AyakaCostumeFruhling_Circle",
+        "characterId": "10000002",
+        "costumeId": "200201"
+    },
+    "3500": {
+        "icon": "UI_AvatarIcon_Sayu_Circle",
+        "characterId": "10000053",
+        "costumeId": "default"
+    },
+    "3600": {
+        "icon": "UI_AvatarIcon_Yoimiya_Circle",
+        "characterId": "10000049",
+        "costumeId": "default"
+    },
+    "3700": {
+        "icon": "UI_AvatarIcon_Aloy_Circle",
+        "characterId": "10000062",
+        "costumeId": "default"
+    },
+    "3800": {
+        "icon": "UI_AvatarIcon_Sara_Circle",
+        "characterId": "10000056",
+        "costumeId": "default"
+    },
+    "3900": {
+        "icon": "UI_AvatarIcon_Shougun_Circle",
+        "characterId": "10000052",
+        "costumeId": "default"
+    },
+    "4000": {
+        "icon": "UI_AvatarIcon_Kokomi_Circle",
+        "characterId": "10000054",
+        "costumeId": "default"
+    },
+    "4100": {
+        "icon": "UI_AvatarIcon_Tohma_Circle",
+        "characterId": "10000050",
+        "costumeId": "default"
+    },
+    "4200": {
+        "icon": "UI_AvatarIcon_Gorou_Circle",
+        "characterId": "10000055",
+        "costumeId": "default"
+    },
+    "4300": {
+        "icon": "UI_AvatarIcon_Itto_Circle",
+        "characterId": "10000057",
+        "costumeId": "default"
+    },
+    "4400": {
+        "icon": "UI_AvatarIcon_Yunjin_Circle",
+        "characterId": "10000064",
+        "costumeId": "default"
+    },
+    "4500": {
+        "icon": "UI_AvatarIcon_Shenhe_Circle",
+        "characterId": "10000063",
+        "costumeId": "default"
+    },
+    "4501": {
+        "icon": "UI_AvatarIcon_ShenheCostumeDai_Circle",
+        "characterId": "10000063",
+        "costumeId": "206301"
+    },
+    "4600": {
+        "icon": "UI_AvatarIcon_Yae_Circle",
+        "characterId": "10000058",
+        "costumeId": "default"
+    },
+    "4700": {
+        "icon": "UI_AvatarIcon_Ayato_Circle",
+        "characterId": "10000066",
+        "costumeId": "default"
+    },
+    "4800": {
+        "icon": "UI_AvatarIcon_Yelan_Circle",
+        "characterId": "10000060",
+        "costumeId": "default"
+    },
+    "4900": {
+        "icon": "UI_AvatarIcon_Shinobu_Circle",
+        "characterId": "10000065",
+        "costumeId": "default"
+    },
+    "5000": {
+        "icon": "UI_AvatarIcon_Heizo_Circle",
+        "characterId": "10000059",
+        "costumeId": "default"
+    },
+    "5100": {
+        "icon": "UI_AvatarIcon_Collei_Circle",
+        "characterId": "10000067",
+        "costumeId": "default"
+    },
+    "5200": {
+        "icon": "UI_AvatarIcon_Tighnari_Circle",
+        "characterId": "10000069",
+        "costumeId": "default"
+    },
+    "5300": {
+        "icon": "UI_AvatarIcon_Dori_Circle",
+        "characterId": "10000068",
+        "costumeId": "default"
+    },
+    "5400": {
+        "icon": "UI_AvatarIcon_Candace_Circle",
+        "characterId": "10000072",
+        "costumeId": "default"
+    },
+    "5500": {
+        "icon": "UI_AvatarIcon_Cyno_Circle",
+        "characterId": "10000071",
+        "costumeId": "default"
+    },
+    "5600": {
+        "icon": "UI_AvatarIcon_Nilou_Circle",
+        "characterId": "10000070",
+        "costumeId": "default"
+    },
+    "5700": {
+        "icon": "UI_AvatarIcon_Nahida_Circle",
+        "characterId": "10000073",
+        "costumeId": "default"
+    },
+    "5800": {
+        "icon": "UI_AvatarIcon_Layla_Circle",
+        "characterId": "10000074",
+        "costumeId": "default"
+    },
+    "5900": {
+        "icon": "UI_AvatarIcon_Faruzan_Circle",
+        "characterId": "10000076",
+        "costumeId": "default"
+    },
+    "6000": {
+        "icon": "UI_AvatarIcon_Wanderer_Circle",
+        "characterId": "10000075",
+        "costumeId": "default"
+    },
+    "6100": {
+        "icon": "UI_AvatarIcon_Yaoyao_Circle",
+        "characterId": "10000077",
+        "costumeId": "default"
+    },
+    "6200": {
+        "icon": "UI_AvatarIcon_Alhatham_Circle",
+        "characterId": "10000078",
+        "costumeId": "default"
+    },
+    "6300": {
+        "icon": "UI_AvatarIcon_Dehya_Circle",
+        "characterId": "10000079",
+        "costumeId": "default"
+    },
+    "6400": {
+        "icon": "UI_AvatarIcon_Mika_Circle",
+        "characterId": "10000080",
+        "costumeId": "default"
+    },
+    "6500": {
+        "icon": "UI_AvatarIcon_Kaveh_Circle",
+        "characterId": "10000081",
+        "costumeId": "default"
+    },
+    "6600": {
+        "icon": "UI_AvatarIcon_Baizhuer_Circle",
+        "characterId": "10000082",
+        "costumeId": "default"
+    },
+    "6700": {
+        "icon": "UI_AvatarIcon_Momoka_Circle",
+        "characterId": "10000061",
+        "costumeId": "default"
+    },
+    "6800": {
+        "icon": "UI_AvatarIcon_Linette_Circle",
+        "characterId": "10000083",
+        "costumeId": "default"
+    },
+    "6900": {
+        "icon": "UI_AvatarIcon_Liney_Circle",
+        "characterId": "10000084",
+        "costumeId": "default"
+    },
+    "7000": {
+        "icon": "UI_AvatarIcon_Freminet_Circle",
+        "characterId": "10000085",
+        "costumeId": "default"
+    },
+    "7100": {
+        "icon": "UI_AvatarIcon_Neuvillette_Circle",
+        "characterId": "10000087",
+        "costumeId": "default"
+    },
+    "7200": {
+        "icon": "UI_AvatarIcon_Wriothesley_Circle",
+        "characterId": "10000086",
+        "costumeId": "default"
+    },
+    "7300": {
+        "icon": "UI_AvatarIcon_Charlotte_Circle",
+        "characterId": "10000086",
+        "costumeId": "default"
+    },
+    "7400": {
+        "icon": "UI_AvatarIcon_Furina_Circle",
+        "characterId": "10000089",
+        "costumeId": "default"
+    },
+    "7500": {
+        "icon": "UI_AvatarIcon_Navia_Circle",
+        "characterId": "10000091",
+        "costumeId": "default"
+    },
+    "7600": {
+        "icon": "UI_AvatarIcon_Chevreuse_Circle",
+        "characterId": "10000090",
+        "costumeId": "default"
+    },
+    "7700": {
+        "icon": "UI_AvatarIcon_Gaming_Circle",
+        "characterId": "10000092",
+        "costumeId": "default"
+    },
+    "7800": {
+        "icon": "UI_AvatarIcon_Liuyun_Circle",
+        "characterId": "10000093",
+        "costumeId": "default"
+    },
+    "99999": {
+        "icon": "UI_AvatarIcon_Ambor_Circle",
+        "characterId": "10000021",
+        "costumeId": "default"
+    }
+}

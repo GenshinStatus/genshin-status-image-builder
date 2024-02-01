@@ -4,7 +4,7 @@ from decimal import Decimal
 import service.score_calc as score_calc
 import model.util_model as util_model
 from repository.util_repository import \
-    CHARACTER_DATA_DICT, WEAPON_DATA_DICT, ARTIFACT_DATA_DICT, STATUS_NAMEHASH_DICT, NAMECARD_DATA_DICT
+    CHARACTER_DATA_DICT, WEAPON_DATA_DICT, ARTIFACT_DATA_DICT, STATUS_NAMEHASH_DICT, NAMECARD_DATA_DICT, PFPS_DICT
 
 
 ELEMENTAL_NAME_DICT = {
@@ -168,13 +168,16 @@ class Character(BaseModel):
             artifact.set_calc_score(calc)
 
 class ProfilePicture(BaseModel):
-    id: str
+    id: Optional[str]
     costume_id: Optional[str] = "default"
+    pfps_id: Optional[str] = None
 
     @property
     def avatar_icon(self):
-        return CHARACTER_DATA_DICT[self.id].costumes[self.costume_id].avatar_icon
-
+        if self.pfps_id == None:
+            return CHARACTER_DATA_DICT[self.id].costumes[self.costume_id].avatar_icon
+        else:
+            return CHARACTER_DATA_DICT[PFPS_DICT[self.pfps_id].characterId].costumes[PFPS_DICT[self.pfps_id].costumeId].avatar_icon
 
 class UserData(BaseModel):
     uid: int

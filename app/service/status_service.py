@@ -230,6 +230,7 @@ async def get_user_data(uid) -> status_model.UserData:
         char_name_map=char_name_map,
         characters=char_list,
         profile_picture=status_model.ProfilePicture(
+            pfps_id=enka.playerInfo.profilePicture.id,
             id=enka.playerInfo.profilePicture.avatarId,
             costume_id=enka.playerInfo.profilePicture.costumeId
         )

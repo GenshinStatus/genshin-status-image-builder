@@ -12,8 +12,9 @@ class ShowAvatarInfo(BaseModel):
 
 
 class ProfilePicture(BaseModel):
-    avatarId: str = "10000007"
-    costumeId: str = "default"
+    id: Optional[str] = None
+    avatarId: Optional[str] = "10000007"
+    costumeId: Optional[str] = "default"
 
 
 class Prop(BaseModel):
@@ -99,10 +100,7 @@ class PlayerInfo(BaseModel):
     towerLevelIndex: int = 0
     showAvatarInfoList: list[ShowAvatarInfo] = []
     showNameCardIdList: list[int] = []
-    profilePicture: ProfilePicture = ProfilePicture(
-        avatarId="10000007",
-        costumeId="default",
-    )
+    profilePicture: ProfilePicture
 
 
 class Enka(BaseModel):
