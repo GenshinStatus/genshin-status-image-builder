@@ -956,175 +956,187 @@
     "210164": {
         "icon": {
             "name": "UI_NameCardPic_Bp25_P.png",
-            "path": "image/namecard/.png"
+            "path": "image/namecard/UI_NameCardPic_Bp25_P.png"
         }
     },
     "210165": {
         "icon": {
             "name": "UI_NameCardPic_Liney_P.png",
-            "path": "image/namecard/.png"
+            "path": "image/namecard/UI_NameCardPic_Liney_P.png"
         }
     },
     "210166": {
         "icon": {
             "name": "UI_NameCardPic_Linette_P.png",
-            "path": "image/namecard/.png"
+            "path": "image/namecard/UI_NameCardPic_Linette_P.png"
         }
     },
     "210167": {
         "icon": {
             "name": "UI_NameCardPic_Freminet_P.png",
-            "path": "image/namecard/.png"
+            "path": "image/namecard/UI_NameCardPic_Freminet_P.png"
         }
     },
     "210168": {
         "icon": {
             "name": "UI_NameCardPic_FD1_P.png",
-            "path": "image/namecard/.png"
+            "path": "image/namecard/UI_NameCardPic_FD1_P.png"
         }
     },
     "210169": {
         "icon": {
             "name": "UI_NameCardPic_Ysxf4_P.png",
-            "path": "image/namecard/.png"
+            "path": "image/namecard/UI_NameCardPic_Ysxf4_P.png"
         }
     },
     "210170": {
         "icon": {
             "name": "UI_NameCardPic_Csxy4_P.png",
-            "path": "image/namecard/.png"
+            "path": "image/namecard/UI_NameCardPic_Csxy4_P.png"
         }
     },
     "210171": {
         "icon": {
             "name": "UI_NameCardPic_Fontaine1_P.png",
-            "path": "image/namecard/.png"
+            "path": "image/namecard/UI_NameCardPic_Fontaine1_P.png"
         }
     },
     "210172": {
         "icon": {
             "name": "UI_NameCardPic_Fontaine2_P.png",
-            "path": "image/namecard/.png"
+            "path": "image/namecard/UI_NameCardPic_Fontaine2_P.png"
         }
     },
     "210173": {
         "icon": {
             "name": "UI_NameCardPic_Bp26_P.png",
-            "path": "image/namecard/.png"
+            "path": "image/namecard/UI_NameCardPic_Bp26_P.png"
         }
     },
     "210174": {
         "icon": {
             "name": "UI_NameCardPic_Neuvillette_P.png",
-            "path": "image/namecard/.png"
+            "path": "image/namecard/UI_NameCardPic_Neuvillette_P.png"
         }
     },
     "210175": {
         "icon": {
             "name": "UI_NameCardPic_Wriothesley_P.png",
-            "path": "image/namecard/.png"
+            "path": "image/namecard/UI_NameCardPic_Wriothesley_P.png"
         }
     },
     "210176": {
         "icon": {
             "name": "UI_NameCardPic_Bp27_P.png",
-            "path": "image/namecard/.png"
+            "path": "image/namecard/UI_NameCardPic_Bp27_P.png"
         }
     },
     "210177": {
         "icon": {
             "name": "UI_NameCardPic_Guqin_P.png",
-            "path": "image/namecard/.png"
+            "path": "image/namecard/UI_NameCardPic_Guqin_P.png"
         }
     },
     "210178": {
         "icon": {
             "name": "UI_NameCardPic_Tzz8_P.png",
-            "path": "image/namecard/.png"
+            "path": "image/namecard/UI_NameCardPic_Tzz8_P.png"
         }
     },
     "210179": {
         "icon": {
             "name": "UI_NameCardPic_FD2_P.png",
-            "path": "image/namecard/.png"
+            "path": "image/namecard/UI_NameCardPic_FD2_P.png"
         }
     },
     "210180": {
         "icon": {
-            "name": "UI_NameCardIcon_Furina.png",
-            "path": "image/namecard/.png"
+            "name": "UI_NameCardPic_Furina_P.png",
+            "path": "image/namecard/UI_NameCardPic_Furina_P.png"
         }
     },
     "210181": {
         "icon": {
-            "name": "UI_NameCardIcon_Charlotte.png",
-            "path": "image/namecard/.png"
+            "name": "UI_NameCardPic_Charlotte_P.png",
+            "path": "image/namecard/UI_NameCardPic_Charlotte_P.png"
         }
     },
     "210182": {
         "icon": {
-            "name": "UI_NameCardIcon_FD3.png",
-            "path": "image/namecard/.png"
+            "name": "UI_NameCardPic_FD3_P.png",
+            "path": "image/namecard/UI_NameCardPic_FD3_P.png"
         }
     },
     "210183": {
         "icon": {
-            "name": "UI_NameCardIcon_Bp28.png",
-            "path": "image/namecard/.png"
+            "name": "UI_NameCardPic_Bp28_P.png",
+            "path": "image/namecard/UI_NameCardPic_Bp28_P.png"
         }
     },
     "210184": {
         "icon": {
             "name": "UI_NameCardPic_Navia_P.png",
-            "path": "image/namecard/.png"
+            "path": "image/namecard/UI_NameCardPic_Navia_P.png"
         }
     },
     "210185": {
         "icon": {
             "name": "UI_NameCardPic_Chevreuse_P.png",
-            "path": "image/namecard/.png"
+            "path": "image/namecard/UI_NameCardPic_Chevreuse_P.png"
         }
     },
     "210186": {
         "icon": {
             "name": "UI_NameCardPic_Bp29_P.png",
-            "path": "image/namecard/.png"
+            "path": "image/namecard/UI_NameCardPic_Bp29_P.png"
         }
     },
     "210187": {
         "icon": {
             "name": "UI_NameCardPic_Liuyun_P.png",
-            "path": "image/namecard/.png"
+            "path": "image/namecard/UI_NameCardPic_Liuyun_P.png"
         }
     },
     "210188": {
         "icon": {
             "name": "UI_NameCardPic_Gaming_P.png",
-            "path": "image/namecard/.png"
+            "path": "image/namecard/UI_NameCardPic_Gaming_P.png"
         }
     },
     "210189": {
         "icon": {
             "name": "UI_NameCardPic_Chenyu1_P.png",
-            "path": "image/namecard/.png"
+            "path": "image/namecard/UI_NameCardPic_Chenyu1_P.png"
         }
     },
     "210190": {
         "icon": {
             "name": "UI_NameCardPic_OfferingSilong_P.png",
-            "path": "image/namecard/.png"
+            "path": "image/namecard/UI_NameCardPic_OfferingSilong_P.png"
         }
     },
     "210191": {
         "icon": {
             "name": "UI_NameCardPic_Bp30_P.png",
-            "path": "image/namecard/.png"
+            "path": "image/namecard/UI_NameCardPic_Bp30_P.png"
         }
     },
     "210192": {
         "icon": {
             "name": "UI_NameCardPic_OST4_P.png",
-            "path": "image/namecard/.png"
+            "path": "image/namecard/UI_NameCardPic_OST4_P.png"
+        }
+    },
+    "210193": {
+        "icon": {
+            "name": "UI_NameCardPic_Chiori_P.png",
+            "path": "image/namecard/UI_NameCardPic_Chiori_P.png"
+        }
+    },
+    "210194": {
+        "icon": {
+            "name": "UI_NameCardPic_Bp31_P.png",
+            "path": "image/namecard/UI_NameCardPic_Bp31_P.png"
         }
     }
 }
