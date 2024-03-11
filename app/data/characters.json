@@ -7282,6 +7282,93 @@
             }
         }
     },
+    "10000094": {
+        "element": "Rock",
+        "consts": [
+            {
+                "name": "UI_Talent_S_Chiori_01.png",
+                "path": "image/character/Chiori/consts/UI_Talent_S_Chiori_01.png"
+            },
+            {
+                "name": "UI_Talent_S_Chiori_02.png",
+                "path": "image/character/Chiori/consts/UI_Talent_S_Chiori_02.png"
+            },
+            {
+                "name": "UI_Talent_U_Chiori_01.png",
+                "path": "image/character/Chiori/consts/UI_Talent_U_Chiori_01.png"
+            },
+            {
+                "name": "UI_Talent_S_Chiori_03.png",
+                "path": "image/character/Chiori/consts/UI_Talent_S_Chiori_03.png"
+            },
+            {
+                "name": "UI_Talent_U_Chiori_02.png",
+                "path": "image/character/Chiori/consts/UI_Talent_U_Chiori_02.png"
+            },
+            {
+                "name": "UI_Talent_S_Chiori_04.png",
+                "path": "image/character/Chiori/consts/UI_Talent_S_Chiori_04.png"
+            }
+        ],
+        "skills": [
+            {
+                "name": "通常攻撃",
+                "icon": {
+                    "name": "Skill_A_01.png",
+                    "path": "image/character/Chiori/skill/Skill_A_01.png"
+                },
+                "id": "10941",
+                "proud_id": "9431"
+            },
+            {
+                "name": "元素スキル",
+                "icon": {
+                    "name": "Skill_S_Chiori_01.png",
+                    "path": "image/character/Chiori/skill/Skill_S_Chiori_01.png"
+                },
+                "id": "10942",
+                "proud_id": "9432"
+            },
+            {
+                "name": "元素爆発",
+                "icon": {
+                    "name": "Skill_E_Chiori_01.png",
+                    "path": "image/character/Chiori/skill/Skill_E_Chiori_01.png"
+                },
+                "id": "10945",
+                "proud_id": "9439"
+            }
+        ],
+        "name": "千織",
+        "english_name": "Chiori",
+        "proud_map": {
+            "10941": "9431",
+            "10942": "9432",
+            "10945": "9439"
+        },
+        "quality": 5,
+        "costumes": {
+            "default": {
+                "side_icon": {
+                    "name": "UI_AvatarIcon_Side_Chiori.png",
+                    "path": "image/character/Chiori/avatar/default/UI_AvatarIcon_Side_Chiori.png"
+                },
+                "avatar_icon": {
+                    "name": "UI_AvatarIcon_Chiori.png",
+                    "path": "image/character/Chiori/avatar/default/UI_AvatarIcon_Chiori.png"
+                },
+                "gacha_icon": {
+                    "name": "UI_Gacha_AvatarImg_Chiori.png",
+                    "path": "image/character/Chiori/avatar/default/UI_Gacha_AvatarImg_Chiori.png"
+                },
+                "position": {
+                    "x": -257,
+                    "y": 60,
+                    "scale": 100
+                }
+            }
+        }
+    },
     "10000005-501": {
         "element": "None",
         "consts": [

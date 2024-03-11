@@ -300,6 +300,13 @@
         },
         "name": "静水流転の輝き"
     },
+    "UI_EquipIcon_Sword_Needle": {
+        "icon": {
+            "name": "UI_EquipIcon_Sword_Needle.png",
+            "path": "image/weapon/UI_EquipIcon_Sword_Needle.png"
+        },
+        "name": "有楽御簾切"
+    },
     "UI_EquipIcon_Claymore_Aniki": {
         "icon": {
             "name": "UI_EquipIcon_Claymore_Aniki.png",
@@ -705,6 +712,13 @@
             "path": "image/weapon/UI_EquipIcon_Pole_Vorpal.png"
         },
         "name": "正義の報酬"
+    },
+    "UI_EquipIcon_Pole_Caduceus": {
+        "icon": {
+            "name": "UI_EquipIcon_Pole_Caduceus.png",
+            "path": "image/weapon/UI_EquipIcon_Pole_Caduceus.png"
+        },
+        "name": "砂中の賢者達の問答"
     },
     "UI_EquipIcon_Pole_Mechanic": {
         "icon": {

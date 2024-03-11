@@ -484,6 +484,11 @@
         "characterId": "10000093",
         "costumeId": "default"
     },
+    "7900": {
+        "icon": "UI_AvatarIcon_Chiori_Circle",
+        "characterId": "10000094",
+        "costumeId": "default"
+    },
     "99999": {
         "icon": "UI_AvatarIcon_Ambor_Circle",
         "characterId": "10000021",
