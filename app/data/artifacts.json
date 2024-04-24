@@ -1919,6 +1919,86 @@
         "set_name": "残響の森で囁かれる夜話",
         "equip_type": "EQUIP_SHOES"
     },
+    "UI_RelicIcon_15035_1": {
+        "icon": {
+            "name": "UI_RelicIcon_15035_1.png",
+            "path": "image/artifact/UI_RelicIcon_15035_1.png"
+        },
+        "set_name": "詣律奇想の断章",
+        "equip_type": "EQUIP_RING"
+    },
+    "UI_RelicIcon_15035_2": {
+        "icon": {
+            "name": "UI_RelicIcon_15035_2.png",
+            "path": "image/artifact/UI_RelicIcon_15035_2.png"
+        },
+        "set_name": "詣律奇想の断章",
+        "equip_type": "EQUIP_NECKLACE"
+    },
+    "UI_RelicIcon_15035_3": {
+        "icon": {
+            "name": "UI_RelicIcon_15035_3.png",
+            "path": "image/artifact/UI_RelicIcon_15035_3.png"
+        },
+        "set_name": "詣律奇想の断章",
+        "equip_type": "EQUIP_DRESS"
+    },
+    "UI_RelicIcon_15035_4": {
+        "icon": {
+            "name": "UI_RelicIcon_15035_4.png",
+            "path": "image/artifact/UI_RelicIcon_15035_4.png"
+        },
+        "set_name": "詣律奇想の断章",
+        "equip_type": "EQUIP_BRACER"
+    },
+    "UI_RelicIcon_15035_5": {
+        "icon": {
+            "name": "UI_RelicIcon_15035_5.png",
+            "path": "image/artifact/UI_RelicIcon_15035_5.png"
+        },
+        "set_name": "詣律奇想の断章",
+        "equip_type": "EQUIP_SHOES"
+    },
+    "UI_RelicIcon_15036_1": {
+        "icon": {
+            "name": "UI_RelicIcon_15036_1.png",
+            "path": "image/artifact/UI_RelicIcon_15036_1.png"
+        },
+        "set_name": "遂げられなかった想い",
+        "equip_type": "EQUIP_RING"
+    },
+    "UI_RelicIcon_15036_2": {
+        "icon": {
+            "name": "UI_RelicIcon_15036_2.png",
+            "path": "image/artifact/UI_RelicIcon_15036_2.png"
+        },
+        "set_name": "遂げられなかった想い",
+        "equip_type": "EQUIP_NECKLACE"
+    },
+    "UI_RelicIcon_15036_3": {
+        "icon": {
+            "name": "UI_RelicIcon_15036_3.png",
+            "path": "image/artifact/UI_RelicIcon_15036_3.png"
+        },
+        "set_name": "遂げられなかった想い",
+        "equip_type": "EQUIP_DRESS"
+    },
+    "UI_RelicIcon_15036_4": {
+        "icon": {
+            "name": "UI_RelicIcon_15036_4.png",
+            "path": "image/artifact/UI_RelicIcon_15036_4.png"
+        },
+        "set_name": "遂げられなかった想い",
+        "equip_type": "EQUIP_BRACER"
+    },
+    "UI_RelicIcon_15036_5": {
+        "icon": {
+            "name": "UI_RelicIcon_15036_5.png",
+            "path": "image/artifact/UI_RelicIcon_15036_5.png"
+        },
+        "set_name": "遂げられなかった想い",
+        "equip_type": "EQUIP_SHOES"
+    },
     "UI_RelicIcon_10000_2": {
         "icon": {
             "name": "UI_RelicIcon_10000_2.png",

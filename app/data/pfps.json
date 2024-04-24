@@ -489,6 +489,11 @@
         "characterId": "10000094",
         "costumeId": "default"
     },
+    "8000": {
+        "icon": "UI_AvatarIcon_Arlecchino_Circle",
+        "characterId": "10000096",
+        "costumeId": "default"
+    },
     "99999": {
         "icon": "UI_AvatarIcon_Ambor_Circle",
         "characterId": "10000021",

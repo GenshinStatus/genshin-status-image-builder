@@ -7369,6 +7369,93 @@
             }
         }
     },
+    "10000096": {
+        "element": "Fire",
+        "consts": [
+            {
+                "name": "UI_Talent_S_Arlecchino_01.png",
+                "path": "image/character/Arlecchino/consts/UI_Talent_S_Arlecchino_01.png"
+            },
+            {
+                "name": "UI_Talent_S_Arlecchino_02.png",
+                "path": "image/character/Arlecchino/consts/UI_Talent_S_Arlecchino_02.png"
+            },
+            {
+                "name": "UI_Talent_U_Arlecchino_01.png",
+                "path": "image/character/Arlecchino/consts/UI_Talent_U_Arlecchino_01.png"
+            },
+            {
+                "name": "UI_Talent_S_Arlecchino_03.png",
+                "path": "image/character/Arlecchino/consts/UI_Talent_S_Arlecchino_03.png"
+            },
+            {
+                "name": "UI_Talent_U_Arlecchino_02.png",
+                "path": "image/character/Arlecchino/consts/UI_Talent_U_Arlecchino_02.png"
+            },
+            {
+                "name": "UI_Talent_S_Arlecchino_04.png",
+                "path": "image/character/Arlecchino/consts/UI_Talent_S_Arlecchino_04.png"
+            }
+        ],
+        "skills": [
+            {
+                "name": "通常攻撃",
+                "icon": {
+                    "name": "Skill_A_03.png",
+                    "path": "image/character/Arlecchino/skill/Skill_A_03.png"
+                },
+                "id": "10961",
+                "proud_id": "9631"
+            },
+            {
+                "name": "元素スキル",
+                "icon": {
+                    "name": "Skill_S_Arlecchino_01.png",
+                    "path": "image/character/Arlecchino/skill/Skill_S_Arlecchino_01.png"
+                },
+                "id": "10962",
+                "proud_id": "9632"
+            },
+            {
+                "name": "元素爆発",
+                "icon": {
+                    "name": "Skill_E_Arlecchino_01.png",
+                    "path": "image/character/Arlecchino/skill/Skill_E_Arlecchino_01.png"
+                },
+                "id": "10965",
+                "proud_id": "9639"
+            }
+        ],
+        "name": "アルレッキーノ",
+        "english_name": "Arlecchino",
+        "proud_map": {
+            "10961": "9631",
+            "10962": "9632",
+            "10965": "9639"
+        },
+        "quality": 5,
+        "costumes": {
+            "default": {
+                "side_icon": {
+                    "name": "UI_AvatarIcon_Side_Arlecchino.png",
+                    "path": "image/character/Arlecchino/avatar/default/UI_AvatarIcon_Side_Arlecchino.png"
+                },
+                "avatar_icon": {
+                    "name": "UI_AvatarIcon_Arlecchino.png",
+                    "path": "image/character/Arlecchino/avatar/default/UI_AvatarIcon_Arlecchino.png"
+                },
+                "gacha_icon": {
+                    "name": "UI_Gacha_AvatarImg_Arlecchino.png",
+                    "path": "image/character/Arlecchino/avatar/default/UI_Gacha_AvatarImg_Arlecchino.png"
+                },
+                "position": {
+                    "x": "-254",
+                    "y": "-8",
+                    "scale": "89"
+                }
+            }
+        }
+    },
     "10000005-501": {
         "element": "None",
         "consts": [

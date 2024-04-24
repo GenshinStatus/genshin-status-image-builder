@@ -1138,5 +1138,35 @@
             "name": "UI_NameCardPic_Bp31_P.png",
             "path": "image/namecard/UI_NameCardPic_Bp31_P.png"
         }
+    },
+    "210195": {
+        "icon": {
+            "name": "UI_NameCardPic_Arlecchino_P.png",
+            "path": "image/namecard/UI_NameCardPic_Arlecchino_P.png"
+        }
+    },
+    "210196": {
+        "icon": {
+            "name": "UI_NameCardPic_Deep_P.png",
+            "path": "image/namecard/UI_NameCardPic_Deep_P.png"
+        }
+    },
+    "210197": {
+        "icon": {
+            "name": "UI_NameCardPic_Tzz9_P.png",
+            "path": "image/namecard/UI_NameCardPic_Tzz9_P.png"
+        }
+    },
+    "210198": {
+        "icon": {
+            "name": "UI_NameCardPic_WishingPond_P.png",
+            "path": "image/namecard/UI_NameCardPic_WishingPond_P.png"
+        }
+    },
+    "210199": {
+        "icon": {
+            "name": "UI_NameCardPic_GreatFestivalV2_P.png",
+            "path": "image/namecard/UI_NameCardPic_GreatFestivalV2_P.png"
+        }
     }
 }

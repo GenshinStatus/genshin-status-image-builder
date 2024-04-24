@@ -776,6 +776,13 @@
         },
         "name": "赤砂の杖"
     },
+    "UI_EquipIcon_Pole_BloodMoon": {
+        "icon": {
+            "name": "UI_EquipIcon_Pole_BloodMoon.png",
+            "path": "image/weapon/UI_EquipIcon_Pole_BloodMoon.png"
+        },
+        "name": "赤月のシルエット"
+    },
     "UI_EquipIcon_Catalyst_Apprentice": {
         "icon": {
             "name": "UI_EquipIcon_Catalyst_Apprentice.png",
