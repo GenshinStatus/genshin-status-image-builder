@@ -177,7 +177,7 @@ class ProfilePicture(BaseModel):
         if self.pfps_id == None:
             return CHARACTER_DATA_DICT[self.id].costumes[self.costume_id].avatar_icon
         else:
-            return CHARACTER_DATA_DICT[PFPS_DICT[self.pfps_id].characterId].costumes[PFPS_DICT[self.pfps_id].costumeId].avatar_icon
+            return PFPS_DICT[self.pfps_id].icon
 
 class UserData(BaseModel):
     uid: int
