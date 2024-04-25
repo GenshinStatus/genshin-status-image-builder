@@ -53,6 +53,5 @@ class JpCharacterModel(BaseModel):
     costumes: dict[str, Costume]
 
 class Pfps(BaseModel):
-    icon: str
-    characterId: str
-    costumeId: str
+    name: str
+    icon: Icon
