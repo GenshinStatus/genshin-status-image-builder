@@ -7449,9 +7449,9 @@
                     "path": "image/character/Sigewinne/avatar/default/UI_Gacha_AvatarImg_Sigewinne.png"
                 },
                 "position": {
-                    "x": "-254",
-                    "y": "-8",
-                    "scale": "89"
+                    "x": "-180",
+                    "y": "-51",
+                    "scale": "100"
                 }
             }
         }
@@ -7623,9 +7623,9 @@
                     "path": "image/character/Sethos/avatar/default/UI_Gacha_AvatarImg_Sethos.png"
                 },
                 "position": {
-                    "x": "-254",
-                    "y": "-8",
-                    "scale": "89"
+                    "x": "-241",
+                    "y": "5",
+                    "scale": "91"
                 }
             }
         }
@@ -7710,9 +7710,9 @@
                     "path": "image/character/Clorinde/avatar/default/UI_Gacha_AvatarImg_Clorinde.png"
                 },
                 "position": {
-                    "x": "-254",
-                    "y": "-8",
-                    "scale": "89"
+                    "x": "-199",
+                    "y": "60",
+                    "scale": "100"
                 }
             }
         }
