@@ -1168,5 +1168,35 @@
             "name": "UI_NameCardPic_GreatFestivalV2_P.png",
             "path": "image/namecard/UI_NameCardPic_GreatFestivalV2_P.png"
         }
+    },
+    "210200": {
+        "icon": {
+            "name": "UI_NameCardPic_Clorinde_P.png",
+            "path": "image/namecard/UI_NameCardPic_Clorinde_P.png"
+        }
+    },
+    "210201": {
+        "icon": {
+            "name": "UI_NameCardPic_Sigewinne_P.png",
+            "path": "image/namecard/UI_NameCardPic_Sigewinne_P.png"
+        }
+    },
+    "210202": {
+        "icon": {
+            "name": "UI_NameCardPic_Sethos_P.png",
+            "path": "image/namecard/UI_NameCardPic_Sethos_P.png"
+        }
+    },
+    "210203": {
+        "icon": {
+            "name": "UI_NameCardPic_RoleCombat_P.png",
+            "path": "image/namecard/UI_NameCardPic_RoleCombat_P.png"
+        }
+    },
+    "210204": {
+        "icon": {
+            "name": "UI_NameCardPic_Bp33_P.png",
+            "path": "image/namecard/UI_NameCardPic_Bp33_P.png"
+        }
     }
 }

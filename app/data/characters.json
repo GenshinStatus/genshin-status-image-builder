@@ -7369,6 +7369,93 @@
             }
         }
     },
+    "10000095": {
+        "element": "Water",
+        "consts": [
+            {
+                "name": "UI_Talent_S_Sigewinne_01.png",
+                "path": "image/character/Sigewinne/consts/UI_Talent_S_Sigewinne_01.png"
+            },
+            {
+                "name": "UI_Talent_S_Sigewinne_02.png",
+                "path": "image/character/Sigewinne/consts/UI_Talent_S_Sigewinne_02.png"
+            },
+            {
+                "name": "UI_Talent_U_Sigewinne_01.png",
+                "path": "image/character/Sigewinne/consts/UI_Talent_U_Sigewinne_01.png"
+            },
+            {
+                "name": "UI_Talent_S_Sigewinne_03.png",
+                "path": "image/character/Sigewinne/consts/UI_Talent_S_Sigewinne_03.png"
+            },
+            {
+                "name": "UI_Talent_U_Sigewinne_02.png",
+                "path": "image/character/Sigewinne/consts/UI_Talent_U_Sigewinne_02.png"
+            },
+            {
+                "name": "UI_Talent_S_Sigewinne_04.png",
+                "path": "image/character/Sigewinne/consts/UI_Talent_S_Sigewinne_04.png"
+            }
+        ],
+        "skills": [
+            {
+                "name": "通常攻撃",
+                "icon": {
+                    "name": "Skill_A_02.png",
+                    "path": "image/character/Sigewinne/skill/Skill_A_02.png"
+                },
+                "id": "10951",
+                "proud_id": "9531"
+            },
+            {
+                "name": "元素スキル",
+                "icon": {
+                    "name": "Skill_S_Sigewinne_01.png",
+                    "path": "image/character/Sigewinne/skill/Skill_S_Sigewinne_01.png"
+                },
+                "id": "10952",
+                "proud_id": "9532"
+            },
+            {
+                "name": "元素爆発",
+                "icon": {
+                    "name": "Skill_E_Sigewinne_01.png",
+                    "path": "image/character/Sigewinne/skill/Skill_E_Sigewinne_01.png"
+                },
+                "id": "10955",
+                "proud_id": "9539"
+            }
+        ],
+        "name": "シグウィン",
+        "english_name": "Sigewinne",
+        "proud_map": {
+            "10951": "9531",
+            "10952": "9532",
+            "10955": "9539"
+        },
+        "quality": 5,
+        "costumes": {
+            "default": {
+                "side_icon": {
+                    "name": "UI_AvatarIcon_Side_Sigewinne.png",
+                    "path": "image/character/Sigewinne/avatar/default/UI_AvatarIcon_Side_Sigewinne.png"
+                },
+                "avatar_icon": {
+                    "name": "UI_AvatarIcon_Sigewinne.png",
+                    "path": "image/character/Sigewinne/avatar/default/UI_AvatarIcon_Sigewinne.png"
+                },
+                "gacha_icon": {
+                    "name": "UI_Gacha_AvatarImg_Sigewinne.png",
+                    "path": "image/character/Sigewinne/avatar/default/UI_Gacha_AvatarImg_Sigewinne.png"
+                },
+                "position": {
+                    "x": "-254",
+                    "y": "-8",
+                    "scale": "89"
+                }
+            }
+        }
+    },
     "10000096": {
         "element": "Fire",
         "consts": [
@@ -7447,6 +7534,180 @@
                 "gacha_icon": {
                     "name": "UI_Gacha_AvatarImg_Arlecchino.png",
                     "path": "image/character/Arlecchino/avatar/default/UI_Gacha_AvatarImg_Arlecchino.png"
+                },
+                "position": {
+                    "x": "-254",
+                    "y": "-8",
+                    "scale": "89"
+                }
+            }
+        }
+    },
+    "10000097": {
+        "element": "Electric",
+        "consts": [
+            {
+                "name": "UI_Talent_S_Sethos_01.png",
+                "path": "image/character/Sethos/consts/UI_Talent_S_Sethos_01.png"
+            },
+            {
+                "name": "UI_Talent_S_Sethos_02.png",
+                "path": "image/character/Sethos/consts/UI_Talent_S_Sethos_02.png"
+            },
+            {
+                "name": "UI_Talent_U_Sethos_01.png",
+                "path": "image/character/Sethos/consts/UI_Talent_U_Sethos_01.png"
+            },
+            {
+                "name": "UI_Talent_S_Sethos_03.png",
+                "path": "image/character/Sethos/consts/UI_Talent_S_Sethos_03.png"
+            },
+            {
+                "name": "UI_Talent_U_Sethos_02.png",
+                "path": "image/character/Sethos/consts/UI_Talent_U_Sethos_02.png"
+            },
+            {
+                "name": "UI_Talent_S_Sethos_04.png",
+                "path": "image/character/Sethos/consts/UI_Talent_S_Sethos_04.png"
+            }
+        ],
+        "skills": [
+            {
+                "name": "通常攻撃",
+                "icon": {
+                    "name": "Skill_A_02.png",
+                    "path": "image/character/Sethos/skill/Skill_A_02.png"
+                },
+                "id": "10971",
+                "proud_id": "9731"
+            },
+            {
+                "name": "元素スキル",
+                "icon": {
+                    "name": "Skill_S_Sethos_01.png",
+                    "path": "image/character/Sethos/skill/Skill_S_Sethos_01.png"
+                },
+                "id": "10972",
+                "proud_id": "9732"
+            },
+            {
+                "name": "元素爆発",
+                "icon": {
+                    "name": "Skill_E_Sethos_01.png",
+                    "path": "image/character/Sethos/skill/Skill_E_Sethos_01.png"
+                },
+                "id": "10975",
+                "proud_id": "9739"
+            }
+        ],
+        "name": "セトス",
+        "english_name": "Sethos",
+        "proud_map": {
+            "10971": "9731",
+            "10972": "9732",
+            "10975": "9739"
+        },
+        "quality": 4,
+        "costumes": {
+            "default": {
+                "side_icon": {
+                    "name": "UI_AvatarIcon_Side_Sethos.png",
+                    "path": "image/character/Sethos/avatar/default/UI_AvatarIcon_Side_Sethos.png"
+                },
+                "avatar_icon": {
+                    "name": "UI_AvatarIcon_Sethos.png",
+                    "path": "image/character/Sethos/avatar/default/UI_AvatarIcon_Sethos.png"
+                },
+                "gacha_icon": {
+                    "name": "UI_Gacha_AvatarImg_Sethos.png",
+                    "path": "image/character/Sethos/avatar/default/UI_Gacha_AvatarImg_Sethos.png"
+                },
+                "position": {
+                    "x": "-254",
+                    "y": "-8",
+                    "scale": "89"
+                }
+            }
+        }
+    },
+    "10000098": {
+        "element": "Electric",
+        "consts": [
+            {
+                "name": "UI_Talent_S_Clorinde_01.png",
+                "path": "image/character/Clorinde/consts/UI_Talent_S_Clorinde_01.png"
+            },
+            {
+                "name": "UI_Talent_S_Clorinde_02.png",
+                "path": "image/character/Clorinde/consts/UI_Talent_S_Clorinde_02.png"
+            },
+            {
+                "name": "UI_Talent_U_Clorinde_01.png",
+                "path": "image/character/Clorinde/consts/UI_Talent_U_Clorinde_01.png"
+            },
+            {
+                "name": "UI_Talent_S_Clorinde_03.png",
+                "path": "image/character/Clorinde/consts/UI_Talent_S_Clorinde_03.png"
+            },
+            {
+                "name": "UI_Talent_U_Clorinde_02.png",
+                "path": "image/character/Clorinde/consts/UI_Talent_U_Clorinde_02.png"
+            },
+            {
+                "name": "UI_Talent_S_Clorinde_04.png",
+                "path": "image/character/Clorinde/consts/UI_Talent_S_Clorinde_04.png"
+            }
+        ],
+        "skills": [
+            {
+                "name": "通常攻撃",
+                "icon": {
+                    "name": "Skill_A_01.png",
+                    "path": "image/character/Clorinde/skill/Skill_A_01.png"
+                },
+                "id": "10981",
+                "proud_id": "9831"
+            },
+            {
+                "name": "元素スキル",
+                "icon": {
+                    "name": "Skill_S_Clorinde_01.png",
+                    "path": "image/character/Clorinde/skill/Skill_S_Clorinde_01.png"
+                },
+                "id": "10982",
+                "proud_id": "9832"
+            },
+            {
+                "name": "元素爆発",
+                "icon": {
+                    "name": "Skill_E_Clorinde_01.png",
+                    "path": "image/character/Clorinde/skill/Skill_E_Clorinde_01.png"
+                },
+                "id": "10985",
+                "proud_id": "9839"
+            }
+        ],
+        "name": "クロリンデ",
+        "english_name": "Clorinde",
+        "proud_map": {
+            "10981": "9831",
+            "10982": "9832",
+            "10985": "9839"
+        },
+        "quality": 5,
+        "costumes": {
+            "default": {
+                "side_icon": {
+                    "name": "UI_AvatarIcon_Side_Clorinde.png",
+                    "path": "image/character/Clorinde/avatar/default/UI_AvatarIcon_Side_Clorinde.png"
+                },
+                "avatar_icon": {
+                    "name": "UI_AvatarIcon_Clorinde.png",
+                    "path": "image/character/Clorinde/avatar/default/UI_AvatarIcon_Clorinde.png"
+                },
+                "gacha_icon": {
+                    "name": "UI_Gacha_AvatarImg_Clorinde.png",
+                    "path": "image/character/Clorinde/avatar/default/UI_Gacha_AvatarImg_Clorinde.png"
                 },
                 "position": {
                     "x": "-254",

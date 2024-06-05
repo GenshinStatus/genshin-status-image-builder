@@ -307,6 +307,13 @@
         },
         "name": "有楽御簾切"
     },
+    "UI_EquipIcon_Sword_Estoc": {
+        "icon": {
+            "name": "UI_EquipIcon_Sword_Estoc.png",
+            "path": "image/weapon/UI_EquipIcon_Sword_Estoc.png"
+        },
+        "name": "赦罪"
+    },
     "UI_EquipIcon_Claymore_Aniki": {
         "icon": {
             "name": "UI_EquipIcon_Claymore_Aniki.png",
@@ -1252,6 +1259,13 @@
         },
         "name": "静寂の唄"
     },
+    "UI_EquipIcon_Bow_Ultimatum": {
+        "icon": {
+            "name": "UI_EquipIcon_Bow_Ultimatum.png",
+            "path": "image/weapon/UI_EquipIcon_Bow_Ultimatum.png"
+        },
+        "name": "築雲"
+    },
     "UI_EquipIcon_Bow_Mechanic": {
         "icon": {
             "name": "UI_EquipIcon_Bow_Mechanic.png",
@@ -1314,5 +1328,12 @@
             "path": "image/weapon/UI_EquipIcon_Bow_Pledge.png"
         },
         "name": "始まりの大魔術"
+    },
+    "UI_EquipIcon_Bow_Arcdange": {
+        "icon": {
+            "name": "UI_EquipIcon_Bow_Arcdange.png",
+            "path": "image/weapon/UI_EquipIcon_Bow_Arcdange.png"
+        },
+        "name": "白雨心弦"
     }
 }
