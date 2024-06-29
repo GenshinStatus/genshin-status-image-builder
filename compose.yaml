@@ -11,7 +11,7 @@ services:
       - github.env
     networks:
       - api_network
-      - default
+      - database_network
     ports:
       - 80:80
     restart: always
@@ -30,9 +30,20 @@ services:
           memory: 20M
     restart: always
     networks:
-      - default
+      - database_network
+
+  tunnel:
+    restart: always
+    depends_on:
+      - api
+    image: cloudflare/cloudflared
+    command: tunnel run
+    networks:
+      - api_network
+    env_file:
+      - ./env/cloudflared.env
 
 networks:
-  default:
+  database_network:
   api_network:
     external: true
