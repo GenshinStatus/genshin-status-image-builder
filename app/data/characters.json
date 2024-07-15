@@ -4476,6 +4476,25 @@
                     "y": 12,
                     "scale": 95
                 }
+            },
+            "206101": {
+                "side_icon": {
+                    "name": "UI_AvatarIcon_Side_MomokaCostumeErrantry.png",
+                    "path": "image/character/Momoka/avatar/206101/UI_AvatarIcon_Side_MomokaCostumeErrantry.png"
+                },
+                "avatar_icon": {
+                    "name": "UI_AvatarIcon_MomokaCostumeErrantry.png",
+                    "path": "image/character/Momoka/avatar/206101/avatar/206101/UI_AvatarIcon_MomokaCostumeErrantry.png"
+                },
+                "gacha_icon": {
+                    "name": "UI_Costume_MomokaCostumeErrantry.png",
+                    "path": "image/character/Momoka/avatar/206101/avatar/206101/UI_Costume_MomokaCostumeErrantry.png"
+                },
+                "position": {
+                    "x": -306,
+                    "y": 12,
+                    "scale": 95
+                }
             }
         }
     },
@@ -5272,6 +5291,25 @@
                 "gacha_icon": {
                     "name": "UI_Gacha_AvatarImg_Nilou.png",
                     "path": "image/character/Nilou/avatar/default/UI_Gacha_AvatarImg_Nilou.png"
+                },
+                "position": {
+                    "x": -217,
+                    "y": 51,
+                    "scale": 98
+                }
+            },
+            "207001": {
+                "side_icon": {
+                    "name": "UI_AvatarIcon_Side_NilouCostumeFairy.png",
+                    "path": "image/character/Nilou/avatar/207001/UI_AvatarIcon_Side_NilouCostumeFairy.png"
+                },
+                "avatar_icon": {
+                    "name": "UI_AvatarIcon_NilouCostumeFairy.png",
+                    "path": "image/character/Nilou/avatar/207001/avatar/207001/UI_AvatarIcon_NilouCostumeFairy.png"
+                },
+                "gacha_icon": {
+                    "name": "UI_Costume_NilouCostumeFairy.png",
+                    "path": "image/character/Nilou/avatar/207001/avatar/207001/UI_Costume_NilouCostumeFairy.png"
                 },
                 "position": {
                     "x": -217,
@@ -7713,6 +7751,93 @@
                     "x": "-199",
                     "y": "60",
                     "scale": "100"
+                }
+            }
+        }
+    },
+    "10000099": {
+        "element": "Grass",
+        "consts": [
+            {
+                "name": "UI_Talent_S_Emilie_01.png",
+                "path": "image/character/Emilie/consts/UI_Talent_S_Emilie_01.png"
+            },
+            {
+                "name": "UI_Talent_S_Emilie_02.png",
+                "path": "image/character/Emilie/consts/UI_Talent_S_Emilie_02.png"
+            },
+            {
+                "name": "UI_Talent_U_Emilie_01.png",
+                "path": "image/character/Emilie/consts/UI_Talent_U_Emilie_01.png"
+            },
+            {
+                "name": "UI_Talent_S_Emilie_03.png",
+                "path": "image/character/Emilie/consts/UI_Talent_S_Emilie_03.png"
+            },
+            {
+                "name": "UI_Talent_U_Emilie_02.png",
+                "path": "image/character/Emilie/consts/UI_Talent_U_Emilie_02.png"
+            },
+            {
+                "name": "UI_Talent_S_Emilie_04.png",
+                "path": "image/character/Emilie/consts/UI_Talent_S_Emilie_04.png"
+            }
+        ],
+        "skills": [
+            {
+                "name": "通常攻撃",
+                "icon": {
+                    "name": "Skill_A_03.png",
+                    "path": "image/character/Emilie/skill/Skill_A_03.png"
+                },
+                "id": "10991",
+                "proud_id": "9931"
+            },
+            {
+                "name": "元素スキル",
+                "icon": {
+                    "name": "Skill_S_Emilie_01.png",
+                    "path": "image/character/Emilie/skill/Skill_S_Emilie_01.png"
+                },
+                "id": "10992",
+                "proud_id": "9932"
+            },
+            {
+                "name": "元素爆発",
+                "icon": {
+                    "name": "Skill_E_Emilie_01.png",
+                    "path": "image/character/Emilie/skill/Skill_E_Emilie_01.png"
+                },
+                "id": "10995",
+                "proud_id": "9939"
+            }
+        ],
+        "name": "エミリエ",
+        "english_name": "Emilie",
+        "proud_map": {
+            "10991": "9931",
+            "10992": "9932",
+            "10995": "9939"
+        },
+        "quality": 5,
+        "costumes": {
+            "default": {
+                "side_icon": {
+                    "name": "UI_AvatarIcon_Side_Emilie.png",
+                    "path": "image/character/Emilie/avatar/default/UI_AvatarIcon_Side_Emilie.png"
+                },
+                "avatar_icon": {
+                    "name": "UI_AvatarIcon_Emilie.png",
+                    "path": "image/character/Emilie/avatar/default/UI_AvatarIcon_Emilie.png"
+                },
+                "gacha_icon": {
+                    "name": "UI_Gacha_AvatarImg_Emilie.png",
+                    "path": "image/character/Emilie/avatar/default/UI_Gacha_AvatarImg_Emilie.png"
+                },
+                "position": {
+                    "x": "-254",
+                    "y": "-8",
+                    "scale": "89"
                 }
             }
         }

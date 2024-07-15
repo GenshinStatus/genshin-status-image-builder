@@ -524,6 +524,13 @@
             "path": "image/pfps/UI_AvatarIcon_Nilou_Circle.png"
         }
     },
+    "5601": {
+        "name": "ニィロウ·東風はこぶ花の吐息",
+        "icon": {
+            "name": "UI_AvatarIcon_NilouCostumeFairy_Circle.png",
+            "path": "image/pfps/UI_AvatarIcon_NilouCostumeFairy_Circle.png"
+        }
+    },
     "5700": {
         "name": "ナヒーダ",
         "icon": {
@@ -599,6 +606,13 @@
         "icon": {
             "name": "UI_AvatarIcon_Momoka_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Momoka_Circle.png"
+        }
+    },
+    "6701": {
+        "name": "綺良々·麗しき怪傑",
+        "icon": {
+            "name": "UI_AvatarIcon_MomokaCostumeErrantry_Circle.png",
+            "path": "image/pfps/UI_AvatarIcon_MomokaCostumeErrantry_Circle.png"
         }
     },
     "6800": {
@@ -711,6 +725,13 @@
         "icon": {
             "name": "UI_AvatarIcon_Sigewinne_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Sigewinne_Circle.png"
+        }
+    },
+    "8400": {
+        "name": "エミリエ",
+        "icon": {
+            "name": "UI_AvatarIcon_Emilie_Circle.png",
+            "path": "image/pfps/UI_AvatarIcon_Emilie_Circle.png"
         }
     },
     "100010": {
