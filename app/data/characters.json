@@ -4491,9 +4491,9 @@
                     "path": "image/character/Momoka/avatar/206101/avatar/206101/UI_Costume_MomokaCostumeErrantry.png"
                 },
                 "position": {
-                    "x": -306,
-                    "y": 12,
-                    "scale": 95
+                    "x": -212,
+                    "y": 56,
+                    "scale": 100
                 }
             }
         }
@@ -5293,9 +5293,9 @@
                     "path": "image/character/Nilou/avatar/default/UI_Gacha_AvatarImg_Nilou.png"
                 },
                 "position": {
-                    "x": -217,
-                    "y": 51,
-                    "scale": 98
+                    "x": -261,
+                    "y": 24,
+                    "scale": 91
                 }
             },
             "207001": {
@@ -7835,9 +7835,9 @@
                     "path": "image/character/Emilie/avatar/default/UI_Gacha_AvatarImg_Emilie.png"
                 },
                 "position": {
-                    "x": "-254",
-                    "y": "-8",
-                    "scale": "89"
+                    "x": "-237",
+                    "y": "32",
+                    "scale": "86"
                 }
             }
         }
