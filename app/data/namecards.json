@@ -1198,5 +1198,23 @@
             "name": "UI_NameCardPic_Bp33_P.png",
             "path": "image/namecard/UI_NameCardPic_Bp33_P.png"
         }
+    },
+    "210205": {
+        "icon": {
+            "name": "UI_NameCardPic_Emilie_P.png",
+            "path": "image/namecard/UI_NameCardPic_Emilie_P.png"
+        }
+    },
+    "210206": {
+        "icon": {
+            "name": "UI_NameCardPic_Bp34_P.png",
+            "path": "image/namecard/UI_NameCardPic_Bp34_P.png"
+        }
+    },
+    "210207": {
+        "icon": {
+            "name": "UI_NameCardPic_RedandWhite2_P.png",
+            "path": "image/namecard/UI_NameCardPic_RedandWhite2_P.png"
+        }
     }
 }
