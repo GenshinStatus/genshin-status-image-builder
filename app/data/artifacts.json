@@ -1999,6 +1999,86 @@
         "set_name": "遂げられなかった想い",
         "equip_type": "EQUIP_SHOES"
     },
+    "UI_RelicIcon_15037_1": {
+        "icon": {
+            "name": "UI_RelicIcon_15037_1.png",
+            "path": "image/artifact/UI_RelicIcon_15037_1.png"
+        },
+        "set_name": "遂げられなかった想い",
+        "equip_type": "EQUIP_RING"
+    },
+    "UI_RelicIcon_15037_2": {
+        "icon": {
+            "name": "UI_RelicIcon_15037_2.png",
+            "path": "image/artifact/UI_RelicIcon_15037_2.png"
+        },
+        "set_name": "遂げられなかった想い",
+        "equip_type": "EQUIP_NECKLACE"
+    },
+    "UI_RelicIcon_15037_3": {
+        "icon": {
+            "name": "UI_RelicIcon_15037_3.png",
+            "path": "image/artifact/UI_RelicIcon_15037_3.png"
+        },
+        "set_name": "遂げられなかった想い",
+        "equip_type": "EQUIP_DRESS"
+    },
+    "UI_RelicIcon_15037_4": {
+        "icon": {
+            "name": "UI_RelicIcon_15037_4.png",
+            "path": "image/artifact/UI_RelicIcon_15037_4.png"
+        },
+        "set_name": "遂げられなかった想い",
+        "equip_type": "EQUIP_BRACER"
+    },
+    "UI_RelicIcon_15037_5": {
+        "icon": {
+            "name": "UI_RelicIcon_15037_5.png",
+            "path": "image/artifact/UI_RelicIcon_15037_5.png"
+        },
+        "set_name": "遂げられなかった想い",
+        "equip_type": "EQUIP_SHOES"
+    },
+    "UI_RelicIcon_15038_1": {
+        "icon": {
+            "name": "UI_RelicIcon_15038_1.png",
+            "path": "image/artifact/UI_RelicIcon_15038_1.png"
+        },
+        "set_name": "遂げられなかった想い",
+        "equip_type": "EQUIP_RING"
+    },
+    "UI_RelicIcon_15038_2": {
+        "icon": {
+            "name": "UI_RelicIcon_15038_2.png",
+            "path": "image/artifact/UI_RelicIcon_15038_2.png"
+        },
+        "set_name": "遂げられなかった想い",
+        "equip_type": "EQUIP_NECKLACE"
+    },
+    "UI_RelicIcon_15038_3": {
+        "icon": {
+            "name": "UI_RelicIcon_15038_3.png",
+            "path": "image/artifact/UI_RelicIcon_15038_3.png"
+        },
+        "set_name": "遂げられなかった想い",
+        "equip_type": "EQUIP_DRESS"
+    },
+    "UI_RelicIcon_15038_4": {
+        "icon": {
+            "name": "UI_RelicIcon_15038_4.png",
+            "path": "image/artifact/UI_RelicIcon_15038_4.png"
+        },
+        "set_name": "遂げられなかった想い",
+        "equip_type": "EQUIP_BRACER"
+    },
+    "UI_RelicIcon_15038_5": {
+        "icon": {
+            "name": "UI_RelicIcon_15038_5.png",
+            "path": "image/artifact/UI_RelicIcon_15038_5.png"
+        },
+        "set_name": "遂げられなかった想い",
+        "equip_type": "EQUIP_SHOES"
+    },
     "UI_RelicIcon_10000_2": {
         "icon": {
             "name": "UI_RelicIcon_10000_2.png",
