@@ -24,6 +24,8 @@ def static_init():
 
     PROFILE = BASE_PATH / "profile_assets"
 
+    RANKING = BASE_PATH / "ranking_assets"
+
     ASSETS = assets.Assets(
         # 原神すてーぼ用のディレクトリ
         genshin_status=assets.GenshinStatusAssets(
@@ -115,6 +117,10 @@ def static_init():
         # Profile 用の画像ディレクトリ
         profile=assets.ProfileAssets(
             layer=str(PROFILE / "Layer.png")
+        ),
+        # Ranking 用の画像ディレクトリ
+        ranking=assets.RankingAssets(
+            background_shadow=str(RANKING / "shadow.png")
         ),
         # 以下共有部
         icon=assets.Icon(

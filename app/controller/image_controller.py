@@ -13,6 +13,7 @@ router = APIRouter(prefix="/buildimage", tags=["image generator"])
 def get_genshin_status_build_image(char_stat: status_model.Character, gen_type:int = 0):
     filename = f"{char_stat.create_date}_{char_stat.uid}_{char_stat.id}_{char_stat.build_type}_{gen_type}.jpg"
     file_path = f"build_images/{filename}"
+    char_stat.init_utils()
     if gen_type == 0:
         gen_genshin_image.save_image(
             file_path=file_path,
