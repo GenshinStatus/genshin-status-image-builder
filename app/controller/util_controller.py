@@ -5,7 +5,8 @@ import service.score_calc as score_calc
 import service.character_position_service as chara_position
 import service.enka_image_downloader as enka_image_downloader
 from model.response_json_model import CharacterPosition
-
+from repository.util_repository import \
+    CHARACTER_DATA_DICT, update_character_model_dict
 
 router = APIRouter(prefix="/util", tags=["util"])
 
@@ -42,3 +43,12 @@ async def update_position(position: CharacterPosition):
 async def update_image_only():
     await enka_image_downloader.util_image_update()
     return Response(status_code=200)
+
+@router.get("/name-to-id/{name}")
+async def get_name_to_id(name: str):
+    update_character_model_dict()
+    print(CHARACTER_DATA_DICT)
+    for k, v in CHARACTER_DATA_DICT.items():
+        if v.name == name:
+            return {"id":k, "name":name}
+    return Response(content="Character not found.", status_code=404)

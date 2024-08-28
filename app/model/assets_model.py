@@ -43,6 +43,8 @@ class GenshinStatusAssets(BaseModel):
     background_elements: dict[str, str]
     artufact_bg: list[str]
 
+class RankingAssets(BaseModel):
+    background_shadow: str
 
 class ProfileAssets(BaseModel):
     layer: str
@@ -51,5 +53,6 @@ class Assets(BaseModel):
     artifacter: ArtifacterAssets
     genshin_status: GenshinStatusAssets
     profile: ProfileAssets
+    ranking: RankingAssets
     icon: Icon
     icon_namehash: dict[str, str]

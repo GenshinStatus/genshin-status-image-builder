@@ -7842,6 +7842,267 @@
             }
         }
     },
+    "10000100": {
+        "element": "Rock",
+        "consts": [
+            {
+                "name": "UI_Talent_S_Kachina_01.png",
+                "path": "image/character/Kachina/consts/UI_Talent_S_Kachina_01.png"
+            },
+            {
+                "name": "UI_Talent_S_Kachina_02.png",
+                "path": "image/character/Kachina/consts/UI_Talent_S_Kachina_02.png"
+            },
+            {
+                "name": "UI_Talent_U_Kachina_01.png",
+                "path": "image/character/Kachina/consts/UI_Talent_U_Kachina_01.png"
+            },
+            {
+                "name": "UI_Talent_S_Kachina_03.png",
+                "path": "image/character/Kachina/consts/UI_Talent_S_Kachina_03.png"
+            },
+            {
+                "name": "UI_Talent_U_Kachina_02.png",
+                "path": "image/character/Kachina/consts/UI_Talent_U_Kachina_02.png"
+            },
+            {
+                "name": "UI_Talent_S_Kachina_04.png",
+                "path": "image/character/Kachina/consts/UI_Talent_S_Kachina_04.png"
+            }
+        ],
+        "skills": [
+            {
+                "name": "通常攻撃",
+                "icon": {
+                    "name": "Skill_A_03.png",
+                    "path": "image/character/Kachina/skill/Skill_A_03.png"
+                },
+                "id": "101001",
+                "proud_id": "10031"
+            },
+            {
+                "name": "元素スキル",
+                "icon": {
+                    "name": "Skill_S_Kachina_01.png",
+                    "path": "image/character/Kachina/skill/Skill_S_Kachina_01.png"
+                },
+                "id": "101002",
+                "proud_id": "10032"
+            },
+            {
+                "name": "元素爆発",
+                "icon": {
+                    "name": "Skill_E_Kachina_01.png",
+                    "path": "image/character/Kachina/skill/Skill_E_Kachina_01.png"
+                },
+                "id": "101005",
+                "proud_id": "10039"
+            }
+        ],
+        "name": "カチーナ",
+        "english_name": "Kachina",
+        "proud_map": {
+            "101001": "10031",
+            "101002": "10032",
+            "101005": "10039"
+        },
+        "quality": 4,
+        "costumes": {
+            "default": {
+                "side_icon": {
+                    "name": "UI_AvatarIcon_Side_Kachina.png",
+                    "path": "image/character/Kachina/avatar/default/UI_AvatarIcon_Side_Kachina.png"
+                },
+                "avatar_icon": {
+                    "name": "UI_AvatarIcon_Kachina.png",
+                    "path": "image/character/Kachina/avatar/default/UI_AvatarIcon_Kachina.png"
+                },
+                "gacha_icon": {
+                    "name": "UI_Gacha_AvatarImg_Kachina.png",
+                    "path": "image/character/Kachina/avatar/default/UI_Gacha_AvatarImg_Kachina.png"
+                },
+                "position": {
+                    "x": "-254",
+                    "y": "-8",
+                    "scale": "89"
+                }
+            }
+        }
+    },
+    "10000101": {
+        "element": "Grass",
+        "consts": [
+            {
+                "name": "UI_Talent_S_Kinich_01.png",
+                "path": "image/character/Kinich/consts/UI_Talent_S_Kinich_01.png"
+            },
+            {
+                "name": "UI_Talent_S_Kinich_02.png",
+                "path": "image/character/Kinich/consts/UI_Talent_S_Kinich_02.png"
+            },
+            {
+                "name": "UI_Talent_U_Kinich_01.png",
+                "path": "image/character/Kinich/consts/UI_Talent_U_Kinich_01.png"
+            },
+            {
+                "name": "UI_Talent_S_Kinich_03.png",
+                "path": "image/character/Kinich/consts/UI_Talent_S_Kinich_03.png"
+            },
+            {
+                "name": "UI_Talent_U_Kinich_02.png",
+                "path": "image/character/Kinich/consts/UI_Talent_U_Kinich_02.png"
+            },
+            {
+                "name": "UI_Talent_S_Kinich_04.png",
+                "path": "image/character/Kinich/consts/UI_Talent_S_Kinich_04.png"
+            }
+        ],
+        "skills": [
+            {
+                "name": "通常攻撃",
+                "icon": {
+                    "name": "Skill_A_04.png",
+                    "path": "image/character/Kinich/skill/Skill_A_04.png"
+                },
+                "id": "101011",
+                "proud_id": "10131"
+            },
+            {
+                "name": "元素スキル",
+                "icon": {
+                    "name": "Skill_S_Kinich_01.png",
+                    "path": "image/character/Kinich/skill/Skill_S_Kinich_01.png"
+                },
+                "id": "101012",
+                "proud_id": "10132"
+            },
+            {
+                "name": "元素爆発",
+                "icon": {
+                    "name": "Skill_E_Kinich_01.png",
+                    "path": "image/character/Kinich/skill/Skill_E_Kinich_01.png"
+                },
+                "id": "101015",
+                "proud_id": "10139"
+            }
+        ],
+        "name": "キィニチ",
+        "english_name": "Kinich",
+        "proud_map": {
+            "101011": "10131",
+            "101012": "10132",
+            "101015": "10139"
+        },
+        "quality": 5,
+        "costumes": {
+            "default": {
+                "side_icon": {
+                    "name": "UI_AvatarIcon_Side_Kinich.png",
+                    "path": "image/character/Kinich/avatar/default/UI_AvatarIcon_Side_Kinich.png"
+                },
+                "avatar_icon": {
+                    "name": "UI_AvatarIcon_Kinich.png",
+                    "path": "image/character/Kinich/avatar/default/UI_AvatarIcon_Kinich.png"
+                },
+                "gacha_icon": {
+                    "name": "UI_Gacha_AvatarImg_Kinich.png",
+                    "path": "image/character/Kinich/avatar/default/UI_Gacha_AvatarImg_Kinich.png"
+                },
+                "position": {
+                    "x": "-254",
+                    "y": "-8",
+                    "scale": "89"
+                }
+            }
+        }
+    },
+    "10000102": {
+        "element": "Water",
+        "consts": [
+            {
+                "name": "UI_Talent_S_Mualani_01.png",
+                "path": "image/character/Mualani/consts/UI_Talent_S_Mualani_01.png"
+            },
+            {
+                "name": "UI_Talent_S_Mualani_02.png",
+                "path": "image/character/Mualani/consts/UI_Talent_S_Mualani_02.png"
+            },
+            {
+                "name": "UI_Talent_U_Mualani_01.png",
+                "path": "image/character/Mualani/consts/UI_Talent_U_Mualani_01.png"
+            },
+            {
+                "name": "UI_Talent_S_Mualani_03.png",
+                "path": "image/character/Mualani/consts/UI_Talent_S_Mualani_03.png"
+            },
+            {
+                "name": "UI_Talent_U_Mualani_02.png",
+                "path": "image/character/Mualani/consts/UI_Talent_U_Mualani_02.png"
+            },
+            {
+                "name": "UI_Talent_S_Mualani_04.png",
+                "path": "image/character/Mualani/consts/UI_Talent_S_Mualani_04.png"
+            }
+        ],
+        "skills": [
+            {
+                "name": "通常攻撃",
+                "icon": {
+                    "name": "Skill_A_Catalyst_MD.png",
+                    "path": "image/character/Mualani/skill/Skill_A_Catalyst_MD.png"
+                },
+                "id": "101021",
+                "proud_id": "10231"
+            },
+            {
+                "name": "元素スキル",
+                "icon": {
+                    "name": "Skill_S_Mualani_01.png",
+                    "path": "image/character/Mualani/skill/Skill_S_Mualani_01.png"
+                },
+                "id": "101022",
+                "proud_id": "10232"
+            },
+            {
+                "name": "元素爆発",
+                "icon": {
+                    "name": "Skill_E_Mualani_01.png",
+                    "path": "image/character/Mualani/skill/Skill_E_Mualani_01.png"
+                },
+                "id": "101025",
+                "proud_id": "10239"
+            }
+        ],
+        "name": "ムアラニ",
+        "english_name": "Mualani",
+        "proud_map": {
+            "101021": "10231",
+            "101022": "10232",
+            "101025": "10239"
+        },
+        "quality": 5,
+        "costumes": {
+            "default": {
+                "side_icon": {
+                    "name": "UI_AvatarIcon_Side_Mualani.png",
+                    "path": "image/character/Mualani/avatar/default/UI_AvatarIcon_Side_Mualani.png"
+                },
+                "avatar_icon": {
+                    "name": "UI_AvatarIcon_Mualani.png",
+                    "path": "image/character/Mualani/avatar/default/UI_AvatarIcon_Mualani.png"
+                },
+                "gacha_icon": {
+                    "name": "UI_Gacha_AvatarImg_Mualani.png",
+                    "path": "image/character/Mualani/avatar/default/UI_Gacha_AvatarImg_Mualani.png"
+                },
+                "position": {
+                    "x": "-254",
+                    "y": "-8",
+                    "scale": "89"
+                }
+            }
+        }
+    },
     "10000005-501": {
         "element": "None",
         "consts": [

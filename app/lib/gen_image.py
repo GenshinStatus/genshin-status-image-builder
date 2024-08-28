@@ -1,4 +1,4 @@
-from PIL import Image, ImageFont, ImageDraw
+from PIL import Image, ImageFont, ImageDraw, ImageFilter, ImageChops
 from typing import TypeVar, Union
 import os
 
@@ -17,7 +17,8 @@ class Colors:
     CLEAR_RED = (0xff, 0x00, 0x00, 0x7f)
     GENSHIN_LIGHT_BLUE = (118, 255, 255, 0xff)
     GENSHIN_GREEN = (169, 255, 0, 0xff)
-
+    GRAY = (175, 175, 175, 0xff)
+    BLACK = (0, 0, 0, 0xff)
 
 class Anchors:
     """アンカーの列挙型のようなものです
@@ -263,6 +264,50 @@ class GImage:
             box[1] - int(im.size[1]*image_anchor[1])
         )
         self.__image.alpha_composite(im=im, dest=box)
+
+    def paste_with_shadow(
+        self,
+        im: Image.Image,
+        box: tuple[int, int] = (0, 0),
+        shadow_offset: tuple[int, int] = (10, 10),
+        blur_radius: int = 5,
+        shadow_size: int = 5,
+        shadow_color: tuple[int, int, int] = Colors.BLACK,
+        shadow_opacity: float = 0.5
+    ) -> Image.Image:
+        """画像に影をつけて別の画像にペーストする関数
+
+        Args:
+            im (Image.Image): ペーストする画像
+            box (tuple[int, int], optional): 描画位置. Defaults to (0, 0).
+            shadow_offset (tuple[int, int], optional): 影のオフセット. Defaults to (10, 10).
+            blur_radius (int, optional): 影のぼかし半径. Defaults to 5.
+            shadow_size (int, optional): 影のサイズ. Defaults to 5.
+            shadow_color (tuple[int, int, int], optional): 影の色. Defaults to Colors.BLACK.
+            shadow_opacity (float, optional): 影の透明度. Defaults to 0.5.
+
+        Returns:
+            Image.Image: 影付きの画像をペーストした結果の画像
+        """
+        # 影を作成
+        shadow_base = Image.new('RGBA', self.__image.size)
+        shadow_object = Image.new('RGBA', (im.width + shadow_size * 2, im.height + shadow_size * 2))
+
+        shadow_paste_position = (box[0]-shadow_size, box[1]-shadow_size)
+        shadow_base.paste(shadow_object, shadow_paste_position)
+
+        # 影の描画
+        shadow = shadow_base.filter(ImageFilter.BoxBlur(blur_radius))
+        # shadow = ImageChops.multiply(shadow, Image.new('RGBA', shadow.size, shadow_color + (int(255 * shadow_opacity),)))
+
+        # 影の位置を調整
+        shadow_position = (box[0] + shadow_offset[0] - shadow_size, box[1] + shadow_offset[1] - shadow_size)
+
+        # ベース画像に影をペースト
+        self.__image.alpha_composite(shadow, dest=shadow_position)
+
+        # ベース画像にペーストする画像をペースト
+        self.__image.alpha_composite(im, dest=box)
 
     def add_image(
         self,

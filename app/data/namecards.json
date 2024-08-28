@@ -1216,5 +1216,71 @@
             "name": "UI_NameCardPic_RedandWhite2_P.png",
             "path": "image/namecard/UI_NameCardPic_RedandWhite2_P.png"
         }
+    },
+    "210208": {
+        "icon": {
+            "name": "UI_NameCardPic_Kinich_P.png",
+            "path": "image/namecard/UI_NameCardPic_Kinich_P.png"
+        }
+    },
+    "210209": {
+        "icon": {
+            "name": "UI_NameCardPic_Mualani_P.png",
+            "path": "image/namecard/UI_NameCardPic_Mualani_P.png"
+        }
+    },
+    "210210": {
+        "icon": {
+            "name": "UI_NameCardPic_Kachina_P.png",
+            "path": "image/namecard/UI_NameCardPic_Kachina_P.png"
+        }
+    },
+    "210211": {
+        "icon": {
+            "name": "UI_NameCardPic_NatlanSW1_P.png",
+            "path": "image/namecard/UI_NameCardPic_NatlanSW1_P.png"
+        }
+    },
+    "210212": {
+        "icon": {
+            "name": "UI_NameCardPic_NatlanSW2_P.png",
+            "path": "image/namecard/UI_NameCardPic_NatlanSW2_P.png"
+        }
+    },
+    "210213": {
+        "icon": {
+            "name": "UI_NameCardPic_Ysxf5_P.png",
+            "path": "image/namecard/UI_NameCardPic_Ysxf5_P.png"
+        }
+    },
+    "210214": {
+        "icon": {
+            "name": "UI_NameCardPic_RoleCombat2_P.png",
+            "path": "image/namecard/UI_NameCardPic_RoleCombat2_P.png"
+        }
+    },
+    "210215": {
+        "icon": {
+            "name": "UI_NameCardPic_Natlan1_P.png",
+            "path": "image/namecard/UI_NameCardPic_Natlan1_P.png"
+        }
+    },
+    "210216": {
+        "icon": {
+            "name": "UI_NameCardPic_Dfcq1_P.png",
+            "path": "image/namecard/UI_NameCardPic_Dfcq1_P.png"
+        }
+    },
+    "210217": {
+        "icon": {
+            "name": "UI_NameCardPic_Bp35_P.png",
+            "path": "image/namecard/UI_NameCardPic_Bp35_P.png"
+        }
+    },
+    "210218": {
+        "icon": {
+            "name": "UI_NameCardPic_Yellow_P.png",
+            "path": "image/namecard/UI_NameCardPic_Yellow_P.png"
+        }
     }
 }

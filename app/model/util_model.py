@@ -30,9 +30,9 @@ class Skill(BaseModel):
 
 
 class Position(BaseModel):
-    x: int = -221
-    y: int = 34
-    scale: int = 97
+    x: Optional[int] = -221
+    y: Optional[int] = 34
+    scale: Optional[int] = 97
 
 
 class Costume(BaseModel):

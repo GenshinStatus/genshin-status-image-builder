@@ -1,0 +1,81 @@
+{
+    "rank": 1,
+    "uid": 80000000,
+    "level": 60,
+    "nickname": "しなもん",
+    "create_date": "20240517175728",
+    "character": {
+        "id": "10000095",
+        "constellations": 6,
+        "level": 90,
+        "added_hp": 6557,
+        "added_attack": 1348,
+        "added_defense": 265,
+        "critical_rate": 26.0,
+        "critical_damage": 22.5,
+        "charge_efficiency": 27.2,
+        "elemental_mastery": 248,
+        "elemental_name": "Rock",
+        "elemental_value": "75.4%",
+        "skills": [
+            {
+                "level": 10,
+                "add_level": 3,
+                "util": null
+            },
+            {
+                "level": 10,
+                "add_level": 3,
+                "util": null
+            },
+            {
+                "level": 10,
+                "add_level": 3,
+                "util": null
+            }
+        ],
+        "artifacts": {
+            "EQUIP_BRACER": {
+                "icon_name": "UI_RelicIcon_15017_4",
+                "main_name": "FIGHT_PROP_HP",
+                "score": 0,
+                "util": null
+            },
+            "EQUIP_NECKLACE": {
+                "icon_name": "UI_RelicIcon_15017_2",
+                "main_name": "FIGHT_PROP_ATTACK",
+                "score": 0,
+                "util": null
+            },
+            "EQUIP_SHOES": {
+                "icon_name": "UI_RelicIcon_15017_5",
+                "main_name": "FIGHT_PROP_HP_PERCENT",
+                "score": 0,
+                "util": null
+            },
+            "EQUIP_RING": {
+                "icon_name": "UI_RelicIcon_15020_1",
+                "main_name": "FIGHT_PROP_ROCK_ADD_HURT",
+                "score": 0,
+                "util": null
+            },
+            "EQUIP_DRESS": {
+                "icon_name": "UI_RelicIcon_15017_3",
+                "main_name": "FIGHT_PROP_CRITICAL",
+                "score": 0,
+                "util": null
+            }
+        },
+        "weapon": {
+            "icon_name": "UI_EquipIcon_Pole_Zephyrus",
+            "sub_name": "FIGHT_PROP_CHARGE_EFFICIENCY",
+            "level": 80,
+            "rank": 5,
+            "util": null
+        },
+        "costume_id": "default",
+        "build_type": "atk",
+        "costume": null,
+        "util": null
+    }
+}
