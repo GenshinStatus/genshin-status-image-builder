@@ -7877,7 +7877,7 @@
                     "name": "Skill_A_03.png",
                     "path": "image/character/Kachina/skill/Skill_A_03.png"
                 },
-                "id": "101001",
+                "id": "11001",
                 "proud_id": "10031"
             },
             {
@@ -7886,7 +7886,7 @@
                     "name": "Skill_S_Kachina_01.png",
                     "path": "image/character/Kachina/skill/Skill_S_Kachina_01.png"
                 },
-                "id": "101002",
+                "id": "11002",
                 "proud_id": "10032"
             },
             {
@@ -7895,16 +7895,16 @@
                     "name": "Skill_E_Kachina_01.png",
                     "path": "image/character/Kachina/skill/Skill_E_Kachina_01.png"
                 },
-                "id": "101005",
+                "id": "11005",
                 "proud_id": "10039"
             }
         ],
         "name": "カチーナ",
         "english_name": "Kachina",
         "proud_map": {
-            "101001": "10031",
-            "101002": "10032",
-            "101005": "10039"
+            "11001": "10031",
+            "11002": "10032",
+            "11005": "10039"
         },
         "quality": 4,
         "costumes": {
@@ -7964,7 +7964,7 @@
                     "name": "Skill_A_04.png",
                     "path": "image/character/Kinich/skill/Skill_A_04.png"
                 },
-                "id": "101011",
+                "id": "11011",
                 "proud_id": "10131"
             },
             {
@@ -7973,7 +7973,7 @@
                     "name": "Skill_S_Kinich_01.png",
                     "path": "image/character/Kinich/skill/Skill_S_Kinich_01.png"
                 },
-                "id": "101012",
+                "id": "11012",
                 "proud_id": "10132"
             },
             {
@@ -7982,16 +7982,16 @@
                     "name": "Skill_E_Kinich_01.png",
                     "path": "image/character/Kinich/skill/Skill_E_Kinich_01.png"
                 },
-                "id": "101015",
+                "id": "11015",
                 "proud_id": "10139"
             }
         ],
         "name": "キィニチ",
         "english_name": "Kinich",
         "proud_map": {
-            "101011": "10131",
-            "101012": "10132",
-            "101015": "10139"
+            "11011": "10131",
+            "11012": "10132",
+            "11015": "10139"
         },
         "quality": 5,
         "costumes": {
@@ -8051,7 +8051,7 @@
                     "name": "Skill_A_Catalyst_MD.png",
                     "path": "image/character/Mualani/skill/Skill_A_Catalyst_MD.png"
                 },
-                "id": "101021",
+                "id": "11021",
                 "proud_id": "10231"
             },
             {
@@ -8060,7 +8060,7 @@
                     "name": "Skill_S_Mualani_01.png",
                     "path": "image/character/Mualani/skill/Skill_S_Mualani_01.png"
                 },
-                "id": "101022",
+                "id": "11022",
                 "proud_id": "10232"
             },
             {
@@ -8069,16 +8069,16 @@
                     "name": "Skill_E_Mualani_01.png",
                     "path": "image/character/Mualani/skill/Skill_E_Mualani_01.png"
                 },
-                "id": "101025",
+                "id": "11025",
                 "proud_id": "10239"
             }
         ],
         "name": "ムアラニ",
         "english_name": "Mualani",
         "proud_map": {
-            "101021": "10231",
-            "101022": "10232",
-            "101025": "10239"
+            "11021": "10231",
+            "11022": "10232",
+            "11025": "10239"
         },
         "quality": 5,
         "costumes": {
