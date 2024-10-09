@@ -755,6 +755,13 @@
             "path": "image/pfps/UI_AvatarIcon_Kinich_Circle.png"
         }
     },
+    "8800": {
+        "name": "シロネン",
+        "icon": {
+            "name": "UI_AvatarIcon_Xilonen_Circle.png",
+            "path": "image/pfps/UI_AvatarIcon_Xilonen_Circle.png"
+        }
+    },
     "100010": {
         "name": "花散里のお面",
         "icon": {
@@ -875,7 +882,7 @@
         }
     },
     "100180": {
-        "name": "旅人の竜の仲間！",
+        "name": "#{NICKNAME}の竜の仲間！",
         "icon": {
             "name": "UI_AvatarIcon_75002_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_75002_Circle.png"

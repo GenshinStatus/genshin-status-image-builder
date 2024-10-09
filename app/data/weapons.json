@@ -230,6 +230,13 @@
         },
         "name": "水仙十字の剣"
     },
+    "UI_EquipIcon_Sword_Umpakati": {
+        "icon": {
+            "name": "UI_EquipIcon_Sword_Umpakati.png",
+            "path": "image/weapon/UI_EquipIcon_Sword_Umpakati.png"
+        },
+        "name": "ストロング・ボーン"
+    },
     "UI_EquipIcon_Sword_Isikhulu": {
         "icon": {
             "name": "UI_EquipIcon_Sword_Isikhulu.png",
@@ -320,6 +327,13 @@
             "path": "image/weapon/UI_EquipIcon_Sword_Estoc.png"
         },
         "name": "赦罪"
+    },
+    "UI_EquipIcon_Sword_XochitlsTube": {
+        "icon": {
+            "name": "UI_EquipIcon_Sword_XochitlsTube.png",
+            "path": "image/weapon/UI_EquipIcon_Sword_XochitlsTube.png"
+        },
+        "name": "岩峰を巡る歌"
     },
     "UI_EquipIcon_Claymore_Aniki": {
         "icon": {
@@ -523,6 +537,13 @@
             "path": "image/weapon/UI_EquipIcon_Claymore_Mechanic.png"
         },
         "name": "携帯型チェーンソー"
+    },
+    "UI_EquipIcon_Claymore_Umpakati": {
+        "icon": {
+            "name": "UI_EquipIcon_Claymore_Umpakati.png",
+            "path": "image/weapon/UI_EquipIcon_Claymore_Umpakati.png"
+        },
+        "name": "実りの鉤鉈"
     },
     "UI_EquipIcon_Claymore_Isikhulu": {
         "icon": {
@@ -754,6 +775,13 @@
             "path": "image/weapon/UI_EquipIcon_Pole_Mechanic.png"
         },
         "name": "プロスペクタードリル"
+    },
+    "UI_EquipIcon_Pole_Umpakati": {
+        "icon": {
+            "name": "UI_EquipIcon_Pole_Umpakati.png",
+            "path": "image/weapon/UI_EquipIcon_Pole_Umpakati.png"
+        },
+        "name": "鎮山の釘"
     },
     "UI_EquipIcon_Pole_Isikhulu": {
         "icon": {

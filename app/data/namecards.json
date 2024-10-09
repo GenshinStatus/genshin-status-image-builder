@@ -1282,5 +1282,17 @@
             "name": "UI_NameCardPic_Yellow_P.png",
             "path": "image/namecard/UI_NameCardPic_Yellow_P.png"
         }
+    },
+    "210219": {
+        "icon": {
+            "name": "UI_NameCardPic_Xilonen_P.png",
+            "path": "image/namecard/UI_NameCardPic_Xilonen_P.png"
+        }
+    },
+    "210220": {
+        "icon": {
+            "name": "UI_NameCardPic_Bp36_P.png",
+            "path": "image/namecard/UI_NameCardPic_Bp36_P.png"
+        }
     }
 }
