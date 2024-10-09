@@ -882,7 +882,7 @@
         }
     },
     "100180": {
-        "name": "#{NICKNAME}の竜の仲間！",
+        "name": "旅人の竜の仲間！",
         "icon": {
             "name": "UI_AvatarIcon_75002_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_75002_Circle.png"
