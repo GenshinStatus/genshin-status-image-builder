@@ -8103,6 +8103,180 @@
             }
         }
     },
+    "10000103": {
+        "element": "Rock",
+        "consts": [
+            {
+                "name": "UI_Talent_S_Xilonen_01.png",
+                "path": "image/character/Xilonen/consts/UI_Talent_S_Xilonen_01.png"
+            },
+            {
+                "name": "UI_Talent_S_Xilonen_02.png",
+                "path": "image/character/Xilonen/consts/UI_Talent_S_Xilonen_02.png"
+            },
+            {
+                "name": "UI_Talent_U_Xilonen_01.png",
+                "path": "image/character/Xilonen/consts/UI_Talent_U_Xilonen_01.png"
+            },
+            {
+                "name": "UI_Talent_S_Xilonen_03.png",
+                "path": "image/character/Xilonen/consts/UI_Talent_S_Xilonen_03.png"
+            },
+            {
+                "name": "UI_Talent_U_Xilonen_02.png",
+                "path": "image/character/Xilonen/consts/UI_Talent_U_Xilonen_02.png"
+            },
+            {
+                "name": "UI_Talent_S_Xilonen_04.png",
+                "path": "image/character/Xilonen/consts/UI_Talent_S_Xilonen_04.png"
+            }
+        ],
+        "skills": [
+            {
+                "name": "通常攻撃",
+                "icon": {
+                    "name": "Skill_A_01.png",
+                    "path": "image/character/Xilonen/skill/Skill_A_01.png"
+                },
+                "id": "101031",
+                "proud_id": "10331"
+            },
+            {
+                "name": "元素スキル",
+                "icon": {
+                    "name": "Skill_S_Xilonen_01.png",
+                    "path": "image/character/Xilonen/skill/Skill_S_Xilonen_01.png"
+                },
+                "id": "101032",
+                "proud_id": "10332"
+            },
+            {
+                "name": "元素爆発",
+                "icon": {
+                    "name": "Skill_E_Xilonen_01.png",
+                    "path": "image/character/Xilonen/skill/Skill_E_Xilonen_01.png"
+                },
+                "id": "101035",
+                "proud_id": "10339"
+            }
+        ],
+        "name": "シロネン",
+        "english_name": "Xilonen",
+        "proud_map": {
+            "101031": "10331",
+            "101032": "10332",
+            "101035": "10339"
+        },
+        "quality": 5,
+        "costumes": {
+            "default": {
+                "side_icon": {
+                    "name": "UI_AvatarIcon_Side_Xilonen.png",
+                    "path": "image/character/Xilonen/avatar/default/UI_AvatarIcon_Side_Xilonen.png"
+                },
+                "avatar_icon": {
+                    "name": "UI_AvatarIcon_Xilonen.png",
+                    "path": "image/character/Xilonen/avatar/default/UI_AvatarIcon_Xilonen.png"
+                },
+                "gacha_icon": {
+                    "name": "UI_Gacha_AvatarImg_Xilonen.png",
+                    "path": "image/character/Xilonen/avatar/default/UI_Gacha_AvatarImg_Xilonen.png"
+                },
+                "position": {
+                    "x": "-254",
+                    "y": "-8",
+                    "scale": "89"
+                }
+            }
+        }
+    },
+    "10000901": {
+        "element": "Fire",
+        "consts": [
+            {
+                "name": "UI_Talent_S_Mavuika_01.png",
+                "path": "image/character/Mavuika/consts/UI_Talent_S_Mavuika_01.png"
+            },
+            {
+                "name": "UI_Talent_S_Mavuika_02.png",
+                "path": "image/character/Mavuika/consts/UI_Talent_S_Mavuika_02.png"
+            },
+            {
+                "name": "UI_Talent_U_Mavuika_01.png",
+                "path": "image/character/Mavuika/consts/UI_Talent_U_Mavuika_01.png"
+            },
+            {
+                "name": "UI_Talent_S_Mavuika_03.png",
+                "path": "image/character/Mavuika/consts/UI_Talent_S_Mavuika_03.png"
+            },
+            {
+                "name": "UI_Talent_U_Mavuika_02.png",
+                "path": "image/character/Mavuika/consts/UI_Talent_U_Mavuika_02.png"
+            },
+            {
+                "name": "UI_Talent_S_Mavuika_04.png",
+                "path": "image/character/Mavuika/consts/UI_Talent_S_Mavuika_04.png"
+            }
+        ],
+        "skills": [
+            {
+                "name": "通常攻撃",
+                "icon": {
+                    "name": "Skill_A_04.png",
+                    "path": "image/character/Mavuika/skill/Skill_A_04.png"
+                },
+                "id": "109011",
+                "proud_id": "90131"
+            },
+            {
+                "name": "元素スキル",
+                "icon": {
+                    "name": "Skill_S_Mavuika_01.png",
+                    "path": "image/character/Mavuika/skill/Skill_S_Mavuika_01.png"
+                },
+                "id": "109012",
+                "proud_id": "90132"
+            },
+            {
+                "name": "元素爆発",
+                "icon": {
+                    "name": "Skill_E_Mavuika_01.png",
+                    "path": "image/character/Mavuika/skill/Skill_E_Mavuika_01.png"
+                },
+                "id": "109015",
+                "proud_id": "90139"
+            }
+        ],
+        "name": "マーヴィカ（お試し）",
+        "english_name": "Mavuika",
+        "proud_map": {
+            "109011": "90131",
+            "109012": "90132",
+            "109015": "90139"
+        },
+        "quality": 5,
+        "costumes": {
+            "default": {
+                "side_icon": {
+                    "name": "UI_AvatarIcon_Side_Mavuika.png",
+                    "path": "image/character/Mavuika/avatar/default/UI_AvatarIcon_Side_Mavuika.png"
+                },
+                "avatar_icon": {
+                    "name": "UI_AvatarIcon_Mavuika.png",
+                    "path": "image/character/Mavuika/avatar/default/UI_AvatarIcon_Mavuika.png"
+                },
+                "gacha_icon": {
+                    "name": "UI_Gacha_AvatarImg_Mavuika.png",
+                    "path": "image/character/Mavuika/avatar/default/UI_Gacha_AvatarImg_Mavuika.png"
+                },
+                "position": {
+                    "x": "-254",
+                    "y": "-8",
+                    "scale": "89"
+                }
+            }
+        }
+    },
     "10000005-501": {
         "element": "None",
         "consts": [
