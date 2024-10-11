@@ -8138,7 +8138,7 @@
                     "name": "Skill_A_01.png",
                     "path": "image/character/Xilonen/skill/Skill_A_01.png"
                 },
-                "id": "101031",
+                "id": "11031",
                 "proud_id": "10331"
             },
             {
@@ -8147,7 +8147,7 @@
                     "name": "Skill_S_Xilonen_01.png",
                     "path": "image/character/Xilonen/skill/Skill_S_Xilonen_01.png"
                 },
-                "id": "101032",
+                "id": "11032",
                 "proud_id": "10332"
             },
             {
@@ -8156,16 +8156,16 @@
                     "name": "Skill_E_Xilonen_01.png",
                     "path": "image/character/Xilonen/skill/Skill_E_Xilonen_01.png"
                 },
-                "id": "101035",
+                "id": "11035",
                 "proud_id": "10339"
             }
         ],
         "name": "シロネン",
         "english_name": "Xilonen",
         "proud_map": {
-            "101031": "10331",
-            "101032": "10332",
-            "101035": "10339"
+            "11031": "10331",
+            "11032": "10332",
+            "11035": "10339"
         },
         "quality": 5,
         "costumes": {
