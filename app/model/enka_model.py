@@ -75,7 +75,7 @@ class AvatarInfo(BaseModel):
     talentIdList: list[int] = []
     fightPropMap: dict[str, Decimal]
     skillDepotId: int
-    inherentProudSkillList: list[int]
+    inherentProudSkillList: list[int] = None
     skillLevelMap: dict[str, int]
     proudSkillExtraLevelMap: dict[str, int] = {}
     equipList: list[Equip]
