@@ -8190,6 +8190,180 @@
             }
         }
     },
+    "10000104": {
+        "element": "Wind",
+        "consts": [
+            {
+                "name": "UI_Talent_S_Chasca_01.png",
+                "path": "image/character/Chasca/consts/UI_Talent_S_Chasca_01.png"
+            },
+            {
+                "name": "UI_Talent_S_Chasca_02.png",
+                "path": "image/character/Chasca/consts/UI_Talent_S_Chasca_02.png"
+            },
+            {
+                "name": "UI_Talent_U_Chasca_01.png",
+                "path": "image/character/Chasca/consts/UI_Talent_U_Chasca_01.png"
+            },
+            {
+                "name": "UI_Talent_S_Chasca_03.png",
+                "path": "image/character/Chasca/consts/UI_Talent_S_Chasca_03.png"
+            },
+            {
+                "name": "UI_Talent_U_Chasca_02.png",
+                "path": "image/character/Chasca/consts/UI_Talent_U_Chasca_02.png"
+            },
+            {
+                "name": "UI_Talent_S_Chasca_04.png",
+                "path": "image/character/Chasca/consts/UI_Talent_S_Chasca_04.png"
+            }
+        ],
+        "skills": [
+            {
+                "name": "通常攻撃",
+                "icon": {
+                    "name": "Skill_A_02.png",
+                    "path": "image/character/Chasca/skill/Skill_A_02.png"
+                },
+                "id": "11041",
+                "proud_id": "10431"
+            },
+            {
+                "name": "元素スキル",
+                "icon": {
+                    "name": "Skill_S_Chasca_01.png",
+                    "path": "image/character/Chasca/skill/Skill_S_Chasca_01.png"
+                },
+                "id": "11042",
+                "proud_id": "10432"
+            },
+            {
+                "name": "元素爆発",
+                "icon": {
+                    "name": "Skill_E_Chasca_01.png",
+                    "path": "image/character/Chasca/skill/Skill_E_Chasca_01.png"
+                },
+                "id": "11045",
+                "proud_id": "10439"
+            }
+        ],
+        "name": "チャスカ",
+        "english_name": "Chasca",
+        "proud_map": {
+            "11041": "10431",
+            "11042": "10432",
+            "11045": "10439"
+        },
+        "quality": 5,
+        "costumes": {
+            "default": {
+                "side_icon": {
+                    "name": "UI_AvatarIcon_Side_Chasca.png",
+                    "path": "image/character/Chasca/avatar/default/UI_AvatarIcon_Side_Chasca.png"
+                },
+                "avatar_icon": {
+                    "name": "UI_AvatarIcon_Chasca.png",
+                    "path": "image/character/Chasca/avatar/default/UI_AvatarIcon_Chasca.png"
+                },
+                "gacha_icon": {
+                    "name": "UI_Gacha_AvatarImg_Chasca.png",
+                    "path": "image/character/Chasca/avatar/default/UI_Gacha_AvatarImg_Chasca.png"
+                },
+                "position": {
+                    "x": "-254",
+                    "y": "-8",
+                    "scale": "89"
+                }
+            }
+        }
+    },
+    "10000105": {
+        "element": "Electric",
+        "consts": [
+            {
+                "name": "UI_Talent_S_Olorun_01.png",
+                "path": "image/character/Olorun/consts/UI_Talent_S_Olorun_01.png"
+            },
+            {
+                "name": "UI_Talent_S_Olorun_02.png",
+                "path": "image/character/Olorun/consts/UI_Talent_S_Olorun_02.png"
+            },
+            {
+                "name": "UI_Talent_U_Olorun_01.png",
+                "path": "image/character/Olorun/consts/UI_Talent_U_Olorun_01.png"
+            },
+            {
+                "name": "UI_Talent_S_Olorun_03.png",
+                "path": "image/character/Olorun/consts/UI_Talent_S_Olorun_03.png"
+            },
+            {
+                "name": "UI_Talent_U_Olorun_02.png",
+                "path": "image/character/Olorun/consts/UI_Talent_U_Olorun_02.png"
+            },
+            {
+                "name": "UI_Talent_S_Olorun_04.png",
+                "path": "image/character/Olorun/consts/UI_Talent_S_Olorun_04.png"
+            }
+        ],
+        "skills": [
+            {
+                "name": "通常攻撃",
+                "icon": {
+                    "name": "Skill_A_02.png",
+                    "path": "image/character/Olorun/skill/Skill_A_02.png"
+                },
+                "id": "11051",
+                "proud_id": "10531"
+            },
+            {
+                "name": "元素スキル",
+                "icon": {
+                    "name": "Skill_S_Olorun_01.png",
+                    "path": "image/character/Olorun/skill/Skill_S_Olorun_01.png"
+                },
+                "id": "11052",
+                "proud_id": "10532"
+            },
+            {
+                "name": "元素爆発",
+                "icon": {
+                    "name": "Skill_E_Olorun_01.png",
+                    "path": "image/character/Olorun/skill/Skill_E_Olorun_01.png"
+                },
+                "id": "11055",
+                "proud_id": "10539"
+            }
+        ],
+        "name": "オロルン",
+        "english_name": "Olorun",
+        "proud_map": {
+            "11051": "10531",
+            "11052": "10532",
+            "11055": "10539"
+        },
+        "quality": 4,
+        "costumes": {
+            "default": {
+                "side_icon": {
+                    "name": "UI_AvatarIcon_Side_Olorun.png",
+                    "path": "image/character/Olorun/avatar/default/UI_AvatarIcon_Side_Olorun.png"
+                },
+                "avatar_icon": {
+                    "name": "UI_AvatarIcon_Olorun.png",
+                    "path": "image/character/Olorun/avatar/default/UI_AvatarIcon_Olorun.png"
+                },
+                "gacha_icon": {
+                    "name": "UI_Gacha_AvatarImg_Olorun.png",
+                    "path": "image/character/Olorun/avatar/default/UI_Gacha_AvatarImg_Olorun.png"
+                },
+                "position": {
+                    "x": "-254",
+                    "y": "-8",
+                    "scale": "89"
+                }
+            }
+        }
+    },
     "10000901": {
         "element": "Fire",
         "consts": [

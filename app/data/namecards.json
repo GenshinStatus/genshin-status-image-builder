@@ -1294,5 +1294,35 @@
             "name": "UI_NameCardPic_Bp36_P.png",
             "path": "image/namecard/UI_NameCardPic_Bp36_P.png"
         }
+    },
+    "210221": {
+        "icon": {
+            "name": "UI_NameCardPic_Chasca_P.png",
+            "path": "image/namecard/UI_NameCardPic_Chasca_P.png"
+        }
+    },
+    "210222": {
+        "icon": {
+            "name": "UI_NameCardPic_Olorun_P.png",
+            "path": "image/namecard/UI_NameCardPic_Olorun_P.png"
+        }
+    },
+    "210223": {
+        "icon": {
+            "name": "UI_NameCardPic_Natlan2_P.png",
+            "path": "image/namecard/UI_NameCardPic_Natlan2_P.png"
+        }
+    },
+    "210224": {
+        "icon": {
+            "name": "UI_NameCardPic_Dfcq2_P.png",
+            "path": "image/namecard/UI_NameCardPic_Dfcq2_P.png"
+        }
+    },
+    "210225": {
+        "icon": {
+            "name": "UI_NameCardPic_Bp37_P.png",
+            "path": "image/namecard/UI_NameCardPic_Bp37_P.png"
+        }
     }
 }
