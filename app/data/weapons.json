@@ -244,6 +244,13 @@
         },
         "name": "エズピツァルの笛"
     },
+    "UI_EquipIcon_Sword_SacrificialNgombe": {
+        "icon": {
+            "name": "UI_EquipIcon_Sword_SacrificialNgombe.png",
+            "path": "image/weapon/UI_EquipIcon_Sword_SacrificialNgombe.png"
+        },
+        "name": "厄水の災い"
+    },
     "UI_EquipIcon_Sword_Falcon": {
         "icon": {
             "name": "UI_EquipIcon_Sword_Falcon.png",
@@ -1049,6 +1056,13 @@
         },
         "name": "蒼紋の角杯"
     },
+    "UI_EquipIcon_Catalyst_Umpakati": {
+        "icon": {
+            "name": "UI_EquipIcon_Catalyst_Umpakati.png",
+            "path": "image/weapon/UI_EquipIcon_Catalyst_Umpakati.png"
+        },
+        "name": "波乗りの旋回"
+    },
     "UI_EquipIcon_Catalyst_Isikhulu": {
         "icon": {
             "name": "UI_EquipIcon_Catalyst_Isikhulu.png",
@@ -1357,6 +1371,13 @@
         },
         "name": "レンジゲージ"
     },
+    "UI_EquipIcon_Bow_Umpakati": {
+        "icon": {
+            "name": "UI_EquipIcon_Bow_Umpakati.png",
+            "path": "image/weapon/UI_EquipIcon_Bow_Umpakati.png"
+        },
+        "name": "花飾りの羽"
+    },
     "UI_EquipIcon_Bow_Isikhulu": {
         "icon": {
             "name": "UI_EquipIcon_Bow_Isikhulu.png",
@@ -1426,5 +1447,12 @@
             "path": "image/weapon/UI_EquipIcon_Bow_Arcdange.png"
         },
         "name": "白雨心弦"
+    },
+    "UI_EquipIcon_Bow_Qoyllorsnova": {
+        "icon": {
+            "name": "UI_EquipIcon_Bow_Qoyllorsnova.png",
+            "path": "image/weapon/UI_EquipIcon_Bow_Qoyllorsnova.png"
+        },
+        "name": "星鷲の紅き羽"
     }
 }

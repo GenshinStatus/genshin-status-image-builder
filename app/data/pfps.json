@@ -762,6 +762,20 @@
             "path": "image/pfps/UI_AvatarIcon_Xilonen_Circle.png"
         }
     },
+    "8900": {
+        "name": "オロルン",
+        "icon": {
+            "name": "UI_AvatarIcon_Olorun_Circle.png",
+            "path": "image/pfps/UI_AvatarIcon_Olorun_Circle.png"
+        }
+    },
+    "9000": {
+        "name": "チャスカ",
+        "icon": {
+            "name": "UI_AvatarIcon_Chasca_Circle.png",
+            "path": "image/pfps/UI_AvatarIcon_Chasca_Circle.png"
+        }
+    },
     "100010": {
         "name": "花散里のお面",
         "icon": {
@@ -886,6 +900,13 @@
         "icon": {
             "name": "UI_AvatarIcon_75002_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_75002_Circle.png"
+        }
+    },
+    "100190": {
+        "name": "灰燼の都の最後の勇者",
+        "icon": {
+            "name": "UI_AvatarIcon_75048_Circle.png",
+            "path": "image/pfps/UI_AvatarIcon_75048_Circle.png"
         }
     }
 }
