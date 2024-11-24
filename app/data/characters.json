@@ -7922,9 +7922,9 @@
                     "path": "image/character/Kachina/avatar/default/UI_Gacha_AvatarImg_Kachina.png"
                 },
                 "position": {
-                    "x": "-254",
-                    "y": "-8",
-                    "scale": "89"
+                    "x": "-216",
+                    "y": "39",
+                    "scale": "100"
                 }
             }
         }
@@ -8009,9 +8009,9 @@
                     "path": "image/character/Kinich/avatar/default/UI_Gacha_AvatarImg_Kinich.png"
                 },
                 "position": {
-                    "x": "-254",
-                    "y": "-8",
-                    "scale": "89"
+                    "x": "-194",
+                    "y": "18",
+                    "scale": "100"
                 }
             }
         }
@@ -8096,9 +8096,9 @@
                     "path": "image/character/Mualani/avatar/default/UI_Gacha_AvatarImg_Mualani.png"
                 },
                 "position": {
-                    "x": "-254",
-                    "y": "-8",
-                    "scale": "89"
+                    "x": "-167",
+                    "y": "20",
+                    "scale": "93"
                 }
             }
         }
@@ -8183,9 +8183,9 @@
                     "path": "image/character/Xilonen/avatar/default/UI_Gacha_AvatarImg_Xilonen.png"
                 },
                 "position": {
-                    "x": "-254",
-                    "y": "-8",
-                    "scale": "89"
+                    "x": "-117",
+                    "y": "34",
+                    "scale": "100"
                 }
             }
         }
@@ -8270,9 +8270,9 @@
                     "path": "image/character/Chasca/avatar/default/UI_Gacha_AvatarImg_Chasca.png"
                 },
                 "position": {
-                    "x": "-254",
-                    "y": "-8",
-                    "scale": "89"
+                    "x": "-130",
+                    "y": "-43",
+                    "scale": "81"
                 }
             }
         }
@@ -8357,9 +8357,9 @@
                     "path": "image/character/Olorun/avatar/default/UI_Gacha_AvatarImg_Olorun.png"
                 },
                 "position": {
-                    "x": "-254",
-                    "y": "-8",
-                    "scale": "89"
+                    "x": "-149",
+                    "y": "62",
+                    "scale": "100"
                 }
             }
         }
