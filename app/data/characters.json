@@ -8270,9 +8270,9 @@
                     "path": "image/character/Chasca/avatar/default/UI_Gacha_AvatarImg_Chasca.png"
                 },
                 "position": {
-                    "x": "-130",
-                    "y": "-43",
-                    "scale": "81"
+                    "x": "-203",
+                    "y": "25",
+                    "scale": "90"
                 }
             }
         }
