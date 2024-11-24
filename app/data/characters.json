@@ -8312,7 +8312,7 @@
                     "name": "Skill_A_02.png",
                     "path": "image/character/Olorun/skill/Skill_A_02.png"
                 },
-                "id": "11051",
+                "id": "30501",
                 "proud_id": "10531"
             },
             {
@@ -8321,7 +8321,7 @@
                     "name": "Skill_S_Olorun_01.png",
                     "path": "image/character/Olorun/skill/Skill_S_Olorun_01.png"
                 },
-                "id": "11052",
+                "id": "30502",
                 "proud_id": "10532"
             },
             {
@@ -8330,16 +8330,16 @@
                     "name": "Skill_E_Olorun_01.png",
                     "path": "image/character/Olorun/skill/Skill_E_Olorun_01.png"
                 },
-                "id": "11055",
+                "id": "30505",
                 "proud_id": "10539"
             }
         ],
         "name": "オロルン",
         "english_name": "Olorun",
         "proud_map": {
-            "11051": "10531",
-            "11052": "10532",
-            "11055": "10539"
+            "30501": "10531",
+            "30502": "10532",
+            "30505": "10539"
         },
         "quality": 4,
         "costumes": {
