@@ -1324,5 +1324,47 @@
             "name": "UI_NameCardPic_Bp37_P.png",
             "path": "image/namecard/UI_NameCardPic_Bp37_P.png"
         }
+    },
+    "210226": {
+        "icon": {
+            "name": "UI_NameCardPic_Mavuika_P.png",
+            "path": "image/namecard/UI_NameCardPic_Mavuika_P.png"
+        }
+    },
+    "210227": {
+        "icon": {
+            "name": "UI_NameCardPic_Citlali_P.png",
+            "path": "image/namecard/UI_NameCardPic_Citlali_P.png"
+        }
+    },
+    "210228": {
+        "icon": {
+            "name": "UI_NameCardPic_Lanyan_P.png",
+            "path": "image/namecard/UI_NameCardPic_Lanyan_P.png"
+        }
+    },
+    "210229": {
+        "icon": {
+            "name": "UI_NameCardPic_Csxy5_P.png",
+            "path": "image/namecard/UI_NameCardPic_Csxy5_P.png"
+        }
+    },
+    "210230": {
+        "icon": {
+            "name": "UI_NameCardPic_Tzz10_P.png",
+            "path": "image/namecard/UI_NameCardPic_Tzz10_P.png"
+        }
+    },
+    "210231": {
+        "icon": {
+            "name": "UI_NameCardPic_MusicGame01_P.png",
+            "path": "image/namecard/UI_NameCardPic_MusicGame01_P.png"
+        }
+    },
+    "210232": {
+        "icon": {
+            "name": "UI_NameCardPic_Bp38_P.png",
+            "path": "image/namecard/UI_NameCardPic_Bp38_P.png"
+        }
     }
 }

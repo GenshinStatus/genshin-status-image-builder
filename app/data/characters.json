@@ -1192,6 +1192,25 @@
                     "y": 4,
                     "scale": 99
                 }
+            },
+            "202301": {
+                "side_icon": {
+                    "name": "UI_AvatarIcon_Side_XianglingCostumeWinter.png",
+                    "path": "image/character/Xiangling/avatar/202301/UI_AvatarIcon_Side_XianglingCostumeWinter.png"
+                },
+                "avatar_icon": {
+                    "name": "UI_AvatarIcon_XianglingCostumeWinter.png",
+                    "path": "image/character/Xiangling/avatar/202301/avatar/202301/UI_AvatarIcon_XianglingCostumeWinter.png"
+                },
+                "gacha_icon": {
+                    "name": "UI_Costume_XianglingCostumeWinter.png",
+                    "path": "image/character/Xiangling/avatar/202301/avatar/202301/UI_Costume_XianglingCostumeWinter.png"
+                },
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "scale": 100
+                }
             }
         }
     },
@@ -3170,6 +3189,25 @@
                     "x": -242,
                     "y": 29,
                     "scale": 93
+                }
+            },
+            "204601": {
+                "side_icon": {
+                    "name": "UI_AvatarIcon_Side_HutaoCostumeWinter.png",
+                    "path": "image/character/Hutao/avatar/204601/UI_AvatarIcon_Side_HutaoCostumeWinter.png"
+                },
+                "avatar_icon": {
+                    "name": "UI_AvatarIcon_HutaoCostumeWinter.png",
+                    "path": "image/character/Hutao/avatar/204601/avatar/204601/UI_AvatarIcon_HutaoCostumeWinter.png"
+                },
+                "gacha_icon": {
+                    "name": "UI_Costume_HutaoCostumeWinter.png",
+                    "path": "image/character/Hutao/avatar/204601/avatar/204601/UI_Costume_HutaoCostumeWinter.png"
+                },
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "scale": 100
                 }
             }
         }
@@ -8360,6 +8398,267 @@
                     "x": "-149",
                     "y": "62",
                     "scale": "100"
+                }
+            }
+        }
+    },
+    "10000106": {
+        "element": "Fire",
+        "consts": [
+            {
+                "name": "UI_Talent_S_Mavuika_01.png",
+                "path": "image/character/Mavuika/consts/UI_Talent_S_Mavuika_01.png"
+            },
+            {
+                "name": "UI_Talent_S_Mavuika_02.png",
+                "path": "image/character/Mavuika/consts/UI_Talent_S_Mavuika_02.png"
+            },
+            {
+                "name": "UI_Talent_U_Mavuika_01.png",
+                "path": "image/character/Mavuika/consts/UI_Talent_U_Mavuika_01.png"
+            },
+            {
+                "name": "UI_Talent_S_Mavuika_03.png",
+                "path": "image/character/Mavuika/consts/UI_Talent_S_Mavuika_03.png"
+            },
+            {
+                "name": "UI_Talent_U_Mavuika_02.png",
+                "path": "image/character/Mavuika/consts/UI_Talent_U_Mavuika_02.png"
+            },
+            {
+                "name": "UI_Talent_S_Mavuika_04.png",
+                "path": "image/character/Mavuika/consts/UI_Talent_S_Mavuika_04.png"
+            }
+        ],
+        "skills": [
+            {
+                "name": "通常攻撃",
+                "icon": {
+                    "name": "Skill_A_04.png",
+                    "path": "image/character/Mavuika/skill/Skill_A_04.png"
+                },
+                "id": "30601",
+                "proud_id": "10631"
+            },
+            {
+                "name": "元素スキル",
+                "icon": {
+                    "name": "Skill_S_Mavuika_01.png",
+                    "path": "image/character/Mavuika/skill/Skill_S_Mavuika_01.png"
+                },
+                "id": "30602",
+                "proud_id": "10632"
+            },
+            {
+                "name": "元素爆発",
+                "icon": {
+                    "name": "Skill_E_Mavuika_01.png",
+                    "path": "image/character/Mavuika/skill/Skill_E_Mavuika_01.png"
+                },
+                "id": "30605",
+                "proud_id": "10639"
+            }
+        ],
+        "name": "マーヴィカ",
+        "english_name": "Mavuika",
+        "proud_map": {
+            "30601": "10631",
+            "30602": "10632",
+            "30605": "10639"
+        },
+        "quality": 5,
+        "costumes": {
+            "default": {
+                "side_icon": {
+                    "name": "UI_AvatarIcon_Side_Mavuika.png",
+                    "path": "image/character/Mavuika/avatar/default/UI_AvatarIcon_Side_Mavuika.png"
+                },
+                "avatar_icon": {
+                    "name": "UI_AvatarIcon_Mavuika.png",
+                    "path": "image/character/Mavuika/avatar/default/UI_AvatarIcon_Mavuika.png"
+                },
+                "gacha_icon": {
+                    "name": "UI_Gacha_AvatarImg_Mavuika.png",
+                    "path": "image/character/Mavuika/avatar/default/UI_Gacha_AvatarImg_Mavuika.png"
+                },
+                "position": {
+                    "x": "-254",
+                    "y": "-8",
+                    "scale": "89"
+                }
+            }
+        }
+    },
+    "10000107": {
+        "element": "Electric",
+        "consts": [
+            {
+                "name": "UI_Talent_S_Citlali_01.png",
+                "path": "image/character/Citlali/consts/UI_Talent_S_Citlali_01.png"
+            },
+            {
+                "name": "UI_Talent_S_Citlali_02.png",
+                "path": "image/character/Citlali/consts/UI_Talent_S_Citlali_02.png"
+            },
+            {
+                "name": "UI_Talent_U_Citlali_01.png",
+                "path": "image/character/Citlali/consts/UI_Talent_U_Citlali_01.png"
+            },
+            {
+                "name": "UI_Talent_S_Citlali_03.png",
+                "path": "image/character/Citlali/consts/UI_Talent_S_Citlali_03.png"
+            },
+            {
+                "name": "UI_Talent_U_Citlali_02.png",
+                "path": "image/character/Citlali/consts/UI_Talent_U_Citlali_02.png"
+            },
+            {
+                "name": "UI_Talent_S_Citlali_04.png",
+                "path": "image/character/Citlali/consts/UI_Talent_S_Citlali_04.png"
+            }
+        ],
+        "skills": [
+            {
+                "name": "通常攻撃",
+                "icon": {
+                    "name": "Skill_A_Catalyst_MD.png",
+                    "path": "image/character/Citlali/skill/Skill_A_Catalyst_MD.png"
+                },
+                "id": "30701",
+                "proud_id": "10731"
+            },
+            {
+                "name": "元素スキル",
+                "icon": {
+                    "name": "Skill_S_Citlali_01.png",
+                    "path": "image/character/Citlali/skill/Skill_S_Citlali_01.png"
+                },
+                "id": "30702",
+                "proud_id": "10732"
+            },
+            {
+                "name": "元素爆発",
+                "icon": {
+                    "name": "Skill_E_Citlali_01.png",
+                    "path": "image/character/Citlali/skill/Skill_E_Citlali_01.png"
+                },
+                "id": "30705",
+                "proud_id": "10739"
+            }
+        ],
+        "name": "シトラリ",
+        "english_name": "Citlali",
+        "proud_map": {
+            "30701": "10731",
+            "30702": "10732",
+            "30705": "10739"
+        },
+        "quality": 5,
+        "costumes": {
+            "default": {
+                "side_icon": {
+                    "name": "UI_AvatarIcon_Side_Citlali.png",
+                    "path": "image/character/Citlali/avatar/default/UI_AvatarIcon_Side_Citlali.png"
+                },
+                "avatar_icon": {
+                    "name": "UI_AvatarIcon_Citlali.png",
+                    "path": "image/character/Citlali/avatar/default/UI_AvatarIcon_Citlali.png"
+                },
+                "gacha_icon": {
+                    "name": "UI_Gacha_AvatarImg_Citlali.png",
+                    "path": "image/character/Citlali/avatar/default/UI_Gacha_AvatarImg_Citlali.png"
+                },
+                "position": {
+                    "x": "-254",
+                    "y": "-8",
+                    "scale": "89"
+                }
+            }
+        }
+    },
+    "10000108": {
+        "element": "Wind",
+        "consts": [
+            {
+                "name": "UI_Talent_S_Lanyan_01.png",
+                "path": "image/character/Lanyan/consts/UI_Talent_S_Lanyan_01.png"
+            },
+            {
+                "name": "UI_Talent_S_Lanyan_02.png",
+                "path": "image/character/Lanyan/consts/UI_Talent_S_Lanyan_02.png"
+            },
+            {
+                "name": "UI_Talent_U_Lanyan_01.png",
+                "path": "image/character/Lanyan/consts/UI_Talent_U_Lanyan_01.png"
+            },
+            {
+                "name": "UI_Talent_S_Lanyan_03.png",
+                "path": "image/character/Lanyan/consts/UI_Talent_S_Lanyan_03.png"
+            },
+            {
+                "name": "UI_Talent_U_Lanyan_02.png",
+                "path": "image/character/Lanyan/consts/UI_Talent_U_Lanyan_02.png"
+            },
+            {
+                "name": "UI_Talent_S_Lanyan_04.png",
+                "path": "image/character/Lanyan/consts/UI_Talent_S_Lanyan_04.png"
+            }
+        ],
+        "skills": [
+            {
+                "name": "通常攻撃",
+                "icon": {
+                    "name": "Skill_A_Catalyst_MD.png",
+                    "path": "image/character/Lanyan/skill/Skill_A_Catalyst_MD.png"
+                },
+                "id": "30801",
+                "proud_id": "10831"
+            },
+            {
+                "name": "元素スキル",
+                "icon": {
+                    "name": "Skill_S_Lanyan_01.png",
+                    "path": "image/character/Lanyan/skill/Skill_S_Lanyan_01.png"
+                },
+                "id": "30802",
+                "proud_id": "10832"
+            },
+            {
+                "name": "元素爆発",
+                "icon": {
+                    "name": "Skill_E_Lanyan_01.png",
+                    "path": "image/character/Lanyan/skill/Skill_E_Lanyan_01.png"
+                },
+                "id": "30805",
+                "proud_id": "10839"
+            }
+        ],
+        "name": "藍硯",
+        "english_name": "Lanyan",
+        "proud_map": {
+            "30801": "10831",
+            "30802": "10832",
+            "30805": "10839"
+        },
+        "quality": 4,
+        "costumes": {
+            "default": {
+                "side_icon": {
+                    "name": "UI_AvatarIcon_Side_Lanyan.png",
+                    "path": "image/character/Lanyan/avatar/default/UI_AvatarIcon_Side_Lanyan.png"
+                },
+                "avatar_icon": {
+                    "name": "UI_AvatarIcon_Lanyan.png",
+                    "path": "image/character/Lanyan/avatar/default/UI_AvatarIcon_Lanyan.png"
+                },
+                "gacha_icon": {
+                    "name": "UI_Gacha_AvatarImg_Lanyan.png",
+                    "path": "image/character/Lanyan/avatar/default/UI_Gacha_AvatarImg_Lanyan.png"
+                },
+                "position": {
+                    "x": "-254",
+                    "y": "-8",
+                    "scale": "89"
                 }
             }
         }

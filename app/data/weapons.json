@@ -615,6 +615,13 @@
         },
         "name": "山の王の長牙"
     },
+    "UI_EquipIcon_Claymore_RadianceSword": {
+        "icon": {
+            "name": "UI_EquipIcon_Claymore_RadianceSword.png",
+            "path": "image/weapon/UI_EquipIcon_Claymore_RadianceSword.png"
+        },
+        "name": "千烈の日輪"
+    },
     "UI_EquipIcon_Pole_Gewalt": {
         "icon": {
             "name": "UI_EquipIcon_Pole_Gewalt.png",
@@ -1153,6 +1160,13 @@
             "path": "image/weapon/UI_EquipIcon_Catalyst_MechaPufferfish.png"
         },
         "name": "サーフィンタイム"
+    },
+    "UI_EquipIcon_Catalyst_Figurines": {
+        "icon": {
+            "name": "UI_EquipIcon_Catalyst_Figurines.png",
+            "path": "image/weapon/UI_EquipIcon_Catalyst_Figurines.png"
+        },
+        "name": "祭星者の眺め"
     },
     "UI_EquipIcon_Bow_Hunters": {
         "icon": {
