@@ -1207,9 +1207,9 @@
                     "path": "image/character/Xiangling/avatar/202301/avatar/202301/UI_Costume_XianglingCostumeWinter.png"
                 },
                 "position": {
-                    "x": 0,
+                    "x": -200,
                     "y": 0,
-                    "scale": 100
+                    "scale": 90
                 }
             }
         }
@@ -3205,7 +3205,7 @@
                     "path": "image/character/Hutao/avatar/204601/avatar/204601/UI_Costume_HutaoCostumeWinter.png"
                 },
                 "position": {
-                    "x": 0,
+                    "x": -200,
                     "y": 0,
                     "scale": 100
                 }
@@ -8482,9 +8482,9 @@
                     "path": "image/character/Mavuika/avatar/default/UI_Gacha_AvatarImg_Mavuika.png"
                 },
                 "position": {
-                    "x": "-254",
+                    "x": "-200",
                     "y": "-8",
-                    "scale": "89"
+                    "scale": "80"
                 }
             }
         }
