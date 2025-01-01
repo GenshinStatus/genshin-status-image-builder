@@ -83,6 +83,13 @@
             "path": "image/pfps/UI_AvatarIcon_Xiangling_Circle.png"
         }
     },
+    "601": {
+        "name": "香菱・大つごもりの歓声",
+        "icon": {
+            "name": "UI_AvatarIcon_XianglingCostumeWinter_Circle.png",
+            "path": "image/pfps/UI_AvatarIcon_XianglingCostumeWinter_Circle.png"
+        }
+    },
     "700": {
         "name": "北斗",
         "icon": {
@@ -312,6 +319,13 @@
         "icon": {
             "name": "UI_AvatarIcon_Hutao_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Hutao_Circle.png"
+        }
+    },
+    "2901": {
+        "name": "胡桃・残雪に咲く紅",
+        "icon": {
+            "name": "UI_AvatarIcon_HutaoCostumeWinter_Circle.png",
+            "path": "image/pfps/UI_AvatarIcon_HutaoCostumeWinter_Circle.png"
         }
     },
     "3000": {
@@ -774,6 +788,27 @@
         "icon": {
             "name": "UI_AvatarIcon_Chasca_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Chasca_Circle.png"
+        }
+    },
+    "9100": {
+        "name": "シトラリ",
+        "icon": {
+            "name": "UI_AvatarIcon_Citlali_Circle.png",
+            "path": "image/pfps/UI_AvatarIcon_Citlali_Circle.png"
+        }
+    },
+    "9200": {
+        "name": "マーヴィカ",
+        "icon": {
+            "name": "UI_AvatarIcon_Mavuika_Circle.png",
+            "path": "image/pfps/UI_AvatarIcon_Mavuika_Circle.png"
+        }
+    },
+    "9300": {
+        "name": "藍硯",
+        "icon": {
+            "name": "UI_AvatarIcon_Lanyan_Circle.png",
+            "path": "image/pfps/UI_AvatarIcon_Lanyan_Circle.png"
         }
     },
     "100010": {
