@@ -8437,7 +8437,7 @@
                     "name": "Skill_A_04.png",
                     "path": "image/character/Mavuika/skill/Skill_A_04.png"
                 },
-                "id": "30601",
+                "id": "11061",
                 "proud_id": "10631"
             },
             {
@@ -8446,7 +8446,7 @@
                     "name": "Skill_S_Mavuika_01.png",
                     "path": "image/character/Mavuika/skill/Skill_S_Mavuika_01.png"
                 },
-                "id": "30602",
+                "id": "11062",
                 "proud_id": "10632"
             },
             {
@@ -8455,16 +8455,16 @@
                     "name": "Skill_E_Mavuika_01.png",
                     "path": "image/character/Mavuika/skill/Skill_E_Mavuika_01.png"
                 },
-                "id": "30605",
+                "id": "11065",
                 "proud_id": "10639"
             }
         ],
         "name": "マーヴィカ",
         "english_name": "Mavuika",
         "proud_map": {
-            "30601": "10631",
-            "30602": "10632",
-            "30605": "10639"
+            "11061": "10631",
+            "11062": "10632",
+            "11065": "10639"
         },
         "quality": 5,
         "costumes": {
@@ -8524,7 +8524,7 @@
                     "name": "Skill_A_Catalyst_MD.png",
                     "path": "image/character/Citlali/skill/Skill_A_Catalyst_MD.png"
                 },
-                "id": "30701",
+                "id": "11071",
                 "proud_id": "10731"
             },
             {
@@ -8533,7 +8533,7 @@
                     "name": "Skill_S_Citlali_01.png",
                     "path": "image/character/Citlali/skill/Skill_S_Citlali_01.png"
                 },
-                "id": "30702",
+                "id": "11072",
                 "proud_id": "10732"
             },
             {
@@ -8542,16 +8542,16 @@
                     "name": "Skill_E_Citlali_01.png",
                     "path": "image/character/Citlali/skill/Skill_E_Citlali_01.png"
                 },
-                "id": "30705",
+                "id": "11075",
                 "proud_id": "10739"
             }
         ],
         "name": "シトラリ",
         "english_name": "Citlali",
         "proud_map": {
-            "30701": "10731",
-            "30702": "10732",
-            "30705": "10739"
+            "11071": "10731",
+            "11072": "10732",
+            "11075": "10739"
         },
         "quality": 5,
         "costumes": {
