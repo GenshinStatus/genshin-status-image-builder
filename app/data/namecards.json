@@ -1366,5 +1366,23 @@
             "name": "UI_NameCardPic_Bp38_P.png",
             "path": "image/namecard/UI_NameCardPic_Bp38_P.png"
         }
+    },
+    "210233": {
+        "icon": {
+            "name": "UI_NameCardPic_Mizuki_P.png",
+            "path": "image/namecard/UI_NameCardPic_Mizuki_P.png"
+        }
+    },
+    "210234": {
+        "icon": {
+            "name": "UI_NameCardPic_TowerChallenge_P.png",
+            "path": "image/namecard/UI_NameCardPic_TowerChallenge_P.png"
+        }
+    },
+    "210235": {
+        "icon": {
+            "name": "UI_NameCardPic_Bp39_P.png",
+            "path": "image/namecard/UI_NameCardPic_Bp39_P.png"
+        }
     }
 }
