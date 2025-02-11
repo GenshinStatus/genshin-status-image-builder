@@ -8924,6 +8924,93 @@
             }
         }
     },
+    "10000005-702": {
+        "element": "Fire",
+        "consts": [
+            {
+                "name": "UI_Talent_S_PlayerFire_01.png",
+                "path": "image/character/PlayerBoy/consts/UI_Talent_S_PlayerFire_01.png"
+            },
+            {
+                "name": "UI_Talent_S_PlayerFire_02.png",
+                "path": "image/character/PlayerBoy/consts/UI_Talent_S_PlayerFire_02.png"
+            },
+            {
+                "name": "UI_Talent_U_PlayerFire_02.png",
+                "path": "image/character/PlayerBoy/consts/UI_Talent_U_PlayerFire_02.png"
+            },
+            {
+                "name": "UI_Talent_S_PlayerFire_03.png",
+                "path": "image/character/PlayerBoy/consts/UI_Talent_S_PlayerFire_03.png"
+            },
+            {
+                "name": "UI_Talent_U_PlayerFire_01.png",
+                "path": "image/character/PlayerBoy/consts/UI_Talent_U_PlayerFire_01.png"
+            },
+            {
+                "name": "UI_Talent_S_PlayerFire_04.png",
+                "path": "image/character/PlayerBoy/consts/UI_Talent_S_PlayerFire_04.png"
+            }
+        ],
+        "skills": [
+            {
+                "name": "通常攻撃",
+                "icon": {
+                    "name": "Skill_A_01.png",
+                    "path": "image/character/PlayerBoy/skill/Skill_A_01.png"
+                },
+                "id": "100541",
+                "proud_id": "531"
+            },
+            {
+                "name": "元素スキル",
+                "icon": {
+                    "name": "Skill_S_PlayerFire_01.png",
+                    "path": "image/character/PlayerBoy/skill/Skill_S_PlayerFire_01.png"
+                },
+                "id": "10097",
+                "proud_id": "532"
+            },
+            {
+                "name": "元素爆発",
+                "icon": {
+                    "name": "Skill_E_PlayerFire_01.png",
+                    "path": "image/character/PlayerBoy/skill/Skill_E_PlayerFire_01.png"
+                },
+                "id": "10098",
+                "proud_id": "539"
+            }
+        ],
+        "name": "旅人",
+        "english_name": "PlayerBoy",
+        "proud_map": {
+            "10097": "531",
+            "10098": "532",
+            "100541": "539"
+        },
+        "quality": 5,
+        "costumes": {
+            "default": {
+                "side_icon": {
+                    "name": "UI_AvatarIcon_Side_PlayerBoy.png",
+                    "path": "image/character/PlayerBoy/avatar/default/UI_AvatarIcon_Side_PlayerBoy.png"
+                },
+                "avatar_icon": {
+                    "name": "UI_AvatarIcon_PlayerBoy.png",
+                    "path": "image/character/PlayerBoy/avatar/default/UI_AvatarIcon_PlayerBoy.png"
+                },
+                "gacha_icon": {
+                    "name": "UI_Gacha_AvatarImg_PlayerBoy.png",
+                    "path": "image/character/PlayerBoy/avatar/default/UI_Gacha_AvatarImg_PlayerBoy.png"
+                },
+                "position": {
+                    "x": -210,
+                    "y": 32,
+                    "scale": 95
+                }
+            }
+        }
+    },
     "10000005-503": {
         "element": "Water",
         "consts": [
@@ -9422,6 +9509,93 @@
             "10067": "732",
             "10068": "739",
             "100550": "731"
+        },
+        "quality": 5,
+        "costumes": {
+            "default": {
+                "side_icon": {
+                    "name": "UI_AvatarIcon_Side_PlayerGirl.png",
+                    "path": "image/character/PlayerGirl/avatar/default/UI_AvatarIcon_Side_PlayerGirl.png"
+                },
+                "avatar_icon": {
+                    "name": "UI_AvatarIcon_PlayerGirl.png",
+                    "path": "image/character/PlayerGirl/avatar/default/UI_AvatarIcon_PlayerGirl.png"
+                },
+                "gacha_icon": {
+                    "name": "UI_Gacha_AvatarImg_PlayerGirl.png",
+                    "path": "image/character/PlayerGirl/avatar/default/UI_Gacha_AvatarImg_PlayerGirl.png"
+                },
+                "position": {
+                    "x": -210,
+                    "y": 32,
+                    "scale": 95
+                }
+            }
+        }
+    },
+    "10000007-702": {
+        "element": "Fire",
+        "consts": [
+            {
+                "name": "UI_Talent_S_PlayerFire_01.png",
+                "path": "image/character/PlayerGirl/consts/UI_Talent_S_PlayerFire_01.png"
+            },
+            {
+                "name": "UI_Talent_S_PlayerFire_02.png",
+                "path": "image/character/PlayerGirl/consts/UI_Talent_S_PlayerFire_02.png"
+            },
+            {
+                "name": "UI_Talent_U_PlayerFire_02.png",
+                "path": "image/character/PlayerGirl/consts/UI_Talent_U_PlayerFire_02.png"
+            },
+            {
+                "name": "UI_Talent_S_PlayerFire_03.png",
+                "path": "image/character/PlayerGirl/consts/UI_Talent_S_PlayerFire_03.png"
+            },
+            {
+                "name": "UI_Talent_U_PlayerFire_01.png",
+                "path": "image/character/PlayerGirl/consts/UI_Talent_U_PlayerFire_01.png"
+            },
+            {
+                "name": "UI_Talent_S_PlayerFire_04.png",
+                "path": "image/character/PlayerGirl/consts/UI_Talent_S_PlayerFire_04.png"
+            }
+        ],
+        "skills": [
+            {
+                "name": "通常攻撃",
+                "icon": {
+                    "name": "Skill_A_01.png",
+                    "path": "image/character/PlayerGirl/skill/Skill_A_01.png"
+                },
+                "id": "100541",
+                "proud_id": "531"
+            },
+            {
+                "name": "元素スキル",
+                "icon": {
+                    "name": "Skill_S_PlayerFire_01.png",
+                    "path": "image/character/PlayerGirl/skill/Skill_S_PlayerFire_01.png"
+                },
+                "id": "10097",
+                "proud_id": "532"
+            },
+            {
+                "name": "元素爆発",
+                "icon": {
+                    "name": "Skill_E_PlayerFire_01.png",
+                    "path": "image/character/PlayerGirl/skill/Skill_E_PlayerFire_01.png"
+                },
+                "id": "10098",
+                "proud_id": "539"
+            }
+        ],
+        "name": "旅人",
+        "english_name": "PlayerGirl",
+        "proud_map": {
+            "10097": "531",
+            "10098": "532",
+            "100541": "539"
         },
         "quality": 5,
         "costumes": {
