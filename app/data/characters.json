@@ -8490,7 +8490,7 @@
         }
     },
     "10000107": {
-        "element": "Electric",
+        "element": "Ice",
         "consts": [
             {
                 "name": "UI_Talent_S_Citlali_01.png",
@@ -8654,6 +8654,93 @@
                 "gacha_icon": {
                     "name": "UI_Gacha_AvatarImg_Lanyan.png",
                     "path": "image/character/Lanyan/avatar/default/UI_Gacha_AvatarImg_Lanyan.png"
+                },
+                "position": {
+                    "x": "-254",
+                    "y": "-8",
+                    "scale": "89"
+                }
+            }
+        }
+    },
+    "10000109": {
+        "element": "Wind",
+        "consts": [
+            {
+                "name": "UI_Talent_S_Mizuki_01.png",
+                "path": "image/character/Mizuki/consts/UI_Talent_S_Mizuki_01.png"
+            },
+            {
+                "name": "UI_Talent_S_Mizuki_02.png",
+                "path": "image/character/Mizuki/consts/UI_Talent_S_Mizuki_02.png"
+            },
+            {
+                "name": "UI_Talent_U_Mizuki_01.png",
+                "path": "image/character/Mizuki/consts/UI_Talent_U_Mizuki_01.png"
+            },
+            {
+                "name": "UI_Talent_S_Mizuki_03.png",
+                "path": "image/character/Mizuki/consts/UI_Talent_S_Mizuki_03.png"
+            },
+            {
+                "name": "UI_Talent_U_Mizuki_02.png",
+                "path": "image/character/Mizuki/consts/UI_Talent_U_Mizuki_02.png"
+            },
+            {
+                "name": "UI_Talent_S_Mizuki_04.png",
+                "path": "image/character/Mizuki/consts/UI_Talent_S_Mizuki_04.png"
+            }
+        ],
+        "skills": [
+            {
+                "name": "通常攻撃",
+                "icon": {
+                    "name": "Skill_A_Catalyst_MD.png",
+                    "path": "image/character/Mizuki/skill/Skill_A_Catalyst_MD.png"
+                },
+                "id": "11091",
+                "proud_id": "10931"
+            },
+            {
+                "name": "元素スキル",
+                "icon": {
+                    "name": "Skill_S_Mizuki_01.png",
+                    "path": "image/character/Mizuki/skill/Skill_S_Mizuki_01.png"
+                },
+                "id": "11092",
+                "proud_id": "10932"
+            },
+            {
+                "name": "元素爆発",
+                "icon": {
+                    "name": "Skill_E_Mizuki_01.png",
+                    "path": "image/character/Mizuki/skill/Skill_E_Mizuki_01.png"
+                },
+                "id": "11095",
+                "proud_id": "10939"
+            }
+        ],
+        "name": "夢見月瑞希",
+        "english_name": "Mizuki",
+        "proud_map": {
+            "11091": "10931",
+            "11092": "10932",
+            "11095": "10939"
+        },
+        "quality": 5,
+        "costumes": {
+            "default": {
+                "side_icon": {
+                    "name": "UI_AvatarIcon_Side_Mizuki.png",
+                    "path": "image/character/Mizuki/avatar/default/UI_AvatarIcon_Side_Mizuki.png"
+                },
+                "avatar_icon": {
+                    "name": "UI_AvatarIcon_Mizuki.png",
+                    "path": "image/character/Mizuki/avatar/default/UI_AvatarIcon_Mizuki.png"
+                },
+                "gacha_icon": {
+                    "name": "UI_Gacha_AvatarImg_Mizuki.png",
+                    "path": "image/character/Mizuki/avatar/default/UI_Gacha_AvatarImg_Mizuki.png"
                 },
                 "position": {
                     "x": "-254",

@@ -804,6 +804,13 @@
         },
         "name": "虹の行方"
     },
+    "UI_EquipIcon_Pole_Aoandon": {
+        "icon": {
+            "name": "UI_EquipIcon_Pole_Aoandon.png",
+            "path": "image/weapon/UI_EquipIcon_Pole_Aoandon.png"
+        },
+        "name": "玉響停の御噺"
+    },
     "UI_EquipIcon_Pole_Homa": {
         "icon": {
             "name": "UI_EquipIcon_Pole_Homa.png",
@@ -1167,6 +1174,13 @@
             "path": "image/weapon/UI_EquipIcon_Catalyst_Figurines.png"
         },
         "name": "祭星者の眺め"
+    },
+    "UI_EquipIcon_Catalyst_SakuraFan": {
+        "icon": {
+            "name": "UI_EquipIcon_Catalyst_SakuraFan.png",
+            "path": "image/weapon/UI_EquipIcon_Catalyst_SakuraFan.png"
+        },
+        "name": "寝正月の初晴"
     },
     "UI_EquipIcon_Bow_Hunters": {
         "icon": {
