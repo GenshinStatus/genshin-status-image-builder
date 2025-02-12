@@ -9568,7 +9568,7 @@
                     "name": "Skill_A_01.png",
                     "path": "image/character/PlayerGirl/skill/Skill_A_01.png"
                 },
-                "id": "100541",
+                "id": "100551",
                 "proud_id": "531"
             },
             {
@@ -9595,7 +9595,7 @@
         "proud_map": {
             "10097": "531",
             "10098": "532",
-            "100541": "539"
+            "100551": "539"
         },
         "quality": 5,
         "costumes": {
