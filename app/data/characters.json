@@ -8629,16 +8629,16 @@
                     "name": "Skill_E_Lanyan_01.png",
                     "path": "image/character/Lanyan/skill/Skill_E_Lanyan_01.png"
                 },
-                "id": "30805",
+                "id": "11085",
                 "proud_id": "10839"
             }
         ],
         "name": "藍硯",
         "english_name": "Lanyan",
         "proud_map": {
-            "30801": "10831",
-            "30802": "10832",
-            "30805": "10839"
+            "11081": "10831",
+            "11082": "10832",
+            "11085": "10839"
         },
         "quality": 4,
         "costumes": {
