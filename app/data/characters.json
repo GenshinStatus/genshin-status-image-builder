@@ -8611,7 +8611,7 @@
                     "name": "Skill_A_Catalyst_MD.png",
                     "path": "image/character/Lanyan/skill/Skill_A_Catalyst_MD.png"
                 },
-                "id": "30801",
+                "id": "11081",
                 "proud_id": "10831"
             },
             {
@@ -8620,7 +8620,7 @@
                     "name": "Skill_S_Lanyan_01.png",
                     "path": "image/character/Lanyan/skill/Skill_S_Lanyan_01.png"
                 },
-                "id": "30802",
+                "id": "11082",
                 "proud_id": "10832"
             },
             {
@@ -8629,7 +8629,7 @@
                     "name": "Skill_E_Lanyan_01.png",
                     "path": "image/character/Lanyan/skill/Skill_E_Lanyan_01.png"
                 },
-                "id": "30805",
+                "id": "11085",
                 "proud_id": "10839"
             }
         ],
