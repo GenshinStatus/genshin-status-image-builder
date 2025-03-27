@@ -2079,6 +2079,86 @@
         "set_name": "紛争の前夜",
         "equip_type": "EQUIP_SHOES"
     },
+    "UI_RelicIcon_15039_1": {
+        "icon": {
+            "name": "UI_RelicIcon_15039_1.png",
+            "path": "image/artifact/UI_RelicIcon_15039_1.png"
+        },
+        "set_name": "長き夜の誓い",
+        "equip_type": "EQUIP_RING"
+    },
+    "UI_RelicIcon_15039_2": {
+        "icon": {
+            "name": "UI_RelicIcon_15039_2.png",
+            "path": "image/artifact/UI_RelicIcon_15039_2.png"
+        },
+        "set_name": "長き夜の誓い",
+        "equip_type": "EQUIP_NECKLACE"
+    },
+    "UI_RelicIcon_15039_3": {
+        "icon": {
+            "name": "UI_RelicIcon_15039_3.png",
+            "path": "image/artifact/UI_RelicIcon_15039_3.png"
+        },
+        "set_name": "長き夜の誓い",
+        "equip_type": "EQUIP_DRESS"
+    },
+    "UI_RelicIcon_15039_4": {
+        "icon": {
+            "name": "UI_RelicIcon_15039_4.png",
+            "path": "image/artifact/UI_RelicIcon_15039_4.png"
+        },
+        "set_name": "長き夜の誓い",
+        "equip_type": "EQUIP_BRACER"
+    },
+    "UI_RelicIcon_15039_5": {
+        "icon": {
+            "name": "UI_RelicIcon_15039_5.png",
+            "path": "image/artifact/UI_RelicIcon_15039_5.png"
+        },
+        "set_name": "長き夜の誓い",
+        "equip_type": "EQUIP_SHOES"
+    },
+    "UI_RelicIcon_15040_1": {
+        "icon": {
+            "name": "UI_RelicIcon_15040_1.png",
+            "path": "image/artifact/UI_RelicIcon_15040_1.png"
+        },
+        "set_name": "深廊の終曲",
+        "equip_type": "EQUIP_RING"
+    },
+    "UI_RelicIcon_15040_2": {
+        "icon": {
+            "name": "UI_RelicIcon_15040_2.png",
+            "path": "image/artifact/UI_RelicIcon_15040_2.png"
+        },
+        "set_name": "深廊の終曲",
+        "equip_type": "EQUIP_NECKLACE"
+    },
+    "UI_RelicIcon_15040_3": {
+        "icon": {
+            "name": "UI_RelicIcon_15040_3.png",
+            "path": "image/artifact/UI_RelicIcon_15040_3.png"
+        },
+        "set_name": "深廊の終曲",
+        "equip_type": "EQUIP_DRESS"
+    },
+    "UI_RelicIcon_15040_4": {
+        "icon": {
+            "name": "UI_RelicIcon_15040_4.png",
+            "path": "image/artifact/UI_RelicIcon_15040_4.png"
+        },
+        "set_name": "深廊の終曲",
+        "equip_type": "EQUIP_BRACER"
+    },
+    "UI_RelicIcon_15040_5": {
+        "icon": {
+            "name": "UI_RelicIcon_15040_5.png",
+            "path": "image/artifact/UI_RelicIcon_15040_5.png"
+        },
+        "set_name": "深廊の終曲",
+        "equip_type": "EQUIP_SHOES"
+    },
     "UI_RelicIcon_10000_2": {
         "icon": {
             "name": "UI_RelicIcon_10000_2.png",
