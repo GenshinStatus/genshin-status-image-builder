@@ -818,6 +818,27 @@
             "path": "image/pfps/UI_AvatarIcon_Mizuki_Circle.png"
         }
     },
+    "9500": {
+        "name": "",
+        "icon": {
+            "name": "UI_AvatarIcon_Iansan_Circle.png",
+            "path": "image/pfps/UI_AvatarIcon_Iansan_Circle.png"
+        }
+    },
+    "9600": {
+        "name": "",
+        "icon": {
+            "name": "UI_AvatarIcon_Varesa_Circle.png",
+            "path": "image/pfps/UI_AvatarIcon_Varesa_Circle.png"
+        }
+    },
+    "99999": {
+        "name": "",
+        "icon": {
+            "name": "UI_AvatarIcon_Ambor_Circle.png",
+            "path": "image/pfps/UI_AvatarIcon_Ambor_Circle.png"
+        }
+    },
     "100010": {
         "name": "花散里のお面",
         "icon": {
