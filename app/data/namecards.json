@@ -1384,5 +1384,35 @@
             "name": "UI_NameCardPic_Bp39_P.png",
             "path": "image/namecard/UI_NameCardPic_Bp39_P.png"
         }
+    },
+    "210236": {
+        "icon": {
+            "name": "UI_NameCardPic_Varesa_P.png",
+            "path": "image/namecard/UI_NameCardPic_Varesa_P.png"
+        }
+    },
+    "210237": {
+        "icon": {
+            "name": "UI_NameCardPic_Iansan_P.png",
+            "path": "image/namecard/UI_NameCardPic_Iansan_P.png"
+        }
+    },
+    "210238": {
+        "icon": {
+            "name": "UI_NameCardPic_Natlan3_P.png",
+            "path": "image/namecard/UI_NameCardPic_Natlan3_P.png"
+        }
+    },
+    "210239": {
+        "icon": {
+            "name": "UI_NameCardPic_Dfcq3_P.png",
+            "path": "image/namecard/UI_NameCardPic_Dfcq3_P.png"
+        }
+    },
+    "210240": {
+        "icon": {
+            "name": "UI_NameCardPic_Bp40_P.png",
+            "path": "image/namecard/UI_NameCardPic_Bp40_P.png"
+        }
     }
 }

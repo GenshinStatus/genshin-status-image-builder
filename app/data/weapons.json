@@ -174,20 +174,6 @@
         },
         "name": "サイフォスの月明かり"
     },
-    "UI_EquipIcon_Sword_YoutouEnchanted": {
-        "icon": {
-            "name": "UI_EquipIcon_Sword_YoutouEnchanted.png",
-            "path": "image/weapon/UI_EquipIcon_Sword_YoutouEnchanted.png"
-        },
-        "name": "「一心伝」名刀"
-    },
-    "UI_EquipIcon_Sword_YoutouShattered": {
-        "icon": {
-            "name": "UI_EquipIcon_Sword_YoutouShattered.png",
-            "path": "image/weapon/UI_EquipIcon_Sword_YoutouShattered.png"
-        },
-        "name": "「一心伝」名刀"
-    },
     "UI_EquipIcon_Sword_Kasabouzu": {
         "icon": {
             "name": "UI_EquipIcon_Sword_Kasabouzu.png",
@@ -376,13 +362,6 @@
             "path": "image/weapon/UI_EquipIcon_Claymore_Tin.png"
         },
         "name": "白鉄の大剣"
-    },
-    "UI_EquipIcon_Claymore_Quartz": {
-        "icon": {
-            "name": "UI_EquipIcon_Claymore_Quartz.png",
-            "path": "image/weapon/UI_EquipIcon_Claymore_Quartz.png"
-        },
-        "name": "石英大剣"
     },
     "UI_EquipIcon_Claymore_Reasoning": {
         "icon": {
@@ -657,13 +636,6 @@
         },
         "name": "黒纓槍"
     },
-    "UI_EquipIcon_Pole_Flagpole": {
-        "icon": {
-            "name": "UI_EquipIcon_Pole_Flagpole.png",
-            "path": "image/weapon/UI_EquipIcon_Pole_Flagpole.png"
-        },
-        "name": "「旗竿」"
-    },
     "UI_EquipIcon_Pole_Stardust": {
         "icon": {
             "name": "UI_EquipIcon_Pole_Stardust.png",
@@ -923,13 +895,6 @@
         },
         "name": "特級の宝玉"
     },
-    "UI_EquipIcon_Catalyst_Amber": {
-        "icon": {
-            "name": "UI_EquipIcon_Catalyst_Amber.png",
-            "path": "image/weapon/UI_EquipIcon_Catalyst_Amber.png"
-        },
-        "name": "琥珀の玥"
-    },
     "UI_EquipIcon_Catalyst_Zephyrus": {
         "icon": {
             "name": "UI_EquipIcon_Catalyst_Zephyrus.png",
@@ -1182,6 +1147,13 @@
         },
         "name": "寝正月の初晴"
     },
+    "UI_EquipIcon_Catalyst_VaresaTransformer": {
+        "icon": {
+            "name": "UI_EquipIcon_Catalyst_VaresaTransformer.png",
+            "path": "image/weapon/UI_EquipIcon_Catalyst_VaresaTransformer.png"
+        },
+        "name": "ヴィヴィッド・ハート"
+    },
     "UI_EquipIcon_Bow_Hunters": {
         "icon": {
             "name": "UI_EquipIcon_Bow_Hunters.png",
@@ -1230,13 +1202,6 @@
             "path": "image/weapon/UI_EquipIcon_Bow_Msg.png"
         },
         "name": "文使い"
-    },
-    "UI_EquipIcon_Bow_Hardwood": {
-        "icon": {
-            "name": "UI_EquipIcon_Bow_Hardwood.png",
-            "path": "image/weapon/UI_EquipIcon_Bow_Hardwood.png"
-        },
-        "name": "黒檀の弓"
     },
     "UI_EquipIcon_Bow_Zephyrus": {
         "icon": {

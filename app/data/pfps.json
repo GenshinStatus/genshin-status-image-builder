@@ -950,5 +950,19 @@
             "name": "UI_AvatarIcon_75048_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_75048_Circle.png"
         }
+    },
+    "100200": {
+        "name": "",
+        "icon": {
+            "name": "UI_AvatarIcon_75151_Circle.png",
+            "path": "image/pfps/UI_AvatarIcon_75151_Circle.png"
+        }
+    },
+    "100210": {
+        "name": "",
+        "icon": {
+            "name": "UI_AvatarIcon_75177_Circle.png",
+            "path": "image/pfps/UI_AvatarIcon_75177_Circle.png"
+        }
     }
 }

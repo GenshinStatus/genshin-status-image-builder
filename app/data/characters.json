@@ -8750,6 +8750,180 @@
             }
         }
     },
+    "10000110": {
+        "element": "Electric",
+        "consts": [
+            {
+                "name": "UI_Talent_S_Iansan_01.png",
+                "path": "image/character/Iansan/consts/UI_Talent_S_Iansan_01.png"
+            },
+            {
+                "name": "UI_Talent_S_Iansan_02.png",
+                "path": "image/character/Iansan/consts/UI_Talent_S_Iansan_02.png"
+            },
+            {
+                "name": "UI_Talent_U_Iansan_01.png",
+                "path": "image/character/Iansan/consts/UI_Talent_U_Iansan_01.png"
+            },
+            {
+                "name": "UI_Talent_S_Iansan_03.png",
+                "path": "image/character/Iansan/consts/UI_Talent_S_Iansan_03.png"
+            },
+            {
+                "name": "UI_Talent_U_Iansan_02.png",
+                "path": "image/character/Iansan/consts/UI_Talent_U_Iansan_02.png"
+            },
+            {
+                "name": "UI_Talent_S_Iansan_04.png",
+                "path": "image/character/Iansan/consts/UI_Talent_S_Iansan_04.png"
+            }
+        ],
+        "skills": [
+            {
+                "name": "通常攻撃",
+                "icon": {
+                    "name": "Skill_A_03.png",
+                    "path": "image/character/Iansan/skill/Skill_A_03.png"
+                },
+                "id": "11101",
+                "proud_id": "11031"
+            },
+            {
+                "name": "元素スキル",
+                "icon": {
+                    "name": "Skill_S_Iansan_01.png",
+                    "path": "image/character/Iansan/skill/Skill_S_Iansan_01.png"
+                },
+                "id": "11102",
+                "proud_id": "11032"
+            },
+            {
+                "name": "元素爆発",
+                "icon": {
+                    "name": "Skill_E_Iansan_01.png",
+                    "path": "image/character/Iansan/skill/Skill_E_Iansan_01.png"
+                },
+                "id": "11105",
+                "proud_id": "11039"
+            }
+        ],
+        "name": "イアンサ",
+        "english_name": "Iansan",
+        "proud_map": {
+            "11101": "11031",
+            "11102": "11032",
+            "11105": "11039"
+        },
+        "quality": 4,
+        "costumes": {
+            "default": {
+                "side_icon": {
+                    "name": "UI_AvatarIcon_Side_Iansan.png",
+                    "path": "image/character/Iansan/avatar/default/UI_AvatarIcon_Side_Iansan.png"
+                },
+                "avatar_icon": {
+                    "name": "UI_AvatarIcon_Iansan.png",
+                    "path": "image/character/Iansan/avatar/default/UI_AvatarIcon_Iansan.png"
+                },
+                "gacha_icon": {
+                    "name": "UI_Gacha_AvatarImg_Iansan.png",
+                    "path": "image/character/Iansan/avatar/default/UI_Gacha_AvatarImg_Iansan.png"
+                },
+                "position": {
+                    "x": "-254",
+                    "y": "-8",
+                    "scale": "89"
+                }
+            }
+        }
+    },
+    "10000111": {
+        "element": "Electric",
+        "consts": [
+            {
+                "name": "UI_Talent_S_Varesa_01.png",
+                "path": "image/character/Varesa/consts/UI_Talent_S_Varesa_01.png"
+            },
+            {
+                "name": "UI_Talent_S_Varesa_02.png",
+                "path": "image/character/Varesa/consts/UI_Talent_S_Varesa_02.png"
+            },
+            {
+                "name": "UI_Talent_U_Varesa_01.png",
+                "path": "image/character/Varesa/consts/UI_Talent_U_Varesa_01.png"
+            },
+            {
+                "name": "UI_Talent_S_Varesa_03.png",
+                "path": "image/character/Varesa/consts/UI_Talent_S_Varesa_03.png"
+            },
+            {
+                "name": "UI_Talent_U_Varesa_02.png",
+                "path": "image/character/Varesa/consts/UI_Talent_U_Varesa_02.png"
+            },
+            {
+                "name": "UI_Talent_S_Varesa_04.png",
+                "path": "image/character/Varesa/consts/UI_Talent_S_Varesa_04.png"
+            }
+        ],
+        "skills": [
+            {
+                "name": "通常攻撃",
+                "icon": {
+                    "name": "Skill_A_Catalyst_MD.png",
+                    "path": "image/character/Varesa/skill/Skill_A_Catalyst_MD.png"
+                },
+                "id": "11111",
+                "proud_id": "11131"
+            },
+            {
+                "name": "元素スキル",
+                "icon": {
+                    "name": "Skill_S_Varesa_01.png",
+                    "path": "image/character/Varesa/skill/Skill_S_Varesa_01.png"
+                },
+                "id": "11112",
+                "proud_id": "11132"
+            },
+            {
+                "name": "元素爆発",
+                "icon": {
+                    "name": "Skill_E_Varesa_01.png",
+                    "path": "image/character/Varesa/skill/Skill_E_Varesa_01.png"
+                },
+                "id": "11115",
+                "proud_id": "11139"
+            }
+        ],
+        "name": "ヴァレサ",
+        "english_name": "Varesa",
+        "proud_map": {
+            "11111": "11131",
+            "11112": "11132",
+            "11115": "11139"
+        },
+        "quality": 5,
+        "costumes": {
+            "default": {
+                "side_icon": {
+                    "name": "UI_AvatarIcon_Side_Varesa.png",
+                    "path": "image/character/Varesa/avatar/default/UI_AvatarIcon_Side_Varesa.png"
+                },
+                "avatar_icon": {
+                    "name": "UI_AvatarIcon_Varesa.png",
+                    "path": "image/character/Varesa/avatar/default/UI_AvatarIcon_Varesa.png"
+                },
+                "gacha_icon": {
+                    "name": "UI_Gacha_AvatarImg_Varesa.png",
+                    "path": "image/character/Varesa/avatar/default/UI_Gacha_AvatarImg_Varesa.png"
+                },
+                "position": {
+                    "x": "-254",
+                    "y": "-8",
+                    "scale": "89"
+                }
+            }
+        }
+    },
     "10000901": {
         "element": "Fire",
         "consts": [
