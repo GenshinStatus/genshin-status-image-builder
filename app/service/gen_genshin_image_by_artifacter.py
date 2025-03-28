@@ -171,6 +171,7 @@ def __gen_artifact_image(artifact: status_model.Artifact):
     """
     bg = Image.new('RGBA', BASE_SIZE, (255, 255, 255, 0))
     artifact_image = Image.open(artifact.util.icon.path).resize((333, 333))
+    artifact_image = artifact_image.convert("RGBA")
     artifact_image_enchance = ImageEnhance.Brightness(artifact_image)
     artifact_image = artifact_image_enchance.enhance(0.6)
     artifact_image_copy = artifact_image.copy()
