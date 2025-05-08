@@ -1414,5 +1414,23 @@
             "name": "UI_NameCardPic_Bp40_P.png",
             "path": "image/namecard/UI_NameCardPic_Bp40_P.png"
         }
+    },
+    "210241": {
+        "icon": {
+            "name": "UI_NameCardPic_Escoffier_P.png",
+            "path": "image/namecard/UI_NameCardPic_Escoffier_P.png"
+        }
+    },
+    "210242": {
+        "icon": {
+            "name": "UI_NameCardPic_Ifa_P.png",
+            "path": "image/namecard/UI_NameCardPic_Ifa_P.png"
+        }
+    },
+    "210243": {
+        "icon": {
+            "name": "UI_NameCardPic_Bp41_P.png",
+            "path": "image/namecard/UI_NameCardPic_Bp41_P.png"
+        }
     }
 }
