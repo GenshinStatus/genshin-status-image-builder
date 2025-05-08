@@ -846,6 +846,13 @@
         },
         "name": "ルミドゥースの挽歌"
     },
+    "UI_EquipIcon_Pole_Trident": {
+        "icon": {
+            "name": "UI_EquipIcon_Pole_Trident.png",
+            "path": "image/weapon/UI_EquipIcon_Pole_Trident.png"
+        },
+        "name": "香りのシンフォニスト"
+    },
     "UI_EquipIcon_Catalyst_Apprentice": {
         "icon": {
             "name": "UI_EquipIcon_Catalyst_Apprentice.png",
@@ -1377,6 +1384,13 @@
             "path": "image/weapon/UI_EquipIcon_Bow_Isikhulu.png"
         },
         "name": "チェーンブレイカー"
+    },
+    "UI_EquipIcon_Bow_Stinger": {
+        "icon": {
+            "name": "UI_EquipIcon_Bow_Stinger.png",
+            "path": "image/weapon/UI_EquipIcon_Bow_Stinger.png"
+        },
+        "name": "冷寂の音"
     },
     "UI_EquipIcon_Bow_Dvalin": {
         "icon": {

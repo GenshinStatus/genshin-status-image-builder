@@ -8924,6 +8924,180 @@
             }
         }
     },
+    "10000112": {
+        "element": "Ice",
+        "consts": [
+            {
+                "name": "UI_Talent_S_Escoffier_01.png",
+                "path": "image/character/Escoffier/consts/UI_Talent_S_Escoffier_01.png"
+            },
+            {
+                "name": "UI_Talent_S_Escoffier_02.png",
+                "path": "image/character/Escoffier/consts/UI_Talent_S_Escoffier_02.png"
+            },
+            {
+                "name": "UI_Talent_U_Escoffier_01.png",
+                "path": "image/character/Escoffier/consts/UI_Talent_U_Escoffier_01.png"
+            },
+            {
+                "name": "UI_Talent_S_Escoffier_03.png",
+                "path": "image/character/Escoffier/consts/UI_Talent_S_Escoffier_03.png"
+            },
+            {
+                "name": "UI_Talent_U_Escoffier_02.png",
+                "path": "image/character/Escoffier/consts/UI_Talent_U_Escoffier_02.png"
+            },
+            {
+                "name": "UI_Talent_S_Escoffier_04.png",
+                "path": "image/character/Escoffier/consts/UI_Talent_S_Escoffier_04.png"
+            }
+        ],
+        "skills": [
+            {
+                "name": "通常攻撃",
+                "icon": {
+                    "name": "Skill_A_03.png",
+                    "path": "image/character/Escoffier/skill/Skill_A_03.png"
+                },
+                "id": "11121",
+                "proud_id": "11231"
+            },
+            {
+                "name": "元素スキル",
+                "icon": {
+                    "name": "Skill_S_Escoffier_01.png",
+                    "path": "image/character/Escoffier/skill/Skill_S_Escoffier_01.png"
+                },
+                "id": "11122",
+                "proud_id": "11232"
+            },
+            {
+                "name": "元素爆発",
+                "icon": {
+                    "name": "Skill_E_Escoffier_01.png",
+                    "path": "image/character/Escoffier/skill/Skill_E_Escoffier_01.png"
+                },
+                "id": "11125",
+                "proud_id": "11239"
+            }
+        ],
+        "name": "エスコフィエ",
+        "english_name": "Escoffier",
+        "proud_map": {
+            "11121": "11231",
+            "11122": "11232",
+            "11125": "11239"
+        },
+        "quality": 5,
+        "costumes": {
+            "default": {
+                "side_icon": {
+                    "name": "UI_AvatarIcon_Side_Escoffier.png",
+                    "path": "image/character/Escoffier/avatar/default/UI_AvatarIcon_Side_Escoffier.png"
+                },
+                "avatar_icon": {
+                    "name": "UI_AvatarIcon_Escoffier.png",
+                    "path": "image/character/Escoffier/avatar/default/UI_AvatarIcon_Escoffier.png"
+                },
+                "gacha_icon": {
+                    "name": "UI_Gacha_AvatarImg_Escoffier.png",
+                    "path": "image/character/Escoffier/avatar/default/UI_Gacha_AvatarImg_Escoffier.png"
+                },
+                "position": {
+                    "x": "-254",
+                    "y": "-8",
+                    "scale": "89"
+                }
+            }
+        }
+    },
+    "10000113": {
+        "element": "Wind",
+        "consts": [
+            {
+                "name": "UI_Talent_S_Ifa_01.png",
+                "path": "image/character/Ifa/consts/UI_Talent_S_Ifa_01.png"
+            },
+            {
+                "name": "UI_Talent_S_Ifa_02.png",
+                "path": "image/character/Ifa/consts/UI_Talent_S_Ifa_02.png"
+            },
+            {
+                "name": "UI_Talent_U_Ifa_01.png",
+                "path": "image/character/Ifa/consts/UI_Talent_U_Ifa_01.png"
+            },
+            {
+                "name": "UI_Talent_S_Ifa_03.png",
+                "path": "image/character/Ifa/consts/UI_Talent_S_Ifa_03.png"
+            },
+            {
+                "name": "UI_Talent_U_Ifa_02.png",
+                "path": "image/character/Ifa/consts/UI_Talent_U_Ifa_02.png"
+            },
+            {
+                "name": "UI_Talent_S_Ifa_04.png",
+                "path": "image/character/Ifa/consts/UI_Talent_S_Ifa_04.png"
+            }
+        ],
+        "skills": [
+            {
+                "name": "通常攻撃",
+                "icon": {
+                    "name": "Skill_A_Catalyst_MD.png",
+                    "path": "image/character/Ifa/skill/Skill_A_Catalyst_MD.png"
+                },
+                "id": "11131",
+                "proud_id": "11331"
+            },
+            {
+                "name": "元素スキル",
+                "icon": {
+                    "name": "Skill_S_Ifa_01.png",
+                    "path": "image/character/Ifa/skill/Skill_S_Ifa_01.png"
+                },
+                "id": "11132",
+                "proud_id": "11332"
+            },
+            {
+                "name": "元素爆発",
+                "icon": {
+                    "name": "Skill_E_Ifa_01.png",
+                    "path": "image/character/Ifa/skill/Skill_E_Ifa_01.png"
+                },
+                "id": "11135",
+                "proud_id": "11339"
+            }
+        ],
+        "name": "イファ",
+        "english_name": "Ifa",
+        "proud_map": {
+            "11131": "11331",
+            "11132": "11332",
+            "11135": "11339"
+        },
+        "quality": 4,
+        "costumes": {
+            "default": {
+                "side_icon": {
+                    "name": "UI_AvatarIcon_Side_Ifa.png",
+                    "path": "image/character/Ifa/avatar/default/UI_AvatarIcon_Side_Ifa.png"
+                },
+                "avatar_icon": {
+                    "name": "UI_AvatarIcon_Ifa.png",
+                    "path": "image/character/Ifa/avatar/default/UI_AvatarIcon_Ifa.png"
+                },
+                "gacha_icon": {
+                    "name": "UI_Gacha_AvatarImg_Ifa.png",
+                    "path": "image/character/Ifa/avatar/default/UI_Gacha_AvatarImg_Ifa.png"
+                },
+                "position": {
+                    "x": "-254",
+                    "y": "-8",
+                    "scale": "89"
+                }
+            }
+        }
+    },
     "10000901": {
         "element": "Fire",
         "consts": [
@@ -9002,6 +9176,93 @@
                 "gacha_icon": {
                     "name": "UI_Gacha_AvatarImg_Mavuika.png",
                     "path": "image/character/Mavuika/avatar/default/UI_Gacha_AvatarImg_Mavuika.png"
+                },
+                "position": {
+                    "x": "-254",
+                    "y": "-8",
+                    "scale": "89"
+                }
+            }
+        }
+    },
+    "10000902": {
+        "element": "Fire",
+        "consts": [
+            {
+                "name": "UI_Talent_S_Hutao_01.png",
+                "path": "image/character/Hutao/consts/UI_Talent_S_Hutao_01.png"
+            },
+            {
+                "name": "UI_Talent_S_Hutao_02.png",
+                "path": "image/character/Hutao/consts/UI_Talent_S_Hutao_02.png"
+            },
+            {
+                "name": "UI_Talent_U_Hutao_01.png",
+                "path": "image/character/Hutao/consts/UI_Talent_U_Hutao_01.png"
+            },
+            {
+                "name": "UI_Talent_S_Hutao_03.png",
+                "path": "image/character/Hutao/consts/UI_Talent_S_Hutao_03.png"
+            },
+            {
+                "name": "UI_Talent_U_Hutao_02.png",
+                "path": "image/character/Hutao/consts/UI_Talent_U_Hutao_02.png"
+            },
+            {
+                "name": "UI_Talent_S_Hutao_04.png",
+                "path": "image/character/Hutao/consts/UI_Talent_S_Hutao_04.png"
+            }
+        ],
+        "skills": [
+            {
+                "name": "通常攻撃",
+                "icon": {
+                    "name": "Skill_A_03.png",
+                    "path": "image/character/Hutao/skill/Skill_A_03.png"
+                },
+                "id": "19021",
+                "proud_id": "90231"
+            },
+            {
+                "name": "元素スキル",
+                "icon": {
+                    "name": "Skill_S_Hutao_01.png",
+                    "path": "image/character/Hutao/skill/Skill_S_Hutao_01.png"
+                },
+                "id": "19022",
+                "proud_id": "90232"
+            },
+            {
+                "name": "元素爆発",
+                "icon": {
+                    "name": "Skill_E_Hutao_01.png",
+                    "path": "image/character/Hutao/skill/Skill_E_Hutao_01.png"
+                },
+                "id": "19025",
+                "proud_id": "90239"
+            }
+        ],
+        "name": "胡桃（お試し）",
+        "english_name": "Hutao",
+        "proud_map": {
+            "19021": "90231",
+            "19022": "90232",
+            "19025": "90239"
+        },
+        "quality": 5,
+        "costumes": {
+            "default": {
+                "side_icon": {
+                    "name": "UI_AvatarIcon_Side_Hutao.png",
+                    "path": "image/character/Hutao/avatar/default/UI_AvatarIcon_Side_Hutao.png"
+                },
+                "avatar_icon": {
+                    "name": "UI_AvatarIcon_Hutao.png",
+                    "path": "image/character/Hutao/avatar/default/UI_AvatarIcon_Hutao.png"
+                },
+                "gacha_icon": {
+                    "name": "UI_Gacha_AvatarImg_Hutao.png",
+                    "path": "image/character/Hutao/avatar/default/UI_Gacha_AvatarImg_Hutao.png"
                 },
                 "position": {
                     "x": "-254",

@@ -1,818 +1,818 @@
 {
     "1": {
-        "name": "旅人",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_PlayerBoy_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_PlayerBoy_Circle.png"
         }
     },
     "2": {
-        "name": "旅人",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_PlayerGirl_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_PlayerGirl_Circle.png"
         }
     },
     "100": {
-        "name": "アンバー",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Ambor_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Ambor_Circle.png"
         }
     },
     "101": {
-        "name": "アンバー·100%偵察騎士",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_AmborCostumeWic_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_AmborCostumeWic_Circle.png"
         }
     },
     "200": {
-        "name": "ガイア",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Kaeya_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Kaeya_Circle.png"
         }
     },
     "201": {
-        "name": "ガイア·帆影に戯る風",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_KaeyaCostumeDancer_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_KaeyaCostumeDancer_Circle.png"
         }
     },
     "300": {
-        "name": "リサ",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Lisa_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Lisa_Circle.png"
         }
     },
     "301": {
-        "name": "リサ·葉に隠れし芳名",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_LisaCostumeStudentin_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_LisaCostumeStudentin_Circle.png"
         }
     },
     "400": {
-        "name": "バーバラ",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Barbara_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Barbara_Circle.png"
         }
     },
     "401": {
-        "name": "バーバラ·サマータイムスパークル",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_BarbaraCostumeSummertime_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_BarbaraCostumeSummertime_Circle.png"
         }
     },
     "500": {
-        "name": "レザー",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Razor_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Razor_Circle.png"
         }
     },
     "600": {
-        "name": "香菱",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Xiangling_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Xiangling_Circle.png"
         }
     },
     "601": {
-        "name": "香菱・大つごもりの歓声",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_XianglingCostumeWinter_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_XianglingCostumeWinter_Circle.png"
         }
     },
     "700": {
-        "name": "北斗",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Beidou_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Beidou_Circle.png"
         }
     },
     "800": {
-        "name": "行秋",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Xingqiu_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Xingqiu_Circle.png"
         }
     },
     "801": {
-        "name": "行秋·竹身雨化",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_XingqiuCostumeBamboo_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_XingqiuCostumeBamboo_Circle.png"
         }
     },
     "900": {
-        "name": "凝光",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Ningguang_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Ningguang_Circle.png"
         }
     },
     "901": {
-        "name": "凝光·紗の幽蘭",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_NingguangCostumeFloral_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_NingguangCostumeFloral_Circle.png"
         }
     },
     "1000": {
-        "name": "フィッシュル",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Fischl_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Fischl_Circle.png"
         }
     },
     "1001": {
-        "name": "フィッシュル·極夜の真夢",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_FischlCostumeHighness_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_FischlCostumeHighness_Circle.png"
         }
     },
     "1100": {
-        "name": "ベネット",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Bennett_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Bennett_Circle.png"
         }
     },
     "1200": {
-        "name": "ノエル",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Noel_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Noel_Circle.png"
         }
     },
     "1300": {
-        "name": "重雲",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Chongyun_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Chongyun_Circle.png"
         }
     },
     "1400": {
-        "name": "スクロース",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Sucrose_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Sucrose_Circle.png"
         }
     },
     "1500": {
-        "name": "ジン",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Qin_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Qin_Circle.png"
         }
     },
     "1501": {
-        "name": "ジン·グンヒルドの伝承",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_QinCostumeWic_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_QinCostumeWic_Circle.png"
         }
     },
     "1502": {
-        "name": "ジン·海風の夢",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_QinCostumeSea_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_QinCostumeSea_Circle.png"
         }
     },
     "1600": {
-        "name": "ディルック",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Diluc_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Diluc_Circle.png"
         }
     },
     "1601": {
-        "name": "ディルック· レッドデッド·オブ·ナイト",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_DilucCostumeFlamme_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_DilucCostumeFlamme_Circle.png"
         }
     },
     "1700": {
-        "name": "七七",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Qiqi_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Qiqi_Circle.png"
         }
     },
     "1800": {
-        "name": "モナ",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Mona_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Mona_Circle.png"
         }
     },
     "1801": {
-        "name": "モナ·星と月の約束",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_MonaCostumeWic_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_MonaCostumeWic_Circle.png"
         }
     },
     "1900": {
-        "name": "刻晴",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Keqing_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Keqing_Circle.png"
         }
     },
     "1901": {
-        "name": "刻晴·霓裾の舞",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_KeqingCostumeFeather_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_KeqingCostumeFeather_Circle.png"
         }
     },
     "2000": {
-        "name": "ウェンティ",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Venti_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Venti_Circle.png"
         }
     },
     "2100": {
-        "name": "クレー",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Klee_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Klee_Circle.png"
         }
     },
     "2101": {
-        "name": "クレー·星燭に揺れる爛花",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_KleeCostumeWitch_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_KleeCostumeWitch_Circle.png"
         }
     },
     "2200": {
-        "name": "ディオナ",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Diona_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Diona_Circle.png"
         }
     },
     "2300": {
-        "name": "タルタリヤ",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Tartaglia_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Tartaglia_Circle.png"
         }
     },
     "2400": {
-        "name": "辛炎",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Xinyan_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Xinyan_Circle.png"
         }
     },
     "2500": {
-        "name": "鍾離",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Zhongli_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Zhongli_Circle.png"
         }
     },
     "2600": {
-        "name": "アルベド",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Albedo_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Albedo_Circle.png"
         }
     },
     "2700": {
-        "name": "甘雨",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Ganyu_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Ganyu_Circle.png"
         }
     },
     "2701": {
-        "name": "甘雨·玄玉瑶芳",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_GanyuCostumeYu_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_GanyuCostumeYu_Circle.png"
         }
     },
     "2800": {
-        "name": "魈",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Xiao_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Xiao_Circle.png"
         }
     },
     "2900": {
-        "name": "胡桃",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Hutao_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Hutao_Circle.png"
         }
     },
     "2901": {
-        "name": "胡桃・残雪に咲く紅",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_HutaoCostumeWinter_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_HutaoCostumeWinter_Circle.png"
         }
     },
     "3000": {
-        "name": "ロサリア",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Rosaria_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Rosaria_Circle.png"
         }
     },
     "3001": {
-        "name": "ロサリア·教会の自由人へ",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_RosariaCostumeWic_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_RosariaCostumeWic_Circle.png"
         }
     },
     "3100": {
-        "name": "煙緋",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Feiyan_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Feiyan_Circle.png"
         }
     },
     "3200": {
-        "name": "エウルア",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Eula_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Eula_Circle.png"
         }
     },
     "3300": {
-        "name": "楓原万葉",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Kazuha_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Kazuha_Circle.png"
         }
     },
     "3400": {
-        "name": "神里綾華",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Ayaka_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Ayaka_Circle.png"
         }
     },
     "3401": {
-        "name": "神里綾華·花時に訪れた手紙",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_AyakaCostumeFruhling_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_AyakaCostumeFruhling_Circle.png"
         }
     },
     "3500": {
-        "name": "早柚",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Sayu_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Sayu_Circle.png"
         }
     },
     "3600": {
-        "name": "宵宮",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Yoimiya_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Yoimiya_Circle.png"
         }
     },
     "3700": {
-        "name": "アーロイ",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Aloy_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Aloy_Circle.png"
         }
     },
     "3800": {
-        "name": "九条裟羅",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Sara_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Sara_Circle.png"
         }
     },
     "3900": {
-        "name": "雷電将軍",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Shougun_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Shougun_Circle.png"
         }
     },
     "4000": {
-        "name": "珊瑚宮心海",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Kokomi_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Kokomi_Circle.png"
         }
     },
     "4100": {
-        "name": "トーマ",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Tohma_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Tohma_Circle.png"
         }
     },
     "4200": {
-        "name": "ゴロー",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Gorou_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Gorou_Circle.png"
         }
     },
     "4300": {
-        "name": "荒瀧一斗",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Itto_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Itto_Circle.png"
         }
     },
     "4400": {
-        "name": "雲菫",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Yunjin_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Yunjin_Circle.png"
         }
     },
     "4500": {
-        "name": "申鶴",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Shenhe_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Shenhe_Circle.png"
         }
     },
     "4501": {
-        "name": "申鶴·冷花幽露",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_ShenheCostumeDai_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_ShenheCostumeDai_Circle.png"
         }
     },
     "4600": {
-        "name": "八重神子",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Yae_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Yae_Circle.png"
         }
     },
     "4700": {
-        "name": "神里綾人",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Ayato_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Ayato_Circle.png"
         }
     },
     "4800": {
-        "name": "夜蘭",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Yelan_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Yelan_Circle.png"
         }
     },
     "4900": {
-        "name": "久岐忍",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Shinobu_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Shinobu_Circle.png"
         }
     },
     "5000": {
-        "name": "鹿野院平蔵",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Heizo_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Heizo_Circle.png"
         }
     },
     "5100": {
-        "name": "コレイ",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Collei_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Collei_Circle.png"
         }
     },
     "5200": {
-        "name": "ティナリ",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Tighnari_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Tighnari_Circle.png"
         }
     },
     "5300": {
-        "name": "ドリー",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Dori_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Dori_Circle.png"
         }
     },
     "5400": {
-        "name": "キャンディス",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Candace_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Candace_Circle.png"
         }
     },
     "5500": {
-        "name": "セノ",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Cyno_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Cyno_Circle.png"
         }
     },
     "5600": {
-        "name": "ニィロウ",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Nilou_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Nilou_Circle.png"
         }
     },
     "5601": {
-        "name": "ニィロウ·東風はこぶ花の吐息",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_NilouCostumeFairy_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_NilouCostumeFairy_Circle.png"
         }
     },
     "5700": {
-        "name": "ナヒーダ",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Nahida_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Nahida_Circle.png"
         }
     },
     "5800": {
-        "name": "レイラ",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Layla_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Layla_Circle.png"
         }
     },
     "5900": {
-        "name": "ファルザン",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Faruzan_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Faruzan_Circle.png"
         }
     },
     "6000": {
-        "name": "放浪者",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Wanderer_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Wanderer_Circle.png"
         }
     },
     "6100": {
-        "name": "ヨォーヨ",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Yaoyao_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Yaoyao_Circle.png"
         }
     },
     "6200": {
-        "name": "アルハイゼン",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Alhatham_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Alhatham_Circle.png"
         }
     },
     "6300": {
-        "name": "ディシア",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Dehya_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Dehya_Circle.png"
         }
     },
     "6400": {
-        "name": "ミカ",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Mika_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Mika_Circle.png"
         }
     },
     "6500": {
-        "name": "カーヴェ",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Kaveh_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Kaveh_Circle.png"
         }
     },
     "6600": {
-        "name": "白朮",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Baizhuer_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Baizhuer_Circle.png"
         }
     },
     "6700": {
-        "name": "綺良々",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Momoka_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Momoka_Circle.png"
         }
     },
     "6701": {
-        "name": "綺良々·麗しき怪傑",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_MomokaCostumeErrantry_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_MomokaCostumeErrantry_Circle.png"
         }
     },
     "6800": {
-        "name": "リネット",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Linette_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Linette_Circle.png"
         }
     },
     "6900": {
-        "name": "リネ",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Liney_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Liney_Circle.png"
         }
     },
     "7000": {
-        "name": "フレミネ",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Freminet_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Freminet_Circle.png"
         }
     },
     "7100": {
-        "name": "ヌヴィレット",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Neuvillette_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Neuvillette_Circle.png"
         }
     },
     "7200": {
-        "name": "リオセスリ",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Wriothesley_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Wriothesley_Circle.png"
         }
     },
     "7300": {
-        "name": "シャルロット",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Charlotte_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Charlotte_Circle.png"
         }
     },
     "7400": {
-        "name": "フリーナ",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Furina_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Furina_Circle.png"
         }
     },
     "7500": {
-        "name": "ナヴィア",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Navia_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Navia_Circle.png"
         }
     },
     "7600": {
-        "name": "シュヴルーズ",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Chevreuse_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Chevreuse_Circle.png"
         }
     },
     "7700": {
-        "name": "嘉明",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Gaming_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Gaming_Circle.png"
         }
     },
     "7800": {
-        "name": "閑雲",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Liuyun_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Liuyun_Circle.png"
         }
     },
     "7900": {
-        "name": "千織",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Chiori_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Chiori_Circle.png"
         }
     },
     "8000": {
-        "name": "アルレッキーノ",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Arlecchino_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Arlecchino_Circle.png"
         }
     },
     "8100": {
-        "name": "クロリンデ",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Clorinde_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Clorinde_Circle.png"
         }
     },
     "8200": {
-        "name": "セトス",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Sethos_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Sethos_Circle.png"
         }
     },
     "8300": {
-        "name": "シグウィン",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Sigewinne_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Sigewinne_Circle.png"
         }
     },
     "8400": {
-        "name": "エミリエ",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Emilie_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Emilie_Circle.png"
         }
     },
     "8500": {
-        "name": "カチーナ",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Kachina_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Kachina_Circle.png"
         }
     },
     "8600": {
-        "name": "ムアラニ",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Mualani_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Mualani_Circle.png"
         }
     },
     "8700": {
-        "name": "キィニチ",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Kinich_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Kinich_Circle.png"
         }
     },
     "8800": {
-        "name": "シロネン",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Xilonen_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Xilonen_Circle.png"
         }
     },
     "8900": {
-        "name": "オロルン",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Olorun_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Olorun_Circle.png"
         }
     },
     "9000": {
-        "name": "チャスカ",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Chasca_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Chasca_Circle.png"
         }
     },
     "9100": {
-        "name": "シトラリ",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Citlali_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Citlali_Circle.png"
         }
     },
     "9200": {
-        "name": "マーヴィカ",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Mavuika_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Mavuika_Circle.png"
         }
     },
     "9300": {
-        "name": "藍硯",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Lanyan_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Lanyan_Circle.png"
         }
     },
     "9400": {
-        "name": "夢見月瑞希",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_Mizuki_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Mizuki_Circle.png"
@@ -832,6 +832,20 @@
             "path": "image/pfps/UI_AvatarIcon_Varesa_Circle.png"
         }
     },
+    "9700": {
+        "name": "",
+        "icon": {
+            "name": "UI_AvatarIcon_Ifa_Circle.png",
+            "path": "image/pfps/UI_AvatarIcon_Ifa_Circle.png"
+        }
+    },
+    "9800": {
+        "name": "",
+        "icon": {
+            "name": "UI_AvatarIcon_Escoffier_Circle.png",
+            "path": "image/pfps/UI_AvatarIcon_Escoffier_Circle.png"
+        }
+    },
     "99999": {
         "name": "",
         "icon": {
@@ -840,133 +854,133 @@
         }
     },
     "100010": {
-        "name": "花散里のお面",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_72105_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_72105_Circle.png"
         }
     },
     "100020": {
-        "name": "浅瀬神社の代理宮司",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_72158_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_72158_Circle.png"
         }
     },
     "100030": {
-        "name": "雷鳥と少年",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_72173_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_72173_Circle.png"
         }
     },
     "100040": {
-        "name": "大日御輿",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_72177_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_72177_Circle.png"
         }
     },
     "100050": {
-        "name": "志璇のサイン",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_71045_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_71045_Circle.png"
         }
     },
     "100060": {
-        "name": "アランマ",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_73038_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_73038_Circle.png"
         }
     },
     "100070": {
-        "name": "ジェイドとブンブン",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_73055_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_73055_Circle.png"
         }
     },
     "100080": {
-        "name": "ジンニーの母",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_73220_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_73220_Circle.png"
         }
     },
     "100090": {
-        "name": "花霊の勇者·ソルシュ",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_73232_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_73232_Circle.png"
         }
     },
     "100100": {
-        "name": "出会えてうれしい",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_74007_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_74007_Circle.png"
         }
     },
     "100110": {
-        "name": "アンとマリアン",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_74004_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_74004_Circle.png"
         }
     },
     "100120": {
-        "name": "キャタピラー",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_74028_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_74028_Circle.png"
         }
     },
     "100130": {
-        "name": "奇械の紋章",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_74053_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_74053_Circle.png"
         }
     },
     "100140": {
-        "name": "形なき学会",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_74078_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_74078_Circle.png"
         }
     },
     "100150": {
-        "name": "パシーフ！",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_74085_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_74085_Circle.png"
         }
     },
     "100160": {
-        "name": "祀瓏儀式",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_71100_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_71100_Circle.png"
         }
     },
     "100170": {
-        "name": "ウスさん",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_74196_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_74196_Circle.png"
         }
     },
     "100180": {
-        "name": "旅人の竜の仲間！",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_75002_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_75002_Circle.png"
         }
     },
     "100190": {
-        "name": "灰燼の都の最後の勇者",
+        "name": "",
         "icon": {
             "name": "UI_AvatarIcon_75048_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_75048_Circle.png"
