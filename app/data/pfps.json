@@ -846,6 +846,20 @@
             "path": "image/pfps/UI_AvatarIcon_Escoffier_Circle.png"
         }
     },
+    "9900": {
+        "name": "",
+        "icon": {
+            "name": "UI_AvatarIcon_Dahlia_Circle.png",
+            "path": "image/pfps/UI_AvatarIcon_Dahlia_Circle.png"
+        }
+    },
+    "10000": {
+        "name": "",
+        "icon": {
+            "name": "UI_AvatarIcon_SkirkNew_Circle.png",
+            "path": "image/pfps/UI_AvatarIcon_SkirkNew_Circle.png"
+        }
+    },
     "99999": {
         "name": "",
         "icon": {
@@ -998,6 +1012,13 @@
         "icon": {
             "name": "UI_AvatarIcon_75177_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_75177_Circle.png"
+        }
+    },
+    "200010": {
+        "name": "",
+        "icon": {
+            "name": "UI_AvatarIcon_Activity_01_Circle.png",
+            "path": "image/pfps/UI_AvatarIcon_Activity_01_Circle.png"
         }
     }
 }
