@@ -1432,5 +1432,29 @@
             "name": "UI_NameCardPic_Bp41_P.png",
             "path": "image/namecard/UI_NameCardPic_Bp41_P.png"
         }
+    },
+    "210244": {
+        "icon": {
+            "name": "UI_NameCardPic_SkirkNew_P.png",
+            "path": "image/namecard/UI_NameCardPic_SkirkNew_P.png"
+        }
+    },
+    "210245": {
+        "icon": {
+            "name": "UI_NameCardPic_Dahlia_P.png",
+            "path": "image/namecard/UI_NameCardPic_Dahlia_P.png"
+        }
+    },
+    "210246": {
+        "icon": {
+            "name": "UI_NameCardPic_RedandWhite3_P.png",
+            "path": "image/namecard/UI_NameCardPic_RedandWhite3_P.png"
+        }
+    },
+    "210247": {
+        "icon": {
+            "name": "UI_NameCardPic_Bp42_P.png",
+            "path": "image/namecard/UI_NameCardPic_Bp42_P.png"
+        }
     }
 }

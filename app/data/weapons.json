@@ -328,6 +328,13 @@
         },
         "name": "岩峰を巡る歌"
     },
+    "UI_EquipIcon_Sword_OuterSword": {
+        "icon": {
+            "name": "UI_EquipIcon_Sword_OuterSword.png",
+            "path": "image/weapon/UI_EquipIcon_Sword_OuterSword.png"
+        },
+        "name": "蒼耀"
+    },
     "UI_EquipIcon_Claymore_Aniki": {
         "icon": {
             "name": "UI_EquipIcon_Claymore_Aniki.png",

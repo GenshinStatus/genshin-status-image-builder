@@ -9098,6 +9098,180 @@
             }
         }
     },
+    "10000114": {
+        "element": "Ice",
+        "consts": [
+            {
+                "name": "UI_Talent_S_SkirkNew_01.png",
+                "path": "image/character/SkirkNew/consts/UI_Talent_S_SkirkNew_01.png"
+            },
+            {
+                "name": "UI_Talent_S_SkirkNew_02.png",
+                "path": "image/character/SkirkNew/consts/UI_Talent_S_SkirkNew_02.png"
+            },
+            {
+                "name": "UI_Talent_U_SkirkNew_01.png",
+                "path": "image/character/SkirkNew/consts/UI_Talent_U_SkirkNew_01.png"
+            },
+            {
+                "name": "UI_Talent_S_SkirkNew_03.png",
+                "path": "image/character/SkirkNew/consts/UI_Talent_S_SkirkNew_03.png"
+            },
+            {
+                "name": "UI_Talent_U_SkirkNew_02.png",
+                "path": "image/character/SkirkNew/consts/UI_Talent_U_SkirkNew_02.png"
+            },
+            {
+                "name": "UI_Talent_S_SkirkNew_04.png",
+                "path": "image/character/SkirkNew/consts/UI_Talent_S_SkirkNew_04.png"
+            }
+        ],
+        "skills": [
+            {
+                "name": "通常攻撃",
+                "icon": {
+                    "name": "Skill_A_01.png",
+                    "path": "image/character/SkirkNew/skill/Skill_A_01.png"
+                },
+                "id": "11141",
+                "proud_id": "11431"
+            },
+            {
+                "name": "元素スキル",
+                "icon": {
+                    "name": "Skill_S_SkirkNew_01.png",
+                    "path": "image/character/SkirkNew/skill/Skill_S_SkirkNew_01.png"
+                },
+                "id": "11142",
+                "proud_id": "11432"
+            },
+            {
+                "name": "元素爆発",
+                "icon": {
+                    "name": "Skill_E_SkirkNew_01.png",
+                    "path": "image/character/SkirkNew/skill/Skill_E_SkirkNew_01.png"
+                },
+                "id": "11145",
+                "proud_id": "11439"
+            }
+        ],
+        "name": "スカーク",
+        "english_name": "SkirkNew",
+        "proud_map": {
+            "11141": "11431",
+            "11142": "11432",
+            "11145": "11439"
+        },
+        "quality": 5,
+        "costumes": {
+            "default": {
+                "side_icon": {
+                    "name": "UI_AvatarIcon_Side_SkirkNew.png",
+                    "path": "image/character/SkirkNew/avatar/default/UI_AvatarIcon_Side_SkirkNew.png"
+                },
+                "avatar_icon": {
+                    "name": "UI_AvatarIcon_SkirkNew.png",
+                    "path": "image/character/SkirkNew/avatar/default/UI_AvatarIcon_SkirkNew.png"
+                },
+                "gacha_icon": {
+                    "name": "UI_Gacha_AvatarImg_SkirkNew.png",
+                    "path": "image/character/SkirkNew/avatar/default/UI_Gacha_AvatarImg_SkirkNew.png"
+                },
+                "position": {
+                    "x": "-254",
+                    "y": "-8",
+                    "scale": "89"
+                }
+            }
+        }
+    },
+    "10000115": {
+        "element": "Water",
+        "consts": [
+            {
+                "name": "UI_Talent_S_Dahlia_01.png",
+                "path": "image/character/Dahlia/consts/UI_Talent_S_Dahlia_01.png"
+            },
+            {
+                "name": "UI_Talent_S_Dahlia_02.png",
+                "path": "image/character/Dahlia/consts/UI_Talent_S_Dahlia_02.png"
+            },
+            {
+                "name": "UI_Talent_U_Dahlia_01.png",
+                "path": "image/character/Dahlia/consts/UI_Talent_U_Dahlia_01.png"
+            },
+            {
+                "name": "UI_Talent_S_Dahlia_03.png",
+                "path": "image/character/Dahlia/consts/UI_Talent_S_Dahlia_03.png"
+            },
+            {
+                "name": "UI_Talent_U_Dahlia_02.png",
+                "path": "image/character/Dahlia/consts/UI_Talent_U_Dahlia_02.png"
+            },
+            {
+                "name": "UI_Talent_S_Dahlia_04.png",
+                "path": "image/character/Dahlia/consts/UI_Talent_S_Dahlia_04.png"
+            }
+        ],
+        "skills": [
+            {
+                "name": "通常攻撃",
+                "icon": {
+                    "name": "Skill_A_01.png",
+                    "path": "image/character/Dahlia/skill/Skill_A_01.png"
+                },
+                "id": "11151",
+                "proud_id": "11531"
+            },
+            {
+                "name": "元素スキル",
+                "icon": {
+                    "name": "Skill_S_Dahlia_01.png",
+                    "path": "image/character/Dahlia/skill/Skill_S_Dahlia_01.png"
+                },
+                "id": "11152",
+                "proud_id": "11532"
+            },
+            {
+                "name": "元素爆発",
+                "icon": {
+                    "name": "Skill_E_Dahlia_01.png",
+                    "path": "image/character/Dahlia/skill/Skill_E_Dahlia_01.png"
+                },
+                "id": "11155",
+                "proud_id": "11539"
+            }
+        ],
+        "name": "ダリア",
+        "english_name": "Dahlia",
+        "proud_map": {
+            "11151": "11531",
+            "11152": "11532",
+            "11155": "11539"
+        },
+        "quality": 4,
+        "costumes": {
+            "default": {
+                "side_icon": {
+                    "name": "UI_AvatarIcon_Side_Dahlia.png",
+                    "path": "image/character/Dahlia/avatar/default/UI_AvatarIcon_Side_Dahlia.png"
+                },
+                "avatar_icon": {
+                    "name": "UI_AvatarIcon_Dahlia.png",
+                    "path": "image/character/Dahlia/avatar/default/UI_AvatarIcon_Dahlia.png"
+                },
+                "gacha_icon": {
+                    "name": "UI_Gacha_AvatarImg_Dahlia.png",
+                    "path": "image/character/Dahlia/avatar/default/UI_Gacha_AvatarImg_Dahlia.png"
+                },
+                "position": {
+                    "x": "-254",
+                    "y": "-8",
+                    "scale": "89"
+                }
+            }
+        }
+    },
     "10000901": {
         "element": "Fire",
         "consts": [
