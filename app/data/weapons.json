@@ -545,6 +545,13 @@
         },
         "name": "アースシェイカー"
     },
+    "UI_EquipIcon_Claymore_Polilith": {
+        "icon": {
+            "name": "UI_EquipIcon_Claymore_Polilith.png",
+            "path": "image/weapon/UI_EquipIcon_Claymore_Polilith.png"
+        },
+        "name": "知恵の溶炎"
+    },
     "UI_EquipIcon_Claymore_Dvalin": {
         "icon": {
             "name": "UI_EquipIcon_Claymore_Dvalin.png",
@@ -859,6 +866,13 @@
             "path": "image/weapon/UI_EquipIcon_Pole_Trident.png"
         },
         "name": "香りのシンフォニスト"
+    },
+    "UI_EquipIcon_Pole_Perdix": {
+        "icon": {
+            "name": "UI_EquipIcon_Pole_Perdix.png",
+            "path": "image/weapon/UI_EquipIcon_Pole_Perdix.png"
+        },
+        "name": "砕け散る光輪"
     },
     "UI_EquipIcon_Catalyst_Apprentice": {
         "icon": {
@@ -1468,5 +1482,75 @@
             "path": "image/weapon/UI_EquipIcon_Bow_Qoyllorsnova.png"
         },
         "name": "星鷲の紅き羽"
+    },
+    "UI_EquipIcon_Sword_MorphVinces_Wind": {
+        "icon": {
+            "name": "UI_EquipIcon_Sword_MorphVinces_Wind.png",
+            "path": "image/weapon/UI_EquipIcon_Sword_MorphVinces_Wind.png"
+        },
+        "name": "呑蛇"
+    },
+    "UI_EquipIcon_Sword_MorphVinces_Great_Wind": {
+        "icon": {
+            "name": "UI_EquipIcon_Sword_MorphVinces_Great_Wind.png",
+            "path": "image/weapon/UI_EquipIcon_Sword_MorphVinces_Great_Wind.png"
+        },
+        "name": "呑蛇・真化"
+    },
+    "UI_EquipIcon_Claymore_MorphGravitas_Wind": {
+        "icon": {
+            "name": "UI_EquipIcon_Claymore_MorphGravitas_Wind.png",
+            "path": "image/weapon/UI_EquipIcon_Claymore_MorphGravitas_Wind.png"
+        },
+        "name": "煌烈"
+    },
+    "UI_EquipIcon_Claymore_MorphGravitas_Great_Wind": {
+        "icon": {
+            "name": "UI_EquipIcon_Claymore_MorphGravitas_Great_Wind.png",
+            "path": "image/weapon/UI_EquipIcon_Claymore_MorphGravitas_Great_Wind.png"
+        },
+        "name": "煌烈・真化"
+    },
+    "UI_EquipIcon_Pole_MorphSpinifer_Wind": {
+        "icon": {
+            "name": "UI_EquipIcon_Pole_MorphSpinifer_Wind.png",
+            "path": "image/weapon/UI_EquipIcon_Pole_MorphSpinifer_Wind.png"
+        },
+        "name": "砕月"
+    },
+    "UI_EquipIcon_Pole_MorphSpinifer_Great_Wind": {
+        "icon": {
+            "name": "UI_EquipIcon_Pole_MorphSpinifer_Great_Wind.png",
+            "path": "image/weapon/UI_EquipIcon_Pole_MorphSpinifer_Great_Wind.png"
+        },
+        "name": "砕月・真化"
+    },
+    "UI_EquipIcon_Catalyst_MorphIlia_Wind": {
+        "icon": {
+            "name": "UI_EquipIcon_Catalyst_MorphIlia_Wind.png",
+            "path": "image/weapon/UI_EquipIcon_Catalyst_MorphIlia_Wind.png"
+        },
+        "name": "聖縛"
+    },
+    "UI_EquipIcon_Catalyst_MorphIlia_Great_Wind": {
+        "icon": {
+            "name": "UI_EquipIcon_Catalyst_MorphIlia_Great_Wind.png",
+            "path": "image/weapon/UI_EquipIcon_Catalyst_MorphIlia_Great_Wind.png"
+        },
+        "name": "聖縛・真化"
+    },
+    "UI_EquipIcon_Bow_MorphChrod_Wind": {
+        "icon": {
+            "name": "UI_EquipIcon_Bow_MorphChrod_Wind.png",
+            "path": "image/weapon/UI_EquipIcon_Bow_MorphChrod_Wind.png"
+        },
+        "name": "貫星"
+    },
+    "UI_EquipIcon_Bow_MorphChrod_Great_Wind": {
+        "icon": {
+            "name": "UI_EquipIcon_Bow_MorphChrod_Great_Wind.png",
+            "path": "image/weapon/UI_EquipIcon_Bow_MorphChrod_Great_Wind.png"
+        },
+        "name": "貫星・真化"
     }
 }

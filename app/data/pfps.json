@@ -146,6 +146,13 @@
             "path": "image/pfps/UI_AvatarIcon_Bennett_Circle.png"
         }
     },
+    "1101": {
+        "name": "",
+        "icon": {
+            "name": "UI_AvatarIcon_BennettCostumeSummer_Circle.png",
+            "path": "image/pfps/UI_AvatarIcon_BennettCostumeSummer_Circle.png"
+        }
+    },
     "1200": {
         "name": "",
         "icon": {
@@ -480,6 +487,13 @@
         "icon": {
             "name": "UI_AvatarIcon_Yelan_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Yelan_Circle.png"
+        }
+    },
+    "4801": {
+        "name": "",
+        "icon": {
+            "name": "UI_AvatarIcon_YelanCostumeSummer_Circle.png",
+            "path": "image/pfps/UI_AvatarIcon_YelanCostumeSummer_Circle.png"
         }
     },
     "4900": {
@@ -860,6 +874,13 @@
             "path": "image/pfps/UI_AvatarIcon_SkirkNew_Circle.png"
         }
     },
+    "10100": {
+        "name": "",
+        "icon": {
+            "name": "UI_AvatarIcon_Ineffa_Circle.png",
+            "path": "image/pfps/UI_AvatarIcon_Ineffa_Circle.png"
+        }
+    },
     "99999": {
         "name": "",
         "icon": {
@@ -1012,6 +1033,13 @@
         "icon": {
             "name": "UI_AvatarIcon_75177_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_75177_Circle.png"
+        }
+    },
+    "100220": {
+        "name": "",
+        "icon": {
+            "name": "UI_AvatarIcon_75230_Circle.png",
+            "path": "image/pfps/UI_AvatarIcon_75230_Circle.png"
         }
     },
     "200010": {
