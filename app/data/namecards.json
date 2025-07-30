@@ -1456,5 +1456,35 @@
             "name": "UI_NameCardPic_Bp42_P.png",
             "path": "image/namecard/UI_NameCardPic_Bp42_P.png"
         }
+    },
+    "210248": {
+        "icon": {
+            "name": "UI_NameCardPic_Ineffa_P.png",
+            "path": "image/namecard/UI_NameCardPic_Ineffa_P.png"
+        }
+    },
+    "210249": {
+        "icon": {
+            "name": "UI_NameCardPic_NatlanOffering_P.png",
+            "path": "image/namecard/UI_NameCardPic_NatlanOffering_P.png"
+        }
+    },
+    "210250": {
+        "icon": {
+            "name": "UI_NameCardPic_Natlan4_P.png",
+            "path": "image/namecard/UI_NameCardPic_Natlan4_P.png"
+        }
+    },
+    "210251": {
+        "icon": {
+            "name": "UI_NameCardPic_Bp43_P.png",
+            "path": "image/namecard/UI_NameCardPic_Bp43_P.png"
+        }
+    },
+    "210252": {
+        "icon": {
+            "name": "UI_NameCardPic_Event58_P.png",
+            "path": "image/namecard/UI_NameCardPic_Event58_P.png"
+        }
     }
 }

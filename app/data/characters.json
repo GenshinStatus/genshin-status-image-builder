@@ -1965,6 +1965,25 @@
         },
         "quality": 4,
         "costumes": {
+            "203201": {
+                "side_icon": {
+                    "name": "UI_AvatarIcon_Side_BennettCostumeSummer.png",
+                    "path": "image/character/Bennett/avatar/203201/UI_AvatarIcon_Side_BennettCostumeSummer.png"
+                },
+                "avatar_icon": {
+                    "name": "UI_AvatarIcon_BennettCostumeSummer.png",
+                    "path": "image/character/Bennett/avatar/203201/UI_AvatarIcon_BennettCostumeSummer.png"
+                },
+                "gacha_icon": {
+                    "name": "UI_Costume_BennettCostumeSummer.png",
+                    "path": "image/character/Bennett/avatar/203201/UI_Costume_BennettCostumeSummer.png"
+                },
+                "position": {
+                    "x": -190,
+                    "y": 14,
+                    "scale": 83
+                }
+            },
             "default": {
                 "side_icon": {
                     "name": "UI_AvatarIcon_Side_Bennett.png",
@@ -4409,6 +4428,25 @@
         },
         "quality": 5,
         "costumes": {
+            "206000": {
+                "side_icon": {
+                    "name": "UI_AvatarIcon_Side_YelanCostumeSummer.png",
+                    "path": "image/character/Yelan/avatar/206000/UI_AvatarIcon_Side_YelanCostumeSummer.png"
+                },
+                "avatar_icon": {
+                    "name": "UI_AvatarIcon_YelanCostumeSummer.png",
+                    "path": "image/character/Yelan/avatar/206000/UI_AvatarIcon_YelanCostumeSummer.png"
+                },
+                "gacha_icon": {
+                    "name": "UI_Costume_YelanCostumeSummer.png",
+                    "path": "image/character/Yelan/avatar/206000/UI_Costume_YelanCostumeSummer.png"
+                },
+                "position": {
+                    "x": -208,
+                    "y": 91,
+                    "scale": 121
+                }
+            },
             "default": {
                 "side_icon": {
                     "name": "UI_AvatarIcon_Side_Yelan.png",
@@ -9263,6 +9301,93 @@
                 "gacha_icon": {
                     "name": "UI_Gacha_AvatarImg_Dahlia.png",
                     "path": "image/character/Dahlia/avatar/default/UI_Gacha_AvatarImg_Dahlia.png"
+                },
+                "position": {
+                    "x": "-254",
+                    "y": "-8",
+                    "scale": "89"
+                }
+            }
+        }
+    },
+    "10000116": {
+        "element": "Electric",
+        "consts": [
+            {
+                "name": "UI_Talent_S_Ineffa_01.png",
+                "path": "image/character/Ineffa/consts/UI_Talent_S_Ineffa_01.png"
+            },
+            {
+                "name": "UI_Talent_S_Ineffa_02.png",
+                "path": "image/character/Ineffa/consts/UI_Talent_S_Ineffa_02.png"
+            },
+            {
+                "name": "UI_Talent_U_Ineffa_01.png",
+                "path": "image/character/Ineffa/consts/UI_Talent_U_Ineffa_01.png"
+            },
+            {
+                "name": "UI_Talent_S_Ineffa_03.png",
+                "path": "image/character/Ineffa/consts/UI_Talent_S_Ineffa_03.png"
+            },
+            {
+                "name": "UI_Talent_U_Ineffa_02.png",
+                "path": "image/character/Ineffa/consts/UI_Talent_U_Ineffa_02.png"
+            },
+            {
+                "name": "UI_Talent_S_Ineffa_04.png",
+                "path": "image/character/Ineffa/consts/UI_Talent_S_Ineffa_04.png"
+            }
+        ],
+        "skills": [
+            {
+                "name": "通常攻撃",
+                "icon": {
+                    "name": "Skill_A_03.png",
+                    "path": "image/character/Ineffa/skill/Skill_A_03.png"
+                },
+                "id": "11161",
+                "proud_id": "11631"
+            },
+            {
+                "name": "元素スキル",
+                "icon": {
+                    "name": "Skill_S_Ineffa_01.png",
+                    "path": "image/character/Ineffa/skill/Skill_S_Ineffa_01.png"
+                },
+                "id": "11162",
+                "proud_id": "11632"
+            },
+            {
+                "name": "元素爆発",
+                "icon": {
+                    "name": "Skill_E_Ineffa_01.png",
+                    "path": "image/character/Ineffa/skill/Skill_E_Ineffa_01.png"
+                },
+                "id": "11165",
+                "proud_id": "11639"
+            }
+        ],
+        "name": "イネファ",
+        "english_name": "Ineffa",
+        "proud_map": {
+            "11161": "11631",
+            "11162": "11632",
+            "11165": "11639"
+        },
+        "quality": 5,
+        "costumes": {
+            "default": {
+                "side_icon": {
+                    "name": "UI_AvatarIcon_Side_Ineffa.png",
+                    "path": "image/character/Ineffa/avatar/default/UI_AvatarIcon_Side_Ineffa.png"
+                },
+                "avatar_icon": {
+                    "name": "UI_AvatarIcon_Ineffa.png",
+                    "path": "image/character/Ineffa/avatar/default/UI_AvatarIcon_Ineffa.png"
+                },
+                "gacha_icon": {
+                    "name": "UI_Gacha_AvatarImg_Ineffa.png",
+                    "path": "image/character/Ineffa/avatar/default/UI_Gacha_AvatarImg_Ineffa.png"
                 },
                 "position": {
                     "x": "-254",
