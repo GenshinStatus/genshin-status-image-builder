@@ -2159,6 +2159,86 @@
         "set_name": "深廊の終曲",
         "equip_type": "EQUIP_SHOES"
     },
+    "UI_RelicIcon_15041_1": {
+        "icon": {
+            "name": "UI_RelicIcon_15041_1.png",
+            "path": "image/artifact/UI_RelicIcon_15041_1.png"
+        },
+        "set_name": "天穹の顕現せし夜",
+        "equip_type": "EQUIP_RING"
+    },
+    "UI_RelicIcon_15041_2": {
+        "icon": {
+            "name": "UI_RelicIcon_15041_2.png",
+            "path": "image/artifact/UI_RelicIcon_15041_2.png"
+        },
+        "set_name": "天穹の顕現せし夜",
+        "equip_type": "EQUIP_NECKLACE"
+    },
+    "UI_RelicIcon_15041_3": {
+        "icon": {
+            "name": "UI_RelicIcon_15041_3.png",
+            "path": "image/artifact/UI_RelicIcon_15041_3.png"
+        },
+        "set_name": "天穹の顕現せし夜",
+        "equip_type": "EQUIP_DRESS"
+    },
+    "UI_RelicIcon_15041_4": {
+        "icon": {
+            "name": "UI_RelicIcon_15041_4.png",
+            "path": "image/artifact/UI_RelicIcon_15041_4.png"
+        },
+        "set_name": "天穹の顕現せし夜",
+        "equip_type": "EQUIP_BRACER"
+    },
+    "UI_RelicIcon_15041_5": {
+        "icon": {
+            "name": "UI_RelicIcon_15041_5.png",
+            "path": "image/artifact/UI_RelicIcon_15041_5.png"
+        },
+        "set_name": "天穹の顕現せし夜",
+        "equip_type": "EQUIP_SHOES"
+    },
+    "UI_RelicIcon_15042_1": {
+        "icon": {
+            "name": "UI_RelicIcon_15042_1.png",
+            "path": "image/artifact/UI_RelicIcon_15042_1.png"
+        },
+        "set_name": "月を紡ぐ夜の歌",
+        "equip_type": "EQUIP_RING"
+    },
+    "UI_RelicIcon_15042_2": {
+        "icon": {
+            "name": "UI_RelicIcon_15042_2.png",
+            "path": "image/artifact/UI_RelicIcon_15042_2.png"
+        },
+        "set_name": "月を紡ぐ夜の歌",
+        "equip_type": "EQUIP_NECKLACE"
+    },
+    "UI_RelicIcon_15042_3": {
+        "icon": {
+            "name": "UI_RelicIcon_15042_3.png",
+            "path": "image/artifact/UI_RelicIcon_15042_3.png"
+        },
+        "set_name": "月を紡ぐ夜の歌",
+        "equip_type": "EQUIP_DRESS"
+    },
+    "UI_RelicIcon_15042_4": {
+        "icon": {
+            "name": "UI_RelicIcon_15042_4.png",
+            "path": "image/artifact/UI_RelicIcon_15042_4.png"
+        },
+        "set_name": "月を紡ぐ夜の歌",
+        "equip_type": "EQUIP_BRACER"
+    },
+    "UI_RelicIcon_15042_5": {
+        "icon": {
+            "name": "UI_RelicIcon_15042_5.png",
+            "path": "image/artifact/UI_RelicIcon_15042_5.png"
+        },
+        "set_name": "月を紡ぐ夜の歌",
+        "equip_type": "EQUIP_SHOES"
+    },
     "UI_RelicIcon_10000_2": {
         "icon": {
             "name": "UI_RelicIcon_10000_2.png",

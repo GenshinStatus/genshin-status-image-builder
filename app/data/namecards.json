@@ -1486,5 +1486,53 @@
             "name": "UI_NameCardPic_Event58_P.png",
             "path": "image/namecard/UI_NameCardPic_Event58_P.png"
         }
+    },
+    "210253": {
+        "icon": {
+            "name": "UI_NameCardPic_Lauma_P.png",
+            "path": "image/namecard/UI_NameCardPic_Lauma_P.png"
+        }
+    },
+    "210254": {
+        "icon": {
+            "name": "UI_NameCardPic_Flins_P.png",
+            "path": "image/namecard/UI_NameCardPic_Flins_P.png"
+        }
+    },
+    "210255": {
+        "icon": {
+            "name": "UI_NameCardPic_Aino_P.png",
+            "path": "image/namecard/UI_NameCardPic_Aino_P.png"
+        }
+    },
+    "210256": {
+        "icon": {
+            "name": "UI_NameCardPic_NodKraiOffering1_P.png",
+            "path": "image/namecard/UI_NameCardPic_NodKraiOffering1_P.png"
+        }
+    },
+    "210257": {
+        "icon": {
+            "name": "UI_NameCardPic_NodKrai1_P.png",
+            "path": "image/namecard/UI_NameCardPic_NodKrai1_P.png"
+        }
+    },
+    "210258": {
+        "icon": {
+            "name": "UI_NameCardPic_Ysxf6_P.png",
+            "path": "image/namecard/UI_NameCardPic_Ysxf6_P.png"
+        }
+    },
+    "210259": {
+        "icon": {
+            "name": "UI_NameCardPic_Bp44_P.png",
+            "path": "image/namecard/UI_NameCardPic_Bp44_P.png"
+        }
+    },
+    "210260": {
+        "icon": {
+            "name": "UI_NameCardPic_YellowV2_P.png",
+            "path": "image/namecard/UI_NameCardPic_YellowV2_P.png"
+        }
     }
 }

@@ -881,6 +881,27 @@
             "path": "image/pfps/UI_AvatarIcon_Ineffa_Circle.png"
         }
     },
+    "10200": {
+        "name": "",
+        "icon": {
+            "name": "UI_AvatarIcon_Aino_Circle.png",
+            "path": "image/pfps/UI_AvatarIcon_Aino_Circle.png"
+        }
+    },
+    "10300": {
+        "name": "",
+        "icon": {
+            "name": "UI_AvatarIcon_Lauma_Circle.png",
+            "path": "image/pfps/UI_AvatarIcon_Lauma_Circle.png"
+        }
+    },
+    "10400": {
+        "name": "",
+        "icon": {
+            "name": "UI_AvatarIcon_Flins_Circle.png",
+            "path": "image/pfps/UI_AvatarIcon_Flins_Circle.png"
+        }
+    },
     "99999": {
         "name": "",
         "icon": {
@@ -1040,6 +1061,20 @@
         "icon": {
             "name": "UI_AvatarIcon_75230_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_75230_Circle.png"
+        }
+    },
+    "100230": {
+        "name": "",
+        "icon": {
+            "name": "UI_AvatarIcon_76011_Circle.png",
+            "path": "image/pfps/UI_AvatarIcon_76011_Circle.png"
+        }
+    },
+    "100240": {
+        "name": "",
+        "icon": {
+            "name": "UI_AvatarIcon_76003_Circle.png",
+            "path": "image/pfps/UI_AvatarIcon_76003_Circle.png"
         }
     },
     "200010": {
