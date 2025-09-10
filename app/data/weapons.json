@@ -237,6 +237,20 @@
         },
         "name": "厄水の災い"
     },
+    "UI_EquipIcon_Sword_Ilmarinen": {
+        "icon": {
+            "name": "UI_EquipIcon_Sword_Ilmarinen.png",
+            "path": "image/weapon/UI_EquipIcon_Sword_Ilmarinen.png"
+        },
+        "name": "静謐の笛"
+    },
+    "UI_EquipIcon_Sword_Miekka": {
+        "icon": {
+            "name": "UI_EquipIcon_Sword_Miekka.png",
+            "path": "image/weapon/UI_EquipIcon_Sword_Miekka.png"
+        },
+        "name": "月紡ぎの曙光"
+    },
     "UI_EquipIcon_Sword_Falcon": {
         "icon": {
             "name": "UI_EquipIcon_Sword_Falcon.png",
@@ -552,6 +566,13 @@
         },
         "name": "知恵の溶炎"
     },
+    "UI_EquipIcon_Claymore_Ilmarinen": {
+        "icon": {
+            "name": "UI_EquipIcon_Claymore_Ilmarinen.png",
+            "path": "image/weapon/UI_EquipIcon_Claymore_Ilmarinen.png"
+        },
+        "name": "万能の鍵"
+    },
     "UI_EquipIcon_Claymore_Dvalin": {
         "icon": {
             "name": "UI_EquipIcon_Claymore_Dvalin.png",
@@ -797,6 +818,13 @@
         },
         "name": "玉響停の御噺"
     },
+    "UI_EquipIcon_Pole_Ilmarinen": {
+        "icon": {
+            "name": "UI_EquipIcon_Pole_Ilmarinen.png",
+            "path": "image/weapon/UI_EquipIcon_Pole_Ilmarinen.png"
+        },
+        "name": "金掘りのシャベル"
+    },
     "UI_EquipIcon_Pole_Homa": {
         "icon": {
             "name": "UI_EquipIcon_Pole_Homa.png",
@@ -873,6 +901,13 @@
             "path": "image/weapon/UI_EquipIcon_Pole_Perdix.png"
         },
         "name": "砕け散る光輪"
+    },
+    "UI_EquipIcon_Pole_TummaLyhty": {
+        "icon": {
+            "name": "UI_EquipIcon_Pole_TummaLyhty.png",
+            "path": "image/weapon/UI_EquipIcon_Pole_TummaLyhty.png"
+        },
+        "name": "血染めの荒れ地"
     },
     "UI_EquipIcon_Catalyst_Apprentice": {
         "icon": {
@@ -1077,6 +1112,20 @@
         },
         "name": "ヤシュチェの環"
     },
+    "UI_EquipIcon_Catalyst_SeeliesLute": {
+        "icon": {
+            "name": "UI_EquipIcon_Catalyst_SeeliesLute.png",
+            "path": "image/weapon/UI_EquipIcon_Catalyst_SeeliesLute.png"
+        },
+        "name": "天光のリュート"
+    },
+    "UI_EquipIcon_Catalyst_Ilmarinen": {
+        "icon": {
+            "name": "UI_EquipIcon_Catalyst_Ilmarinen.png",
+            "path": "image/weapon/UI_EquipIcon_Catalyst_Ilmarinen.png"
+        },
+        "name": "烏髄の孤灯"
+    },
     "UI_EquipIcon_Catalyst_Dvalin": {
         "icon": {
             "name": "UI_EquipIcon_Catalyst_Dvalin.png",
@@ -1181,6 +1230,13 @@
             "path": "image/weapon/UI_EquipIcon_Catalyst_VaresaTransformer.png"
         },
         "name": "ヴィヴィッド・ハート"
+    },
+    "UI_EquipIcon_Catalyst_MenulisRing": {
+        "icon": {
+            "name": "UI_EquipIcon_Catalyst_MenulisRing.png",
+            "path": "image/weapon/UI_EquipIcon_Catalyst_MenulisRing.png"
+        },
+        "name": "夜を紡ぐ天鏡"
     },
     "UI_EquipIcon_Bow_Hunters": {
         "icon": {
@@ -1412,6 +1468,13 @@
             "path": "image/weapon/UI_EquipIcon_Bow_Stinger.png"
         },
         "name": "冷寂の音"
+    },
+    "UI_EquipIcon_Bow_Ilmarinen": {
+        "icon": {
+            "name": "UI_EquipIcon_Bow_Ilmarinen.png",
+            "path": "image/weapon/UI_EquipIcon_Bow_Ilmarinen.png"
+        },
+        "name": "羅網の針"
     },
     "UI_EquipIcon_Bow_Dvalin": {
         "icon": {
