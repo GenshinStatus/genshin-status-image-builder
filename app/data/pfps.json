@@ -902,6 +902,13 @@
             "path": "image/pfps/UI_AvatarIcon_Flins_Circle.png"
         }
     },
+    "10500": {
+        "name": "",
+        "icon": {
+            "name": "UI_AvatarIcon_Nefer_Circle.png",
+            "path": "image/pfps/UI_AvatarIcon_Nefer_Circle.png"
+        }
+    },
     "99999": {
         "name": "",
         "icon": {
@@ -1082,6 +1089,27 @@
         "icon": {
             "name": "UI_AvatarIcon_Activity_01_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Activity_01_Circle.png"
+        }
+    },
+    "900001": {
+        "name": "",
+        "icon": {
+            "name": "UI_AvatarIcon_MannequinBoy_Circle.png",
+            "path": "image/pfps/UI_AvatarIcon_MannequinBoy_Circle.png"
+        }
+    },
+    "900002": {
+        "name": "",
+        "icon": {
+            "name": "UI_AvatarIcon_MannequinGirl_Circle.png",
+            "path": "image/pfps/UI_AvatarIcon_MannequinGirl_Circle.png"
+        }
+    },
+    "900003": {
+        "name": "",
+        "icon": {
+            "name": "UI_AvatarIcon_Mannequin_Custom_Circle.png",
+            "path": "image/pfps/UI_AvatarIcon_Mannequin_Custom_Circle.png"
         }
     }
 }

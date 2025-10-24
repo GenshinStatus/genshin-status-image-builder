@@ -4428,18 +4428,18 @@
     },
     "quality": 5,
     "costumes": {
-      "206000": {
+      "206001": {
         "side_icon": {
           "name": "UI_AvatarIcon_Side_YelanCostumeSummer.png",
-          "path": "image/character/Yelan/avatar/206000/UI_AvatarIcon_Side_YelanCostumeSummer.png"
+          "path": "image/character/Yelan/avatar/206001/UI_AvatarIcon_Side_YelanCostumeSummer.png"
         },
         "avatar_icon": {
           "name": "UI_AvatarIcon_YelanCostumeSummer.png",
-          "path": "image/character/Yelan/avatar/206000/UI_AvatarIcon_YelanCostumeSummer.png"
+          "path": "image/character/Yelan/avatar/206001/UI_AvatarIcon_YelanCostumeSummer.png"
         },
         "gacha_icon": {
           "name": "UI_Costume_YelanCostumeSummer.png",
-          "path": "image/character/Yelan/avatar/206000/UI_Costume_YelanCostumeSummer.png"
+          "path": "image/character/Yelan/avatar/206001/UI_Costume_YelanCostumeSummer.png"
         },
         "position": {
           "x": -208,
@@ -9649,6 +9649,93 @@
         "gacha_icon": {
           "name": "UI_Gacha_AvatarImg_Aino.png",
           "path": "image/character/Aino/avatar/default/UI_Gacha_AvatarImg_Aino.png"
+        },
+        "position": {
+          "x": "-254",
+          "y": "-8",
+          "scale": "89"
+        }
+      }
+    }
+  },
+  "10000122": {
+    "element": "Grass",
+    "consts": [
+      {
+        "name": "UI_Talent_S_Nefer_01.png",
+        "path": "image/character/Nefer/consts/UI_Talent_S_Nefer_01.png"
+      },
+      {
+        "name": "UI_Talent_S_Nefer_02.png",
+        "path": "image/character/Nefer/consts/UI_Talent_S_Nefer_02.png"
+      },
+      {
+        "name": "UI_Talent_U_Nefer_01.png",
+        "path": "image/character/Nefer/consts/UI_Talent_U_Nefer_01.png"
+      },
+      {
+        "name": "UI_Talent_S_Nefer_03.png",
+        "path": "image/character/Nefer/consts/UI_Talent_S_Nefer_03.png"
+      },
+      {
+        "name": "UI_Talent_U_Nefer_02.png",
+        "path": "image/character/Nefer/consts/UI_Talent_U_Nefer_02.png"
+      },
+      {
+        "name": "UI_Talent_S_Nefer_04.png",
+        "path": "image/character/Nefer/consts/UI_Talent_S_Nefer_04.png"
+      }
+    ],
+    "skills": [
+      {
+        "name": "通常攻撃",
+        "icon": {
+          "name": "Skill_A_Catalyst_MD.png",
+          "path": "image/character/Nefer/skill/Skill_A_Catalyst_MD.png"
+        },
+        "id": "11221",
+        "proud_id": "12231"
+      },
+      {
+        "name": "元素スキル",
+        "icon": {
+          "name": "Skill_S_Nefer_01.png",
+          "path": "image/character/Nefer/skill/Skill_S_Nefer_01.png"
+        },
+        "id": "11222",
+        "proud_id": "12232"
+      },
+      {
+        "name": "元素爆発",
+        "icon": {
+          "name": "Skill_E_Nefer_01.png",
+          "path": "image/character/Nefer/skill/Skill_E_Nefer_01.png"
+        },
+        "id": "11225",
+        "proud_id": "12239"
+      }
+    ],
+    "name": "ネフェル",
+    "english_name": "Nefer",
+    "proud_map": {
+      "11221": "12231",
+      "11222": "12232",
+      "11225": "12239"
+    },
+    "quality": 5,
+    "costumes": {
+      "default": {
+        "side_icon": {
+          "name": "UI_AvatarIcon_Side_Nefer.png",
+          "path": "image/character/Nefer/avatar/default/UI_AvatarIcon_Side_Nefer.png"
+        },
+        "avatar_icon": {
+          "name": "UI_AvatarIcon_Nefer.png",
+          "path": "image/character/Nefer/avatar/default/UI_AvatarIcon_Nefer.png"
+        },
+        "gacha_icon": {
+          "name": "UI_Gacha_AvatarImg_Nefer.png",
+          "path": "image/character/Nefer/avatar/default/UI_Gacha_AvatarImg_Nefer.png"
         },
         "position": {
           "x": "-254",
