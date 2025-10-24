@@ -9397,6 +9397,1078 @@
       }
     }
   },
+  "10000117": {
+    "element": "Fire",
+    "consts": [
+      {
+        "name": "Skill_E_LittleIdol_01.png",
+        "path": "image/character/LittleIdol/consts/Skill_E_LittleIdol_01.png"
+      }
+    ],
+    "skills": [
+      {
+        "name": "通常攻撃",
+        "icon": {
+          "name": "Skill_A_01.png",
+          "path": "image/character/LittleIdol/skill/Skill_A_01.png"
+        },
+        "id": "11171",
+        "proud_id": "11731"
+      },
+      {
+        "name": "元素スキル",
+        "icon": {
+          "name": "Skill_S_LittleIdol_01.png",
+          "path": "image/character/LittleIdol/skill/Skill_S_LittleIdol_01.png"
+        },
+        "id": "11172",
+        "proud_id": "11732"
+      },
+      {
+        "name": "元素爆発",
+        "icon": {
+          "name": "Skill_E_LittleIdol_01.png",
+          "path": "image/character/LittleIdol/skill/Skill_E_LittleIdol_01.png"
+        },
+        "id": "111752",
+        "proud_id": "11739"
+      }
+    ],
+    "name": "ドール（男）",
+    "english_name": "MannequinBoy",
+    "proud_map": {
+      "11171": "11731",
+      "11172": "11732",
+      "111751": "11739"
+    },
+    "quality": 5,
+    "costumes": {
+      "default": {
+        "side_icon": {
+          "name": "UI_AvatarIcon_Side_MannequinBoy.png",
+          "path": "image/character/MannequinBoy/avatar/default/UI_AvatarIcon_Side_MannequinBoy.png"
+        },
+        "avatar_icon": {
+          "name": "UI_AvatarIcon_MannequinBoy.png",
+          "path": "image/character/MannequinBoy/avatar/default/UI_AvatarIcon_MannequinBoy.png"
+        },
+        "gacha_icon": {
+          "name": "UI_Gacha_AvatarImg_MannequinBoy.png",
+          "path": "image/character/MannequinBoy/avatar/default/UI_Gacha_AvatarImg_MannequinBoy.png"
+        },
+        "position": {
+          "x": -208,
+          "y": 91,
+          "scale": 121
+        }
+      }
+    }
+  },
+  "10000118": {
+    "element": "Fire",
+    "consts": [
+      {
+        "name": "Skill_E_LittleIdol_01.png",
+        "path": "image/character/LittleIdol/consts/Skill_E_LittleIdol_01.png"
+      }
+    ],
+    "skills": [
+      {
+        "name": "通常攻撃",
+        "icon": {
+          "name": "Skill_A_01.png",
+          "path": "image/character/LittleIdol/skill/Skill_A_01.png"
+        },
+        "id": "11171",
+        "proud_id": "11731"
+      },
+      {
+        "name": "元素スキル",
+        "icon": {
+          "name": "Skill_S_LittleIdol_01.png",
+          "path": "image/character/LittleIdol/skill/Skill_S_LittleIdol_01.png"
+        },
+        "id": "11172",
+        "proud_id": "11732"
+      },
+      {
+        "name": "元素爆発",
+        "icon": {
+          "name": "Skill_E_LittleIdol_01.png",
+          "path": "image/character/LittleIdol/skill/Skill_E_LittleIdol_01.png"
+        },
+        "id": "111753",
+        "proud_id": "11739"
+      }
+    ],
+    "name": "ドール（女）",
+    "english_name": "MannequinGirl",
+    "proud_map": {
+      "11171": "11731",
+      "11172": "11732",
+      "111752": "11739"
+    },
+    "quality": 5,
+    "costumes": {
+      "default": {
+        "side_icon": {
+          "name": "UI_AvatarIcon_Side_MannequinGirl.png",
+          "path": "image/character/MannequinGirl/avatar/default/UI_AvatarIcon_Side_MannequinGirl.png"
+        },
+        "avatar_icon": {
+          "name": "UI_AvatarIcon_MannequinGirl.png",
+          "path": "image/character/MannequinGirl/avatar/default/UI_AvatarIcon_MannequinGirl.png"
+        },
+        "gacha_icon": {
+          "name": "UI_Gacha_AvatarImg_MannequinGirl.png",
+          "path": "image/character/MannequinGirl/avatar/default/UI_Gacha_AvatarImg_MannequinGirl.png"
+        },
+        "position": {
+          "x": -208,
+          "y": 91,
+          "scale": 121
+        }
+      }
+    }
+  },
+  "10000117-11702": {
+    "element": "Fire",
+    "consts": [
+      {
+        "name": "Skill_E_LittleIdol_01.png",
+        "path": "image/character/LittleIdol/consts/Skill_E_LittleIdol_01.png"
+      }
+    ],
+    "skills": [
+      {
+        "name": "通常攻撃",
+        "icon": {
+          "name": "Skill_A_01.png",
+          "path": "image/character/LittleIdol/skill/Skill_A_01.png"
+        },
+        "id": "11171",
+        "proud_id": "11731"
+      },
+      {
+        "name": "元素スキル",
+        "icon": {
+          "name": "Skill_S_LittleIdol_01.png",
+          "path": "image/character/LittleIdol/skill/Skill_S_LittleIdol_01.png"
+        },
+        "id": "11172",
+        "proud_id": "11732"
+      },
+      {
+        "name": "元素爆発",
+        "icon": {
+          "name": "Skill_E_LittleIdol_01.png",
+          "path": "image/character/LittleIdol/skill/Skill_E_LittleIdol_01.png"
+        },
+        "id": "111751",
+        "proud_id": "11739"
+      }
+    ],
+    "name": "ドール（男）",
+    "english_name": "MannequinBoy",
+    "proud_map": {
+      "11171": "11731",
+      "11172": "11732",
+      "111751": "11739"
+    },
+    "quality": 5,
+    "costumes": {
+      "default": {
+        "side_icon": {
+          "name": "UI_AvatarIcon_Side_MannequinBoy.png",
+          "path": "image/character/MannequinBoy/avatar/default/UI_AvatarIcon_Side_MannequinBoy.png"
+        },
+        "avatar_icon": {
+          "name": "UI_AvatarIcon_MannequinBoy.png",
+          "path": "image/character/MannequinBoy/avatar/default/UI_AvatarIcon_MannequinBoy.png"
+        },
+        "gacha_icon": {
+          "name": "UI_Gacha_AvatarImg_MannequinBoy.png",
+          "path": "image/character/MannequinBoy/avatar/default/UI_Gacha_AvatarImg_MannequinBoy.png"
+        },
+        "position": {
+          "x": -208,
+          "y": 91,
+          "scale": 121
+        }
+      }
+    }
+  },
+  "10000117-11703": {
+    "element": "Water",
+    "consts": [
+      {
+        "name": "Skill_E_LittleIdol_01.png",
+        "path": "image/character/LittleIdol/consts/Skill_E_LittleIdol_01.png"
+      }
+    ],
+    "skills": [
+      {
+        "name": "通常攻撃",
+        "icon": {
+          "name": "Skill_A_01.png",
+          "path": "image/character/LittleIdol/skill/Skill_A_01.png"
+        },
+        "id": "11171",
+        "proud_id": "11731"
+      },
+      {
+        "name": "元素スキル",
+        "icon": {
+          "name": "Skill_S_LittleIdol_01.png",
+          "path": "image/character/LittleIdol/skill/Skill_S_LittleIdol_01.png"
+        },
+        "id": "11172",
+        "proud_id": "11732"
+      },
+      {
+        "name": "元素爆発",
+        "icon": {
+          "name": "Skill_E_LittleIdol_01.png",
+          "path": "image/character/LittleIdol/skill/Skill_E_LittleIdol_01.png"
+        },
+        "id": "111752",
+        "proud_id": "11739"
+      }
+    ],
+    "name": "ドール（男）",
+    "english_name": "MannequinBoy",
+    "proud_map": {
+      "11171": "11731",
+      "11172": "11732",
+      "111752": "11739"
+    },
+    "quality": 5,
+    "costumes": {
+      "default": {
+        "side_icon": {
+          "name": "UI_AvatarIcon_Side_MannequinBoy.png",
+          "path": "image/character/MannequinBoy/avatar/default/UI_AvatarIcon_Side_MannequinBoy.png"
+        },
+        "avatar_icon": {
+          "name": "UI_AvatarIcon_MannequinBoy.png",
+          "path": "image/character/MannequinBoy/avatar/default/UI_AvatarIcon_MannequinBoy.png"
+        },
+        "gacha_icon": {
+          "name": "UI_Gacha_AvatarImg_MannequinBoy.png",
+          "path": "image/character/MannequinBoy/avatar/default/UI_Gacha_AvatarImg_MannequinBoy.png"
+        },
+        "position": {
+          "x": -208,
+          "y": 91,
+          "scale": 121
+        }
+      }
+    }
+  },
+  "10000117-11704": {
+    "element": "Electric",
+    "consts": [
+      {
+        "name": "Skill_E_LittleIdol_01.png",
+        "path": "image/character/LittleIdol/consts/Skill_E_LittleIdol_01.png"
+      }
+    ],
+    "skills": [
+      {
+        "name": "通常攻撃",
+        "icon": {
+          "name": "Skill_A_01.png",
+          "path": "image/character/LittleIdol/skill/Skill_A_01.png"
+        },
+        "id": "11171",
+        "proud_id": "11731"
+      },
+      {
+        "name": "元素スキル",
+        "icon": {
+          "name": "Skill_S_LittleIdol_01.png",
+          "path": "image/character/LittleIdol/skill/Skill_S_LittleIdol_01.png"
+        },
+        "id": "11172",
+        "proud_id": "11732"
+      },
+      {
+        "name": "元素爆発",
+        "icon": {
+          "name": "Skill_E_LittleIdol_01.png",
+          "path": "image/character/LittleIdol/skill/Skill_E_LittleIdol_01.png"
+        },
+        "id": "111753",
+        "proud_id": "11739"
+      }
+    ],
+    "name": "ドール（男）",
+    "english_name": "MannequinBoy",
+    "proud_map": {
+      "11171": "11731",
+      "11172": "11732",
+      "111753": "11739"
+    },
+    "quality": 5,
+    "costumes": {
+      "default": {
+        "side_icon": {
+          "name": "UI_AvatarIcon_Side_MannequinBoy.png",
+          "path": "image/character/MannequinBoy/avatar/default/UI_AvatarIcon_Side_MannequinBoy.png"
+        },
+        "avatar_icon": {
+          "name": "UI_AvatarIcon_MannequinBoy.png",
+          "path": "image/character/MannequinBoy/avatar/default/UI_AvatarIcon_MannequinBoy.png"
+        },
+        "gacha_icon": {
+          "name": "UI_Gacha_AvatarImg_MannequinBoy.png",
+          "path": "image/character/MannequinBoy/avatar/default/UI_Gacha_AvatarImg_MannequinBoy.png"
+        },
+        "position": {
+          "x": -208,
+          "y": 91,
+          "scale": 121
+        }
+      }
+    }
+  },
+  "10000117-11705": {
+    "element": "Ice",
+    "consts": [
+      {
+        "name": "Skill_E_LittleIdol_01.png",
+        "path": "image/character/LittleIdol/consts/Skill_E_LittleIdol_01.png"
+      }
+    ],
+    "skills": [
+      {
+        "name": "通常攻撃",
+        "icon": {
+          "name": "Skill_A_01.png",
+          "path": "image/character/LittleIdol/skill/Skill_A_01.png"
+        },
+        "id": "11171",
+        "proud_id": "11731"
+      },
+      {
+        "name": "元素スキル",
+        "icon": {
+          "name": "Skill_S_LittleIdol_01.png",
+          "path": "image/character/LittleIdol/skill/Skill_S_LittleIdol_01.png"
+        },
+        "id": "11172",
+        "proud_id": "11732"
+      },
+      {
+        "name": "元素爆発",
+        "icon": {
+          "name": "Skill_E_LittleIdol_01.png",
+          "path": "image/character/LittleIdol/skill/Skill_E_LittleIdol_01.png"
+        },
+        "id": "111754",
+        "proud_id": "11739"
+      }
+    ],
+    "name": "ドール（男）",
+    "english_name": "MannequinBoy",
+    "proud_map": {
+      "11171": "11731",
+      "11172": "11732",
+      "111754": "11739"
+    },
+    "quality": 5,
+    "costumes": {
+      "default": {
+        "side_icon": {
+          "name": "UI_AvatarIcon_Side_MannequinBoy.png",
+          "path": "image/character/MannequinBoy/avatar/default/UI_AvatarIcon_Side_MannequinBoy.png"
+        },
+        "avatar_icon": {
+          "name": "UI_AvatarIcon_MannequinBoy.png",
+          "path": "image/character/MannequinBoy/avatar/default/UI_AvatarIcon_MannequinBoy.png"
+        },
+        "gacha_icon": {
+          "name": "UI_Gacha_AvatarImg_MannequinBoy.png",
+          "path": "image/character/MannequinBoy/avatar/default/UI_Gacha_AvatarImg_MannequinBoy.png"
+        },
+        "position": {
+          "x": -208,
+          "y": 91,
+          "scale": 121
+        }
+      }
+    }
+  },
+  "10000117-11706": {
+    "element": "Wind",
+    "consts": [
+      {
+        "name": "Skill_E_LittleIdol_01.png",
+        "path": "image/character/LittleIdol/consts/Skill_E_LittleIdol_01.png"
+      }
+    ],
+    "skills": [
+      {
+        "name": "通常攻撃",
+        "icon": {
+          "name": "Skill_A_01.png",
+          "path": "image/character/LittleIdol/skill/Skill_A_01.png"
+        },
+        "id": "11171",
+        "proud_id": "11731"
+      },
+      {
+        "name": "元素スキル",
+        "icon": {
+          "name": "Skill_S_LittleIdol_01.png",
+          "path": "image/character/LittleIdol/skill/Skill_S_LittleIdol_01.png"
+        },
+        "id": "11172",
+        "proud_id": "11732"
+      },
+      {
+        "name": "元素爆発",
+        "icon": {
+          "name": "Skill_E_LittleIdol_01.png",
+          "path": "image/character/LittleIdol/skill/Skill_E_LittleIdol_01.png"
+        },
+        "id": "111754",
+        "proud_id": "11739"
+      }
+    ],
+    "name": "ドール（男）",
+    "english_name": "MannequinBoy",
+    "proud_map": {
+      "11171": "11731",
+      "11172": "11732",
+      "111755": "11739"
+    },
+    "quality": 5,
+    "costumes": {
+      "default": {
+        "side_icon": {
+          "name": "UI_AvatarIcon_Side_MannequinBoy.png",
+          "path": "image/character/MannequinBoy/avatar/default/UI_AvatarIcon_Side_MannequinBoy.png"
+        },
+        "avatar_icon": {
+          "name": "UI_AvatarIcon_MannequinBoy.png",
+          "path": "image/character/MannequinBoy/avatar/default/UI_AvatarIcon_MannequinBoy.png"
+        },
+        "gacha_icon": {
+          "name": "UI_Gacha_AvatarImg_MannequinBoy.png",
+          "path": "image/character/MannequinBoy/avatar/default/UI_Gacha_AvatarImg_MannequinBoy.png"
+        },
+        "position": {
+          "x": -208,
+          "y": 91,
+          "scale": 121
+        }
+      }
+    }
+  },
+  "10000117-11707": {
+    "element": "Rock",
+    "consts": [
+      {
+        "name": "Skill_E_LittleIdol_01.png",
+        "path": "image/character/LittleIdol/consts/Skill_E_LittleIdol_01.png"
+      }
+    ],
+    "skills": [
+      {
+        "name": "通常攻撃",
+        "icon": {
+          "name": "Skill_A_01.png",
+          "path": "image/character/LittleIdol/skill/Skill_A_01.png"
+        },
+        "id": "11171",
+        "proud_id": "11731"
+      },
+      {
+        "name": "元素スキル",
+        "icon": {
+          "name": "Skill_S_LittleIdol_01.png",
+          "path": "image/character/LittleIdol/skill/Skill_S_LittleIdol_01.png"
+        },
+        "id": "11172",
+        "proud_id": "11732"
+      },
+      {
+        "name": "元素爆発",
+        "icon": {
+          "name": "Skill_E_LittleIdol_01.png",
+          "path": "image/character/LittleIdol/skill/Skill_E_LittleIdol_01.png"
+        },
+        "id": "111756",
+        "proud_id": "11739"
+      }
+    ],
+    "name": "ドール（男）",
+    "english_name": "MannequinBoy",
+    "proud_map": {
+      "11171": "11731",
+      "11172": "11732",
+      "111756": "11739"
+    },
+    "quality": 5,
+    "costumes": {
+      "default": {
+        "side_icon": {
+          "name": "UI_AvatarIcon_Side_MannequinBoy.png",
+          "path": "image/character/MannequinBoy/avatar/default/UI_AvatarIcon_Side_MannequinBoy.png"
+        },
+        "avatar_icon": {
+          "name": "UI_AvatarIcon_MannequinBoy.png",
+          "path": "image/character/MannequinBoy/avatar/default/UI_AvatarIcon_MannequinBoy.png"
+        },
+        "gacha_icon": {
+          "name": "UI_Gacha_AvatarImg_MannequinBoy.png",
+          "path": "image/character/MannequinBoy/avatar/default/UI_Gacha_AvatarImg_MannequinBoy.png"
+        },
+        "position": {
+          "x": -208,
+          "y": 91,
+          "scale": 121
+        }
+      }
+    }
+  },
+  "10000117-11708": {
+    "element": "Grass",
+    "consts": [
+      {
+        "name": "Skill_E_LittleIdol_01.png",
+        "path": "image/character/LittleIdol/consts/Skill_E_LittleIdol_01.png"
+      }
+    ],
+    "skills": [
+      {
+        "name": "通常攻撃",
+        "icon": {
+          "name": "Skill_A_01.png",
+          "path": "image/character/LittleIdol/skill/Skill_A_01.png"
+        },
+        "id": "11171",
+        "proud_id": "11731"
+      },
+      {
+        "name": "元素スキル",
+        "icon": {
+          "name": "Skill_S_LittleIdol_01.png",
+          "path": "image/character/LittleIdol/skill/Skill_S_LittleIdol_01.png"
+        },
+        "id": "11172",
+        "proud_id": "11732"
+      },
+      {
+        "name": "元素爆発",
+        "icon": {
+          "name": "Skill_E_LittleIdol_01.png",
+          "path": "image/character/LittleIdol/skill/Skill_E_LittleIdol_01.png"
+        },
+        "id": "111756",
+        "proud_id": "11739"
+      }
+    ],
+    "name": "ドール（男）",
+    "english_name": "MannequinBoy",
+    "proud_map": {
+      "11171": "11731",
+      "11172": "11732",
+      "111757": "11739"
+    },
+    "quality": 5,
+    "costumes": {
+      "default": {
+        "side_icon": {
+          "name": "UI_AvatarIcon_Side_MannequinBoy.png",
+          "path": "image/character/MannequinBoy/avatar/default/UI_AvatarIcon_Side_MannequinBoy.png"
+        },
+        "avatar_icon": {
+          "name": "UI_AvatarIcon_MannequinBoy.png",
+          "path": "image/character/MannequinBoy/avatar/default/UI_AvatarIcon_MannequinBoy.png"
+        },
+        "gacha_icon": {
+          "name": "UI_Gacha_AvatarImg_MannequinBoy.png",
+          "path": "image/character/MannequinBoy/avatar/default/UI_Gacha_AvatarImg_MannequinBoy.png"
+        },
+        "position": {
+          "x": -208,
+          "y": 91,
+          "scale": 121
+        }
+      }
+    }
+  },
+  "10000118-11802": {
+    "element": "Fire",
+    "consts": [
+      {
+        "name": "Skill_E_LittleIdol_01.png",
+        "path": "image/character/LittleIdol/consts/Skill_E_LittleIdol_01.png"
+      }
+    ],
+    "skills": [
+      {
+        "name": "通常攻撃",
+        "icon": {
+          "name": "Skill_A_01.png",
+          "path": "image/character/LittleIdol/skill/Skill_A_01.png"
+        },
+        "id": "11171",
+        "proud_id": "11731"
+      },
+      {
+        "name": "元素スキル",
+        "icon": {
+          "name": "Skill_S_LittleIdol_01.png",
+          "path": "image/character/LittleIdol/skill/Skill_S_LittleIdol_01.png"
+        },
+        "id": "11172",
+        "proud_id": "11732"
+      },
+      {
+        "name": "元素爆発",
+        "icon": {
+          "name": "Skill_E_LittleIdol_01.png",
+          "path": "image/character/LittleIdol/skill/Skill_E_LittleIdol_01.png"
+        },
+        "id": "111751",
+        "proud_id": "11739"
+      }
+    ],
+    "name": "ドール（女）",
+    "english_name": "MannequinGirl",
+    "proud_map": {
+      "11171": "11731",
+      "11172": "11732",
+      "111751": "11739"
+    },
+    "quality": 5,
+    "costumes": {
+      "default": {
+        "side_icon": {
+          "name": "UI_AvatarIcon_Side_MannequinGirl.png",
+          "path": "image/character/MannequinGirl/avatar/default/UI_AvatarIcon_Side_MannequinGirl.png"
+        },
+        "avatar_icon": {
+          "name": "UI_AvatarIcon_MannequinGirl.png",
+          "path": "image/character/MannequinGirl/avatar/default/UI_AvatarIcon_MannequinGirl.png"
+        },
+        "gacha_icon": {
+          "name": "UI_Gacha_AvatarImg_MannequinGirl.png",
+          "path": "image/character/MannequinGirl/avatar/default/UI_Gacha_AvatarImg_MannequinGirl.png"
+        },
+        "position": {
+          "x": -208,
+          "y": 91,
+          "scale": 121
+        }
+      }
+    }
+  },
+  "10000118-11803": {
+    "element": "Water",
+    "consts": [
+      {
+        "name": "Skill_E_LittleIdol_01.png",
+        "path": "image/character/LittleIdol/consts/Skill_E_LittleIdol_01.png"
+      }
+    ],
+    "skills": [
+      {
+        "name": "通常攻撃",
+        "icon": {
+          "name": "Skill_A_01.png",
+          "path": "image/character/LittleIdol/skill/Skill_A_01.png"
+        },
+        "id": "11171",
+        "proud_id": "11731"
+      },
+      {
+        "name": "元素スキル",
+        "icon": {
+          "name": "Skill_S_LittleIdol_01.png",
+          "path": "image/character/LittleIdol/skill/Skill_S_LittleIdol_01.png"
+        },
+        "id": "11172",
+        "proud_id": "11732"
+      },
+      {
+        "name": "元素爆発",
+        "icon": {
+          "name": "Skill_E_LittleIdol_01.png",
+          "path": "image/character/LittleIdol/skill/Skill_E_LittleIdol_01.png"
+        },
+        "id": "111752",
+        "proud_id": "11739"
+      }
+    ],
+    "name": "ドール（女）",
+    "english_name": "MannequinGirl",
+    "proud_map": {
+      "11171": "11731",
+      "11172": "11732",
+      "111752": "11739"
+    },
+    "quality": 5,
+    "costumes": {
+      "default": {
+        "side_icon": {
+          "name": "UI_AvatarIcon_Side_MannequinGirl.png",
+          "path": "image/character/MannequinGirl/avatar/default/UI_AvatarIcon_Side_MannequinGirl.png"
+        },
+        "avatar_icon": {
+          "name": "UI_AvatarIcon_MannequinGirl.png",
+          "path": "image/character/MannequinGirl/avatar/default/UI_AvatarIcon_MannequinGirl.png"
+        },
+        "gacha_icon": {
+          "name": "UI_Gacha_AvatarImg_MannequinGirl.png",
+          "path": "image/character/MannequinGirl/avatar/default/UI_Gacha_AvatarImg_MannequinGirl.png"
+        },
+        "position": {
+          "x": -208,
+          "y": 91,
+          "scale": 121
+        }
+      }
+    }
+  },
+  "10000118-11804": {
+    "element": "Electric",
+    "consts": [
+      {
+        "name": "Skill_E_LittleIdol_01.png",
+        "path": "image/character/LittleIdol/consts/Skill_E_LittleIdol_01.png"
+      }
+    ],
+    "skills": [
+      {
+        "name": "通常攻撃",
+        "icon": {
+          "name": "Skill_A_01.png",
+          "path": "image/character/LittleIdol/skill/Skill_A_01.png"
+        },
+        "id": "11171",
+        "proud_id": "11731"
+      },
+      {
+        "name": "元素スキル",
+        "icon": {
+          "name": "Skill_S_LittleIdol_01.png",
+          "path": "image/character/LittleIdol/skill/Skill_S_LittleIdol_01.png"
+        },
+        "id": "11172",
+        "proud_id": "11732"
+      },
+      {
+        "name": "元素爆発",
+        "icon": {
+          "name": "Skill_E_LittleIdol_01.png",
+          "path": "image/character/LittleIdol/skill/Skill_E_LittleIdol_01.png"
+        },
+        "id": "111753",
+        "proud_id": "11739"
+      }
+    ],
+    "name": "ドール（女）",
+    "english_name": "MannequinGirl",
+    "proud_map": {
+      "11171": "11731",
+      "11172": "11732",
+      "111753": "11739"
+    },
+    "quality": 5,
+    "costumes": {
+      "default": {
+        "side_icon": {
+          "name": "UI_AvatarIcon_Side_MannequinGirl.png",
+          "path": "image/character/MannequinGirl/avatar/default/UI_AvatarIcon_Side_MannequinGirl.png"
+        },
+        "avatar_icon": {
+          "name": "UI_AvatarIcon_MannequinGirl.png",
+          "path": "image/character/MannequinGirl/avatar/default/UI_AvatarIcon_MannequinGirl.png"
+        },
+        "gacha_icon": {
+          "name": "UI_Gacha_AvatarImg_MannequinGirl.png",
+          "path": "image/character/MannequinGirl/avatar/default/UI_Gacha_AvatarImg_MannequinGirl.png"
+        },
+        "position": {
+          "x": -208,
+          "y": 91,
+          "scale": 121
+        }
+      }
+    }
+  },
+  "10000118-11805": {
+    "element": "Ice",
+    "consts": [
+      {
+        "name": "Skill_E_LittleIdol_01.png",
+        "path": "image/character/LittleIdol/consts/Skill_E_LittleIdol_01.png"
+      }
+    ],
+    "skills": [
+      {
+        "name": "通常攻撃",
+        "icon": {
+          "name": "Skill_A_01.png",
+          "path": "image/character/LittleIdol/skill/Skill_A_01.png"
+        },
+        "id": "11171",
+        "proud_id": "11731"
+      },
+      {
+        "name": "元素スキル",
+        "icon": {
+          "name": "Skill_S_LittleIdol_01.png",
+          "path": "image/character/LittleIdol/skill/Skill_S_LittleIdol_01.png"
+        },
+        "id": "11172",
+        "proud_id": "11732"
+      },
+      {
+        "name": "元素爆発",
+        "icon": {
+          "name": "Skill_E_LittleIdol_01.png",
+          "path": "image/character/LittleIdol/skill/Skill_E_LittleIdol_01.png"
+        },
+        "id": "111754",
+        "proud_id": "11739"
+      }
+    ],
+    "name": "ドール（女）",
+    "english_name": "MannequinGirl",
+    "proud_map": {
+      "11171": "11731",
+      "11172": "11732",
+      "111754": "11739"
+    },
+    "quality": 5,
+    "costumes": {
+      "default": {
+        "side_icon": {
+          "name": "UI_AvatarIcon_Side_MannequinGirl.png",
+          "path": "image/character/MannequinGirl/avatar/default/UI_AvatarIcon_Side_MannequinGirl.png"
+        },
+        "avatar_icon": {
+          "name": "UI_AvatarIcon_MannequinGirl.png",
+          "path": "image/character/MannequinGirl/avatar/default/UI_AvatarIcon_MannequinGirl.png"
+        },
+        "gacha_icon": {
+          "name": "UI_Gacha_AvatarImg_MannequinGirl.png",
+          "path": "image/character/MannequinGirl/avatar/default/UI_Gacha_AvatarImg_MannequinGirl.png"
+        },
+        "position": {
+          "x": -208,
+          "y": 91,
+          "scale": 121
+        }
+      }
+    }
+  },
+  "10000118-11806": {
+    "element": "Wind",
+    "consts": [
+      {
+        "name": "Skill_E_LittleIdol_01.png",
+        "path": "image/character/LittleIdol/consts/Skill_E_LittleIdol_01.png"
+      }
+    ],
+    "skills": [
+      {
+        "name": "通常攻撃",
+        "icon": {
+          "name": "Skill_A_01.png",
+          "path": "image/character/LittleIdol/skill/Skill_A_01.png"
+        },
+        "id": "11171",
+        "proud_id": "11731"
+      },
+      {
+        "name": "元素スキル",
+        "icon": {
+          "name": "Skill_S_LittleIdol_01.png",
+          "path": "image/character/LittleIdol/skill/Skill_S_LittleIdol_01.png"
+        },
+        "id": "11172",
+        "proud_id": "11732"
+      },
+      {
+        "name": "元素爆発",
+        "icon": {
+          "name": "Skill_E_LittleIdol_01.png",
+          "path": "image/character/LittleIdol/skill/Skill_E_LittleIdol_01.png"
+        },
+        "id": "111754",
+        "proud_id": "11739"
+      }
+    ],
+    "name": "ドール（女）",
+    "english_name": "MannequinGirl",
+    "proud_map": {
+      "11171": "11731",
+      "11172": "11732",
+      "111755": "11739"
+    },
+    "quality": 5,
+    "costumes": {
+      "default": {
+        "side_icon": {
+          "name": "UI_AvatarIcon_Side_MannequinGirl.png",
+          "path": "image/character/MannequinGirl/avatar/default/UI_AvatarIcon_Side_MannequinGirl.png"
+        },
+        "avatar_icon": {
+          "name": "UI_AvatarIcon_MannequinGirl.png",
+          "path": "image/character/MannequinGirl/avatar/default/UI_AvatarIcon_MannequinGirl.png"
+        },
+        "gacha_icon": {
+          "name": "UI_Gacha_AvatarImg_MannequinGirl.png",
+          "path": "image/character/MannequinGirl/avatar/default/UI_Gacha_AvatarImg_MannequinGirl.png"
+        },
+        "position": {
+          "x": -208,
+          "y": 91,
+          "scale": 121
+        }
+      }
+    }
+  },
+  "10000118-11807": {
+    "element": "Rock",
+    "consts": [
+      {
+        "name": "Skill_E_LittleIdol_01.png",
+        "path": "image/character/LittleIdol/consts/Skill_E_LittleIdol_01.png"
+      }
+    ],
+    "skills": [
+      {
+        "name": "通常攻撃",
+        "icon": {
+          "name": "Skill_A_01.png",
+          "path": "image/character/LittleIdol/skill/Skill_A_01.png"
+        },
+        "id": "11171",
+        "proud_id": "11731"
+      },
+      {
+        "name": "元素スキル",
+        "icon": {
+          "name": "Skill_S_LittleIdol_01.png",
+          "path": "image/character/LittleIdol/skill/Skill_S_LittleIdol_01.png"
+        },
+        "id": "11172",
+        "proud_id": "11732"
+      },
+      {
+        "name": "元素爆発",
+        "icon": {
+          "name": "Skill_E_LittleIdol_01.png",
+          "path": "image/character/LittleIdol/skill/Skill_E_LittleIdol_01.png"
+        },
+        "id": "111756",
+        "proud_id": "11739"
+      }
+    ],
+    "name": "ドール（女）",
+    "english_name": "MannequinGirl",
+    "proud_map": {
+      "11171": "11731",
+      "11172": "11732",
+      "111756": "11739"
+    },
+    "quality": 5,
+    "costumes": {
+      "default": {
+        "side_icon": {
+          "name": "UI_AvatarIcon_Side_MannequinGirl.png",
+          "path": "image/character/MannequinGirl/avatar/default/UI_AvatarIcon_Side_MannequinGirl.png"
+        },
+        "avatar_icon": {
+          "name": "UI_AvatarIcon_MannequinGirl.png",
+          "path": "image/character/MannequinGirl/avatar/default/UI_AvatarIcon_MannequinGirl.png"
+        },
+        "gacha_icon": {
+          "name": "UI_Gacha_AvatarImg_MannequinGirl.png",
+          "path": "image/character/MannequinGirl/avatar/default/UI_Gacha_AvatarImg_MannequinGirl.png"
+        },
+        "position": {
+          "x": -208,
+          "y": 91,
+          "scale": 121
+        }
+      }
+    }
+  },
+  "10000118-11808": {
+    "element": "Grass",
+    "consts": [
+      {
+        "name": "Skill_E_LittleIdol_01.png",
+        "path": "image/character/LittleIdol/consts/Skill_E_LittleIdol_01.png"
+      }
+    ],
+    "skills": [
+      {
+        "name": "通常攻撃",
+        "icon": {
+          "name": "Skill_A_01.png",
+          "path": "image/character/LittleIdol/skill/Skill_A_01.png"
+        },
+        "id": "11171",
+        "proud_id": "11731"
+      },
+      {
+        "name": "元素スキル",
+        "icon": {
+          "name": "Skill_S_LittleIdol_01.png",
+          "path": "image/character/LittleIdol/skill/Skill_S_LittleIdol_01.png"
+        },
+        "id": "11172",
+        "proud_id": "11732"
+      },
+      {
+        "name": "元素爆発",
+        "icon": {
+          "name": "Skill_E_LittleIdol_01.png",
+          "path": "image/character/LittleIdol/skill/Skill_E_LittleIdol_01.png"
+        },
+        "id": "111756",
+        "proud_id": "11739"
+      }
+    ],
+    "name": "ドール（女）",
+    "english_name": "MannequinGirl",
+    "proud_map": {
+      "11171": "11731",
+      "11172": "11732",
+      "111757": "11739"
+    },
+    "quality": 5,
+    "costumes": {
+      "default": {
+        "side_icon": {
+          "name": "UI_AvatarIcon_Side_MannequinGirl.png",
+          "path": "image/character/MannequinGirl/avatar/default/UI_AvatarIcon_Side_MannequinGirl.png"
+        },
+        "avatar_icon": {
+          "name": "UI_AvatarIcon_MannequinGirl.png",
+          "path": "image/character/MannequinGirl/avatar/default/UI_AvatarIcon_MannequinGirl.png"
+        },
+        "gacha_icon": {
+          "name": "UI_Gacha_AvatarImg_MannequinGirl.png",
+          "path": "image/character/MannequinGirl/avatar/default/UI_Gacha_AvatarImg_MannequinGirl.png"
+        },
+        "position": {
+          "x": -208,
+          "y": 91,
+          "scale": 121
+        }
+      }
+    }
+  },
   "10000119": {
     "element": "Grass",
     "consts": [
