@@ -4428,18 +4428,18 @@
     },
     "quality": 5,
     "costumes": {
-      "206000": {
+      "206001": {
         "side_icon": {
           "name": "UI_AvatarIcon_Side_YelanCostumeSummer.png",
-          "path": "image/character/Yelan/avatar/206000/UI_AvatarIcon_Side_YelanCostumeSummer.png"
+          "path": "image/character/Yelan/avatar/206001/UI_AvatarIcon_Side_YelanCostumeSummer.png"
         },
         "avatar_icon": {
           "name": "UI_AvatarIcon_YelanCostumeSummer.png",
-          "path": "image/character/Yelan/avatar/206000/UI_AvatarIcon_YelanCostumeSummer.png"
+          "path": "image/character/Yelan/avatar/206001/UI_AvatarIcon_YelanCostumeSummer.png"
         },
         "gacha_icon": {
           "name": "UI_Costume_YelanCostumeSummer.png",
-          "path": "image/character/Yelan/avatar/206000/UI_Costume_YelanCostumeSummer.png"
+          "path": "image/character/Yelan/avatar/206001/UI_Costume_YelanCostumeSummer.png"
         },
         "position": {
           "x": -208,
