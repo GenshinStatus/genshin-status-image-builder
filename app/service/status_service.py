@@ -44,7 +44,7 @@ ELEMENT_DAMAGE_TYPES = {
 
 
 def check_traveler(id: int):
-    return id in ["10000007", "10000005"]
+    return id in ["10000007", "10000005", "10000118", "10000117"]
 
 
 def get_characters(
