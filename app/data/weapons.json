@@ -825,6 +825,13 @@
         },
         "name": "金掘りのシャベル"
     },
+    "UI_EquipIcon_Pole_Krivule": {
+        "icon": {
+            "name": "UI_EquipIcon_Pole_Krivule.png",
+            "path": "image/weapon/UI_EquipIcon_Pole_Krivule.png"
+        },
+        "name": "聖祭者の輝杖"
+    },
     "UI_EquipIcon_Pole_Homa": {
         "icon": {
             "name": "UI_EquipIcon_Pole_Homa.png",
@@ -1126,6 +1133,13 @@
         },
         "name": "烏髄の孤灯"
     },
+    "UI_EquipIcon_Catalyst_Ziedas": {
+        "icon": {
+            "name": "UI_EquipIcon_Catalyst_Ziedas.png",
+            "path": "image/weapon/UI_EquipIcon_Catalyst_Ziedas.png"
+        },
+        "name": "霜辰"
+    },
     "UI_EquipIcon_Catalyst_Dvalin": {
         "icon": {
             "name": "UI_EquipIcon_Catalyst_Dvalin.png",
@@ -1237,6 +1251,13 @@
             "path": "image/weapon/UI_EquipIcon_Catalyst_MenulisRing.png"
         },
         "name": "夜を紡ぐ天鏡"
+    },
+    "UI_EquipIcon_Catalyst_Sistrum": {
+        "icon": {
+            "name": "UI_EquipIcon_Catalyst_Sistrum.png",
+            "path": "image/weapon/UI_EquipIcon_Catalyst_Sistrum.png"
+        },
+        "name": "真言の匣"
     },
     "UI_EquipIcon_Bow_Hunters": {
         "icon": {
