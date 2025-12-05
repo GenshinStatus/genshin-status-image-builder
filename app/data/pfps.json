@@ -909,6 +909,27 @@
             "path": "image/pfps/UI_AvatarIcon_Nefer_Circle.png"
         }
     },
+    "10600": {
+        "name": "",
+        "icon": {
+            "name": "UI_AvatarIcon_Durin_Circle.png",
+            "path": "image/pfps/UI_AvatarIcon_Durin_Circle.png"
+        }
+    },
+    "10601": {
+        "name": "",
+        "icon": {
+            "name": "UI_AvatarIcon_DurinCostumeWic_Circle.png",
+            "path": "image/pfps/UI_AvatarIcon_DurinCostumeWic_Circle.png"
+        }
+    },
+    "10700": {
+        "name": "",
+        "icon": {
+            "name": "UI_AvatarIcon_Jahoda_Circle.png",
+            "path": "image/pfps/UI_AvatarIcon_Jahoda_Circle.png"
+        }
+    },
     "99999": {
         "name": "",
         "icon": {
@@ -1089,6 +1110,13 @@
         "icon": {
             "name": "UI_AvatarIcon_Activity_01_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Activity_01_Circle.png"
+        }
+    },
+    "200011": {
+        "name": "",
+        "icon": {
+            "name": "UI_AvatarIcon_Activity_02_Circle.png",
+            "path": "image/pfps/UI_AvatarIcon_Activity_02_Circle.png"
         }
     },
     "900001": {
