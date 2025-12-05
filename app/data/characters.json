@@ -10817,6 +10817,180 @@
       }
     }
   },
+  "10000123": {
+    "element": "Fire",
+    "consts": [
+      {
+        "name": "UI_Talent_S_Durin_01.png",
+        "path": "image/character/Durin/consts/UI_Talent_S_Durin_01.png"
+      },
+      {
+        "name": "UI_Talent_S_Durin_02.png",
+        "path": "image/character/Durin/consts/UI_Talent_S_Durin_02.png"
+      },
+      {
+        "name": "UI_Talent_U_Durin_01.png",
+        "path": "image/character/Durin/consts/UI_Talent_U_Durin_01.png"
+      },
+      {
+        "name": "UI_Talent_S_Durin_03.png",
+        "path": "image/character/Durin/consts/UI_Talent_S_Durin_03.png"
+      },
+      {
+        "name": "UI_Talent_U_Durin_02.png",
+        "path": "image/character/Durin/consts/UI_Talent_U_Durin_02.png"
+      },
+      {
+        "name": "UI_Talent_S_Durin_04.png",
+        "path": "image/character/Durin/consts/UI_Talent_S_Durin_04.png"
+      }
+    ],
+    "skills": [
+      {
+        "name": "通常攻撃",
+        "icon": {
+          "name": "Skill_A_01.png",
+          "path": "image/character/Durin/skill/Skill_A_01.png"
+        },
+        "id": "11231",
+        "proud_id": "12331"
+      },
+      {
+        "name": "元素スキル",
+        "icon": {
+          "name": "Skill_S_Durin_01.png",
+          "path": "image/character/Durin/skill/Skill_S_Durin_01.png"
+        },
+        "id": "11232",
+        "proud_id": "12332"
+      },
+      {
+        "name": "元素爆発",
+        "icon": {
+          "name": "Skill_E_Durin_01.png",
+          "path": "image/character/Durin/skill/Skill_E_Durin_01.png"
+        },
+        "id": "11235",
+        "proud_id": "12339"
+      }
+    ],
+    "name": "ドゥリン",
+    "english_name": "Durin",
+    "proud_map": {
+      "11231": "12331",
+      "11232": "12332",
+      "11235": "12339"
+    },
+    "quality": 5,
+    "costumes": {
+      "default": {
+        "side_icon": {
+          "name": "UI_AvatarIcon_Side_Durin.png",
+          "path": "image/character/Durin/avatar/default/UI_AvatarIcon_Side_Durin.png"
+        },
+        "avatar_icon": {
+          "name": "UI_AvatarIcon_Durin.png",
+          "path": "image/character/Durin/avatar/default/UI_AvatarIcon_Durin.png"
+        },
+        "gacha_icon": {
+          "name": "UI_Gacha_AvatarImg_Durin.png",
+          "path": "image/character/Durin/avatar/default/UI_Gacha_AvatarImg_Durin.png"
+        },
+        "position": {
+          "x": "-254",
+          "y": "-8",
+          "scale": "89"
+        }
+      }
+    }
+  },
+  "10000124": {
+    "element": "Wind",
+    "consts": [
+      {
+        "name": "UI_Talent_S_Jahoda_01.png",
+        "path": "image/character/Jahoda/consts/UI_Talent_S_Jahoda_01.png"
+      },
+      {
+        "name": "UI_Talent_S_Jahoda_02.png",
+        "path": "image/character/Jahoda/consts/UI_Talent_S_Jahoda_02.png"
+      },
+      {
+        "name": "UI_Talent_U_Jahoda_01.png",
+        "path": "image/character/Jahoda/consts/UI_Talent_U_Jahoda_01.png"
+      },
+      {
+        "name": "UI_Talent_S_Jahoda_03.png",
+        "path": "image/character/Jahoda/consts/UI_Talent_S_Jahoda_03.png"
+      },
+      {
+        "name": "UI_Talent_U_Jahoda_02.png",
+        "path": "image/character/Jahoda/consts/UI_Talent_U_Jahoda_02.png"
+      },
+      {
+        "name": "UI_Talent_S_Jahoda_04.png",
+        "path": "image/character/Jahoda/consts/UI_Talent_S_Jahoda_04.png"
+      }
+    ],
+    "skills": [
+      {
+        "name": "通常攻撃",
+        "icon": {
+          "name": "Skill_A_02.png",
+          "path": "image/character/Jahoda/skill/Skill_A_02.png"
+        },
+        "id": "11241",
+        "proud_id": "12431"
+      },
+      {
+        "name": "元素スキル",
+        "icon": {
+          "name": "Skill_S_Jahoda_01.png",
+          "path": "image/character/Jahoda/skill/Skill_S_Jahoda_01.png"
+        },
+        "id": "11242",
+        "proud_id": "12432"
+      },
+      {
+        "name": "元素爆発",
+        "icon": {
+          "name": "Skill_E_Jahoda_01.png",
+          "path": "image/character/Jahoda/skill/Skill_E_Jahoda_01.png"
+        },
+        "id": "11245",
+        "proud_id": "12439"
+      }
+    ],
+    "name": "ヤフォダ",
+    "english_name": "Jahoda",
+    "proud_map": {
+      "11241": "12431",
+      "11242": "12432",
+      "11245": "12439"
+    },
+    "quality": 4,
+    "costumes": {
+      "default": {
+        "side_icon": {
+          "name": "UI_AvatarIcon_Side_Jahoda.png",
+          "path": "image/character/Jahoda/avatar/default/UI_AvatarIcon_Side_Jahoda.png"
+        },
+        "avatar_icon": {
+          "name": "UI_AvatarIcon_Jahoda.png",
+          "path": "image/character/Jahoda/avatar/default/UI_AvatarIcon_Jahoda.png"
+        },
+        "gacha_icon": {
+          "name": "UI_Gacha_AvatarImg_Jahoda.png",
+          "path": "image/character/Jahoda/avatar/default/UI_Gacha_AvatarImg_Jahoda.png"
+        },
+        "position": {
+          "x": "-254",
+          "y": "-8",
+          "scale": "89"
+        }
+      }
+    }
+  },
   "10000901": {
     "element": "Fire",
     "consts": [

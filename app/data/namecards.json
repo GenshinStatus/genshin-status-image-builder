@@ -1546,5 +1546,29 @@
             "name": "UI_NameCardPic_Bp45_P.png",
             "path": "image/namecard/UI_NameCardPic_Bp45_P.png"
         }
+    },
+    "210263": {
+        "icon": {
+            "name": "UI_NameCardPic_Durin_P.png",
+            "path": "image/namecard/UI_NameCardPic_Durin_P.png"
+        }
+    },
+    "210264": {
+        "icon": {
+            "name": "UI_NameCardPic_Jahoda_P.png",
+            "path": "image/namecard/UI_NameCardPic_Jahoda_P.png"
+        }
+    },
+    "210265": {
+        "icon": {
+            "name": "UI_NameCardPic_Bp46_P.png",
+            "path": "image/namecard/UI_NameCardPic_Bp46_P.png"
+        }
+    },
+    "210266": {
+        "icon": {
+            "name": "UI_NameCardPic_Green_P.png",
+            "path": "image/namecard/UI_NameCardPic_Green_P.png"
+        }
     }
 }

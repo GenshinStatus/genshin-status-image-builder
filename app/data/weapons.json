@@ -349,6 +349,13 @@
         },
         "name": "蒼耀"
     },
+    "UI_EquipIcon_Sword_Motsognir": {
+        "icon": {
+            "name": "UI_EquipIcon_Sword_Motsognir.png",
+            "path": "image/weapon/UI_EquipIcon_Sword_Motsognir.png"
+        },
+        "name": "黒蝕"
+    },
     "UI_EquipIcon_Claymore_Aniki": {
         "icon": {
             "name": "UI_EquipIcon_Claymore_Aniki.png",
@@ -1497,6 +1504,13 @@
         },
         "name": "羅網の針"
     },
+    "UI_EquipIcon_Bow_ElegguaBow": {
+        "icon": {
+            "name": "UI_EquipIcon_Bow_ElegguaBow.png",
+            "path": "image/weapon/UI_EquipIcon_Bow_ElegguaBow.png"
+        },
+        "name": "虹蛇の雨弦"
+    },
     "UI_EquipIcon_Bow_Dvalin": {
         "icon": {
             "name": "UI_EquipIcon_Bow_Dvalin.png",
@@ -1566,6 +1580,13 @@
             "path": "image/weapon/UI_EquipIcon_Bow_Qoyllorsnova.png"
         },
         "name": "星鷲の紅き羽"
+    },
+    "UI_EquipIcon_Bow_Arianna": {
+        "icon": {
+            "name": "UI_EquipIcon_Bow_Arianna.png",
+            "path": "image/weapon/UI_EquipIcon_Bow_Arianna.png"
+        },
+        "name": "暁を告げる歴史"
     },
     "UI_EquipIcon_Sword_MorphVinces_Wind": {
         "icon": {
