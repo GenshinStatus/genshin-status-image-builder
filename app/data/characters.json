@@ -10901,6 +10901,25 @@
           "y": "-8",
           "scale": "89"
         }
+      },
+      "212301": {
+        "side_icon": {
+          "name": "UI_AvatarIcon_Side_DurinCostumeWic.png",
+          "path": "image/character/Durin/avatar/212301/UI_AvatarIcon_Side_DurinCostumeWic.png"
+        },
+        "avatar_icon": {
+          "name": "UI_AvatarIcon_DurinCostumeWic.png",
+          "path": "image/character/Durin/avatar/212301/UI_AvatarIcon_DurinCostumeWic.png"
+        },
+        "gacha_icon": {
+          "name": "UI_Gacha_AvatarImg_Durin.png",
+          "path": "image/character/Durin/avatar/212301/UI_Gacha_AvatarImg_Durin.png"
+        },
+        "position": {
+          "x": "-254",
+          "y": "-8",
+          "scale": "89"
+        }
       }
     }
   },
