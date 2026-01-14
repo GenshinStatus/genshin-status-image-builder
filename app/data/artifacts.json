@@ -2239,6 +2239,86 @@
         "set_name": "月を紡ぐ夜の歌",
         "equip_type": "EQUIP_SHOES"
     },
+    "UI_RelicIcon_15043_1": {
+        "icon": {
+            "name": "UI_RelicIcon_15043_1.png",
+            "path": "image/artifact/UI_RelicIcon_15043_1.png"
+        },
+        "set_name": "暁の星と月の歌",
+        "equip_type": "EQUIP_RING"
+    },
+    "UI_RelicIcon_15043_2": {
+        "icon": {
+            "name": "UI_RelicIcon_15043_2.png",
+            "path": "image/artifact/UI_RelicIcon_15043_2.png"
+        },
+        "set_name": "暁の星と月の歌",
+        "equip_type": "EQUIP_NECKLACE"
+    },
+    "UI_RelicIcon_15043_3": {
+        "icon": {
+            "name": "UI_RelicIcon_15043_3.png",
+            "path": "image/artifact/UI_RelicIcon_15043_3.png"
+        },
+        "set_name": "暁の星と月の歌",
+        "equip_type": "EQUIP_DRESS"
+    },
+    "UI_RelicIcon_15043_4": {
+        "icon": {
+            "name": "UI_RelicIcon_15043_4.png",
+            "path": "image/artifact/UI_RelicIcon_15043_4.png"
+        },
+        "set_name": "暁の星と月の歌",
+        "equip_type": "EQUIP_BRACER"
+    },
+    "UI_RelicIcon_15043_5": {
+        "icon": {
+            "name": "UI_RelicIcon_15043_5.png",
+            "path": "image/artifact/UI_RelicIcon_15043_5.png"
+        },
+        "set_name": "暁の星と月の歌",
+        "equip_type": "EQUIP_SHOES"
+    },
+    "UI_RelicIcon_15044_1": {
+        "icon": {
+            "name": "UI_RelicIcon_15044_1.png",
+            "path": "image/artifact/UI_RelicIcon_15044_1.png"
+        },
+        "set_name": "風立ちの日",
+        "equip_type": "EQUIP_RING"
+    },
+    "UI_RelicIcon_15044_2": {
+        "icon": {
+            "name": "UI_RelicIcon_15044_2.png",
+            "path": "image/artifact/UI_RelicIcon_15044_2.png"
+        },
+        "set_name": "風立ちの日",
+        "equip_type": "EQUIP_NECKLACE"
+    },
+    "UI_RelicIcon_15044_3": {
+        "icon": {
+            "name": "UI_RelicIcon_15044_3.png",
+            "path": "image/artifact/UI_RelicIcon_15044_3.png"
+        },
+        "set_name": "風立ちの日",
+        "equip_type": "EQUIP_DRESS"
+    },
+    "UI_RelicIcon_15044_4": {
+        "icon": {
+            "name": "UI_RelicIcon_15044_4.png",
+            "path": "image/artifact/UI_RelicIcon_15044_4.png"
+        },
+        "set_name": "風立ちの日",
+        "equip_type": "EQUIP_BRACER"
+    },
+    "UI_RelicIcon_15044_5": {
+        "icon": {
+            "name": "UI_RelicIcon_15044_5.png",
+            "path": "image/artifact/UI_RelicIcon_15044_5.png"
+        },
+        "set_name": "風立ちの日",
+        "equip_type": "EQUIP_SHOES"
+    },
     "UI_RelicIcon_10000_2": {
         "icon": {
             "name": "UI_RelicIcon_10000_2.png",
