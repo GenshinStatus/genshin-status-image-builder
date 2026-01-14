@@ -356,6 +356,13 @@
         },
         "name": "黒蝕"
     },
+    "UI_EquipIcon_Sword_SilverwareSaw": {
+        "icon": {
+            "name": "UI_EquipIcon_Sword_SilverwareSaw.png",
+            "path": "image/weapon/UI_EquipIcon_Sword_SilverwareSaw.png"
+        },
+        "name": "三日月の含光"
+    },
     "UI_EquipIcon_Claymore_Aniki": {
         "icon": {
             "name": "UI_EquipIcon_Claymore_Aniki.png",
@@ -1265,6 +1272,13 @@
             "path": "image/weapon/UI_EquipIcon_Catalyst_Sistrum.png"
         },
         "name": "真言の匣"
+    },
+    "UI_EquipIcon_Catalyst_Brisingamen": {
+        "icon": {
+            "name": "UI_EquipIcon_Catalyst_Brisingamen.png",
+            "path": "image/weapon/UI_EquipIcon_Catalyst_Brisingamen.png"
+        },
+        "name": "帳の夜曲"
     },
     "UI_EquipIcon_Bow_Hunters": {
         "icon": {

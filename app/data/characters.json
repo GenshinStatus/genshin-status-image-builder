@@ -314,6 +314,25 @@
           "y": 32,
           "scale": 95
         }
+      },
+      "200501": {
+        "side_icon": {
+          "name": "UI_AvatarIcon_Side_PlayerBoyCostumeCWXR.png",
+          "path": "image/character/PlayerBoy/avatar/200501/UI_AvatarIcon_Side_PlayerBoyCostumeCWXR.png"
+        },
+        "avatar_icon": {
+          "name": "UI_AvatarIcon_PlayerBoyCostumeCWXR.png",
+          "path": "image/character/PlayerBoy/avatar/200501/avatar/200501/UI_AvatarIcon_PlayerBoyCostumeCWXR.png"
+        },
+        "gacha_icon": {
+          "name": "UI_Costume_PlayerBoyCostumeCWXR.png",
+          "path": "image/character/PlayerBoy/avatar/200501/avatar/200501/UI_Costume_PlayerBoyCostumeCWXR.png"
+        },
+        "position": {
+          "x": -210,
+          "y": 32,
+          "scale": 95
+        }
       }
     }
   },
@@ -501,6 +520,25 @@
         "gacha_icon": {
           "name": "UI_Gacha_AvatarImg_PlayerGirl.png",
           "path": "image/character/PlayerGirl/avatar/default/UI_Gacha_AvatarImg_PlayerGirl.png"
+        },
+        "position": {
+          "x": -210,
+          "y": 32,
+          "scale": 95
+        }
+      },
+      "200701": {
+        "side_icon": {
+          "name": "UI_AvatarIcon_Side_PlayerGirlCostumeCWXR.png",
+          "path": "image/character/PlayerGirl/avatar/200701/UI_AvatarIcon_Side_PlayerGirlCostumeCWXR.png"
+        },
+        "avatar_icon": {
+          "name": "UI_AvatarIcon_PlayerGirlCostumeCWXR.png",
+          "path": "image/character/PlayerGirl/avatar/200701/avatar/200701/UI_AvatarIcon_PlayerGirlCostumeCWXR.png"
+        },
+        "gacha_icon": {
+          "name": "UI_Costume_PlayerGirlCostumeCWXR.png",
+          "path": "image/character/PlayerGirl/avatar/200701/avatar/200701/UI_Costume_PlayerGirlCostumeCWXR.png"
         },
         "position": {
           "x": -210,
@@ -6871,6 +6909,25 @@
           "y": 30,
           "scale": 81
         }
+      },
+      "208701": {
+        "side_icon": {
+          "name": "UI_AvatarIcon_Side_NeuvilletteCostumeWinter.png",
+          "path": "image/character/Neuvillette/avatar/208701/UI_AvatarIcon_Side_NeuvilletteCostumeWinter.png"
+        },
+        "avatar_icon": {
+          "name": "UI_AvatarIcon_NeuvilletteCostumeWinter.png",
+          "path": "image/character/Neuvillette/avatar/208701/avatar/208701/UI_AvatarIcon_NeuvilletteCostumeWinter.png"
+        },
+        "gacha_icon": {
+          "name": "UI_Costume_NeuvilletteCostumeWinter.png",
+          "path": "image/character/Neuvillette/avatar/208701/avatar/208701/UI_Costume_NeuvilletteCostumeWinter.png"
+        },
+        "position": {
+          "x": -234,
+          "y": 30,
+          "scale": 81
+        }
       }
     }
   },
@@ -11010,6 +11067,267 @@
       }
     }
   },
+  "10000125": {
+    "element": "Water",
+    "consts": [
+      {
+        "name": "UI_Talent_S_Columbina_01.png",
+        "path": "image/character/Columbina/consts/UI_Talent_S_Columbina_01.png"
+      },
+      {
+        "name": "UI_Talent_S_Columbina_02.png",
+        "path": "image/character/Columbina/consts/UI_Talent_S_Columbina_02.png"
+      },
+      {
+        "name": "UI_Talent_U_Columbina_01.png",
+        "path": "image/character/Columbina/consts/UI_Talent_U_Columbina_01.png"
+      },
+      {
+        "name": "UI_Talent_S_Columbina_03.png",
+        "path": "image/character/Columbina/consts/UI_Talent_S_Columbina_03.png"
+      },
+      {
+        "name": "UI_Talent_U_Columbina_02.png",
+        "path": "image/character/Columbina/consts/UI_Talent_U_Columbina_02.png"
+      },
+      {
+        "name": "UI_Talent_S_Columbina_04.png",
+        "path": "image/character/Columbina/consts/UI_Talent_S_Columbina_04.png"
+      }
+    ],
+    "skills": [
+      {
+        "name": "通常攻撃",
+        "icon": {
+          "name": "Skill_A_Catalyst_MD.png",
+          "path": "image/character/Columbina/skill/Skill_A_Catalyst_MD.png"
+        },
+        "id": "11251",
+        "proud_id": "12531"
+      },
+      {
+        "name": "元素スキル",
+        "icon": {
+          "name": "Skill_S_Columbina_01.png",
+          "path": "image/character/Columbina/skill/Skill_S_Columbina_01.png"
+        },
+        "id": "11252",
+        "proud_id": "12532"
+      },
+      {
+        "name": "元素爆発",
+        "icon": {
+          "name": "Skill_E_Columbina_01.png",
+          "path": "image/character/Columbina/skill/Skill_E_Columbina_01.png"
+        },
+        "id": "11255",
+        "proud_id": "12539"
+      }
+    ],
+    "name": "コロンビーナ",
+    "english_name": "Columbina",
+    "proud_map": {
+      "11251": "12531",
+      "11252": "12532",
+      "11255": "12539"
+    },
+    "quality": 5,
+    "costumes": {
+      "default": {
+        "side_icon": {
+          "name": "UI_AvatarIcon_Side_Columbina.png",
+          "path": "image/character/Columbina/avatar/default/UI_AvatarIcon_Side_Columbina.png"
+        },
+        "avatar_icon": {
+          "name": "UI_AvatarIcon_Columbina.png",
+          "path": "image/character/Columbina/avatar/default/UI_AvatarIcon_Columbina.png"
+        },
+        "gacha_icon": {
+          "name": "UI_Gacha_AvatarImg_Columbina.png",
+          "path": "image/character/Columbina/avatar/default/UI_Gacha_AvatarImg_Columbina.png"
+        },
+        "position": {
+          "x": "-254",
+          "y": "-8",
+          "scale": "89"
+        }
+      }
+    }
+  },
+  "10000126": {
+    "element": "Rock",
+    "consts": [
+      {
+        "name": "UI_Talent_S_Zibai_01.png",
+        "path": "image/character/Zibai/consts/UI_Talent_S_Zibai_01.png"
+      },
+      {
+        "name": "UI_Talent_S_Zibai_02.png",
+        "path": "image/character/Zibai/consts/UI_Talent_S_Zibai_02.png"
+      },
+      {
+        "name": "UI_Talent_U_Zibai_01.png",
+        "path": "image/character/Zibai/consts/UI_Talent_U_Zibai_01.png"
+      },
+      {
+        "name": "UI_Talent_S_Zibai_03.png",
+        "path": "image/character/Zibai/consts/UI_Talent_S_Zibai_03.png"
+      },
+      {
+        "name": "UI_Talent_U_Zibai_02.png",
+        "path": "image/character/Zibai/consts/UI_Talent_U_Zibai_02.png"
+      },
+      {
+        "name": "UI_Talent_S_Zibai_04.png",
+        "path": "image/character/Zibai/consts/UI_Talent_S_Zibai_04.png"
+      }
+    ],
+    "skills": [
+      {
+        "name": "通常攻撃",
+        "icon": {
+          "name": "Skill_A_01.png",
+          "path": "image/character/Zibai/skill/Skill_A_01.png"
+        },
+        "id": "11261",
+        "proud_id": "12631"
+      },
+      {
+        "name": "元素スキル",
+        "icon": {
+          "name": "Skill_S_Zibai_01.png",
+          "path": "image/character/Zibai/skill/Skill_S_Zibai_01.png"
+        },
+        "id": "11262",
+        "proud_id": "12632"
+      },
+      {
+        "name": "元素爆発",
+        "icon": {
+          "name": "Skill_E_Zibai_01.png",
+          "path": "image/character/Zibai/skill/Skill_E_Zibai_01.png"
+        },
+        "id": "11265",
+        "proud_id": "12639"
+      }
+    ],
+    "name": "兹白",
+    "english_name": "Zibai",
+    "proud_map": {
+      "11261": "12631",
+      "11262": "12632",
+      "11265": "12639"
+    },
+    "quality": 5,
+    "costumes": {
+      "default": {
+        "side_icon": {
+          "name": "UI_AvatarIcon_Side_Zibai.png",
+          "path": "image/character/Zibai/avatar/default/UI_AvatarIcon_Side_Zibai.png"
+        },
+        "avatar_icon": {
+          "name": "UI_AvatarIcon_Zibai.png",
+          "path": "image/character/Zibai/avatar/default/UI_AvatarIcon_Zibai.png"
+        },
+        "gacha_icon": {
+          "name": "UI_Gacha_AvatarImg_Zibai.png",
+          "path": "image/character/Zibai/avatar/default/UI_Gacha_AvatarImg_Zibai.png"
+        },
+        "position": {
+          "x": "-254",
+          "y": "-8",
+          "scale": "89"
+        }
+      }
+    }
+  },
+  "10000127": {
+    "element": "Rock",
+    "consts": [
+      {
+        "name": "UI_Talent_S_Illuga_01.png",
+        "path": "image/character/Illuga/consts/UI_Talent_S_Illuga_01.png"
+      },
+      {
+        "name": "UI_Talent_S_Illuga_02.png",
+        "path": "image/character/Illuga/consts/UI_Talent_S_Illuga_02.png"
+      },
+      {
+        "name": "UI_Talent_U_Illuga_01.png",
+        "path": "image/character/Illuga/consts/UI_Talent_U_Illuga_01.png"
+      },
+      {
+        "name": "UI_Talent_S_Illuga_03.png",
+        "path": "image/character/Illuga/consts/UI_Talent_S_Illuga_03.png"
+      },
+      {
+        "name": "UI_Talent_U_Illuga_02.png",
+        "path": "image/character/Illuga/consts/UI_Talent_U_Illuga_02.png"
+      },
+      {
+        "name": "UI_Talent_S_Illuga_04.png",
+        "path": "image/character/Illuga/consts/UI_Talent_S_Illuga_04.png"
+      }
+    ],
+    "skills": [
+      {
+        "name": "通常攻撃",
+        "icon": {
+          "name": "Skill_A_03.png",
+          "path": "image/character/Illuga/skill/Skill_A_03.png"
+        },
+        "id": "11271",
+        "proud_id": "12731"
+      },
+      {
+        "name": "元素スキル",
+        "icon": {
+          "name": "Skill_S_Illuga_01.png",
+          "path": "image/character/Illuga/skill/Skill_S_Illuga_01.png"
+        },
+        "id": "11272",
+        "proud_id": "12732"
+      },
+      {
+        "name": "元素爆発",
+        "icon": {
+          "name": "Skill_E_Illuga_01.png",
+          "path": "image/character/Illuga/skill/Skill_E_Illuga_01.png"
+        },
+        "id": "11275",
+        "proud_id": "12739"
+      }
+    ],
+    "name": "イルーガ",
+    "english_name": "Illuga",
+    "proud_map": {
+      "11271": "12731",
+      "11272": "12732",
+      "11275": "12739"
+    },
+    "quality": 4,
+    "costumes": {
+      "default": {
+        "side_icon": {
+          "name": "UI_AvatarIcon_Side_Illuga.png",
+          "path": "image/character/Illuga/avatar/default/UI_AvatarIcon_Side_Illuga.png"
+        },
+        "avatar_icon": {
+          "name": "UI_AvatarIcon_Illuga.png",
+          "path": "image/character/Illuga/avatar/default/UI_AvatarIcon_Illuga.png"
+        },
+        "gacha_icon": {
+          "name": "UI_Gacha_AvatarImg_Illuga.png",
+          "path": "image/character/Illuga/avatar/default/UI_Gacha_AvatarImg_Illuga.png"
+        },
+        "position": {
+          "x": "-254",
+          "y": "-8",
+          "scale": "89"
+        }
+      }
+    }
+  },
   "10000901": {
     "element": "Fire",
     "consts": [
@@ -11268,6 +11586,25 @@
           "y": 32,
           "scale": 95
         }
+      },
+      "200501": {
+        "side_icon": {
+          "name": "UI_AvatarIcon_Side_PlayerBoyCostumeCWXR.png",
+          "path": "image/character/PlayerBoy/avatar/200501/UI_AvatarIcon_Side_PlayerBoyCostumeCWXR.png"
+        },
+        "avatar_icon": {
+          "name": "UI_AvatarIcon_PlayerBoyCostumeCWXR.png",
+          "path": "image/character/PlayerBoy/avatar/200501/avatar/200501/UI_AvatarIcon_PlayerBoyCostumeCWXR.png"
+        },
+        "gacha_icon": {
+          "name": "UI_Costume_PlayerBoyCostumeCWXR.png",
+          "path": "image/character/PlayerBoy/avatar/200501/avatar/200501/UI_Costume_PlayerBoyCostumeCWXR.png"
+        },
+        "position": {
+          "x": -210,
+          "y": 32,
+          "scale": 95
+        }
       }
     }
   },
@@ -11349,6 +11686,25 @@
         "gacha_icon": {
           "name": "UI_Gacha_AvatarImg_PlayerBoy.png",
           "path": "image/character/PlayerBoy/avatar/default/UI_Gacha_AvatarImg_PlayerBoy.png"
+        },
+        "position": {
+          "x": -210,
+          "y": 32,
+          "scale": 95
+        }
+      },
+      "200501": {
+        "side_icon": {
+          "name": "UI_AvatarIcon_Side_PlayerBoyCostumeCWXR.png",
+          "path": "image/character/PlayerBoy/avatar/200501/UI_AvatarIcon_Side_PlayerBoyCostumeCWXR.png"
+        },
+        "avatar_icon": {
+          "name": "UI_AvatarIcon_PlayerBoyCostumeCWXR.png",
+          "path": "image/character/PlayerBoy/avatar/200501/avatar/200501/UI_AvatarIcon_PlayerBoyCostumeCWXR.png"
+        },
+        "gacha_icon": {
+          "name": "UI_Costume_PlayerBoyCostumeCWXR.png",
+          "path": "image/character/PlayerBoy/avatar/200501/avatar/200501/UI_Costume_PlayerBoyCostumeCWXR.png"
         },
         "position": {
           "x": -210,
@@ -11442,6 +11798,25 @@
           "y": 55,
           "scale": 83
         }
+      },
+      "200501": {
+        "side_icon": {
+          "name": "UI_AvatarIcon_Side_PlayerBoyCostumeCWXR.png",
+          "path": "image/character/PlayerBoy/avatar/200501/UI_AvatarIcon_Side_PlayerBoyCostumeCWXR.png"
+        },
+        "avatar_icon": {
+          "name": "UI_AvatarIcon_PlayerBoyCostumeCWXR.png",
+          "path": "image/character/PlayerBoy/avatar/200501/avatar/200501/UI_AvatarIcon_PlayerBoyCostumeCWXR.png"
+        },
+        "gacha_icon": {
+          "name": "UI_Costume_PlayerBoyCostumeCWXR.png",
+          "path": "image/character/PlayerBoy/avatar/200501/avatar/200501/UI_Costume_PlayerBoyCostumeCWXR.png"
+        },
+        "position": {
+          "x": -210,
+          "y": 32,
+          "scale": 95
+        }
       }
     }
   },
@@ -11523,6 +11898,25 @@
         "gacha_icon": {
           "name": "UI_Gacha_AvatarImg_PlayerBoy.png",
           "path": "image/character/PlayerBoy/avatar/default/UI_Gacha_AvatarImg_PlayerBoy.png"
+        },
+        "position": {
+          "x": -210,
+          "y": 32,
+          "scale": 95
+        }
+      },
+      "200501": {
+        "side_icon": {
+          "name": "UI_AvatarIcon_Side_PlayerBoyCostumeCWXR.png",
+          "path": "image/character/PlayerBoy/avatar/200501/UI_AvatarIcon_Side_PlayerBoyCostumeCWXR.png"
+        },
+        "avatar_icon": {
+          "name": "UI_AvatarIcon_PlayerBoyCostumeCWXR.png",
+          "path": "image/character/PlayerBoy/avatar/200501/avatar/200501/UI_AvatarIcon_PlayerBoyCostumeCWXR.png"
+        },
+        "gacha_icon": {
+          "name": "UI_Costume_PlayerBoyCostumeCWXR.png",
+          "path": "image/character/PlayerBoy/avatar/200501/avatar/200501/UI_Costume_PlayerBoyCostumeCWXR.png"
         },
         "position": {
           "x": -210,
@@ -11616,6 +12010,25 @@
           "y": 32,
           "scale": 95
         }
+      },
+      "200501": {
+        "side_icon": {
+          "name": "UI_AvatarIcon_Side_PlayerBoyCostumeCWXR.png",
+          "path": "image/character/PlayerBoy/avatar/200501/UI_AvatarIcon_Side_PlayerBoyCostumeCWXR.png"
+        },
+        "avatar_icon": {
+          "name": "UI_AvatarIcon_PlayerBoyCostumeCWXR.png",
+          "path": "image/character/PlayerBoy/avatar/200501/avatar/200501/UI_AvatarIcon_PlayerBoyCostumeCWXR.png"
+        },
+        "gacha_icon": {
+          "name": "UI_Costume_PlayerBoyCostumeCWXR.png",
+          "path": "image/character/PlayerBoy/avatar/200501/avatar/200501/UI_Costume_PlayerBoyCostumeCWXR.png"
+        },
+        "position": {
+          "x": -210,
+          "y": 32,
+          "scale": 95
+        }
       }
     }
   },
@@ -11697,6 +12110,25 @@
         "gacha_icon": {
           "name": "UI_Gacha_AvatarImg_PlayerBoy.png",
           "path": "image/character/PlayerBoy/avatar/default/UI_Gacha_AvatarImg_PlayerBoy.png"
+        },
+        "position": {
+          "x": -210,
+          "y": 32,
+          "scale": 95
+        }
+      },
+      "200501": {
+        "side_icon": {
+          "name": "UI_AvatarIcon_Side_PlayerBoyCostumeCWXR.png",
+          "path": "image/character/PlayerBoy/avatar/200501/UI_AvatarIcon_Side_PlayerBoyCostumeCWXR.png"
+        },
+        "avatar_icon": {
+          "name": "UI_AvatarIcon_PlayerBoyCostumeCWXR.png",
+          "path": "image/character/PlayerBoy/avatar/200501/avatar/200501/UI_AvatarIcon_PlayerBoyCostumeCWXR.png"
+        },
+        "gacha_icon": {
+          "name": "UI_Costume_PlayerBoyCostumeCWXR.png",
+          "path": "image/character/PlayerBoy/avatar/200501/avatar/200501/UI_Costume_PlayerBoyCostumeCWXR.png"
         },
         "position": {
           "x": -210,
@@ -11790,6 +12222,25 @@
           "y": 32,
           "scale": 95
         }
+      },
+      "200501": {
+        "side_icon": {
+          "name": "UI_AvatarIcon_Side_PlayerBoyCostumeCWXR.png",
+          "path": "image/character/PlayerBoy/avatar/200501/UI_AvatarIcon_Side_PlayerBoyCostumeCWXR.png"
+        },
+        "avatar_icon": {
+          "name": "UI_AvatarIcon_PlayerBoyCostumeCWXR.png",
+          "path": "image/character/PlayerBoy/avatar/200501/avatar/200501/UI_AvatarIcon_PlayerBoyCostumeCWXR.png"
+        },
+        "gacha_icon": {
+          "name": "UI_Costume_PlayerBoyCostumeCWXR.png",
+          "path": "image/character/PlayerBoy/avatar/200501/avatar/200501/UI_Costume_PlayerBoyCostumeCWXR.png"
+        },
+        "position": {
+          "x": -210,
+          "y": 32,
+          "scale": 95
+        }
       }
     }
   },
@@ -11871,6 +12322,25 @@
         "gacha_icon": {
           "name": "UI_Gacha_AvatarImg_PlayerGirl.png",
           "path": "image/character/PlayerGirl/avatar/default/UI_Gacha_AvatarImg_PlayerGirl.png"
+        },
+        "position": {
+          "x": -210,
+          "y": 32,
+          "scale": 95
+        }
+      },
+      "200701": {
+        "side_icon": {
+          "name": "UI_AvatarIcon_Side_PlayerGirlCostumeCWXR.png",
+          "path": "image/character/PlayerGirl/avatar/200701/UI_AvatarIcon_Side_PlayerGirlCostumeCWXR.png"
+        },
+        "avatar_icon": {
+          "name": "UI_AvatarIcon_PlayerGirlCostumeCWXR.png",
+          "path": "image/character/PlayerGirl/avatar/200701/avatar/200701/UI_AvatarIcon_PlayerGirlCostumeCWXR.png"
+        },
+        "gacha_icon": {
+          "name": "UI_Costume_PlayerGirlCostumeCWXR.png",
+          "path": "image/character/PlayerGirl/avatar/200701/avatar/200701/UI_Costume_PlayerGirlCostumeCWXR.png"
         },
         "position": {
           "x": -210,
@@ -11964,6 +12434,25 @@
           "y": 32,
           "scale": 95
         }
+      },
+      "200701": {
+        "side_icon": {
+          "name": "UI_AvatarIcon_Side_PlayerGirlCostumeCWXR.png",
+          "path": "image/character/PlayerGirl/avatar/200701/UI_AvatarIcon_Side_PlayerGirlCostumeCWXR.png"
+        },
+        "avatar_icon": {
+          "name": "UI_AvatarIcon_PlayerGirlCostumeCWXR.png",
+          "path": "image/character/PlayerGirl/avatar/200701/avatar/200701/UI_AvatarIcon_PlayerGirlCostumeCWXR.png"
+        },
+        "gacha_icon": {
+          "name": "UI_Costume_PlayerGirlCostumeCWXR.png",
+          "path": "image/character/PlayerGirl/avatar/200701/avatar/200701/UI_Costume_PlayerGirlCostumeCWXR.png"
+        },
+        "position": {
+          "x": -210,
+          "y": 32,
+          "scale": 95
+        }
       }
     }
   },
@@ -12045,6 +12534,25 @@
         "gacha_icon": {
           "name": "UI_Gacha_AvatarImg_PlayerGirl.png",
           "path": "image/character/PlayerGirl/avatar/default/UI_Gacha_AvatarImg_PlayerGirl.png"
+        },
+        "position": {
+          "x": -210,
+          "y": 32,
+          "scale": 95
+        }
+      },
+      "200701": {
+        "side_icon": {
+          "name": "UI_AvatarIcon_Side_PlayerGirlCostumeCWXR.png",
+          "path": "image/character/PlayerGirl/avatar/200701/UI_AvatarIcon_Side_PlayerGirlCostumeCWXR.png"
+        },
+        "avatar_icon": {
+          "name": "UI_AvatarIcon_PlayerGirlCostumeCWXR.png",
+          "path": "image/character/PlayerGirl/avatar/200701/avatar/200701/UI_AvatarIcon_PlayerGirlCostumeCWXR.png"
+        },
+        "gacha_icon": {
+          "name": "UI_Costume_PlayerGirlCostumeCWXR.png",
+          "path": "image/character/PlayerGirl/avatar/200701/avatar/200701/UI_Costume_PlayerGirlCostumeCWXR.png"
         },
         "position": {
           "x": -210,
@@ -12138,6 +12646,25 @@
           "y": 32,
           "scale": 95
         }
+      },
+      "200701": {
+        "side_icon": {
+          "name": "UI_AvatarIcon_Side_PlayerGirlCostumeCWXR.png",
+          "path": "image/character/PlayerGirl/avatar/200701/UI_AvatarIcon_Side_PlayerGirlCostumeCWXR.png"
+        },
+        "avatar_icon": {
+          "name": "UI_AvatarIcon_PlayerGirlCostumeCWXR.png",
+          "path": "image/character/PlayerGirl/avatar/200701/avatar/200701/UI_AvatarIcon_PlayerGirlCostumeCWXR.png"
+        },
+        "gacha_icon": {
+          "name": "UI_Costume_PlayerGirlCostumeCWXR.png",
+          "path": "image/character/PlayerGirl/avatar/200701/avatar/200701/UI_Costume_PlayerGirlCostumeCWXR.png"
+        },
+        "position": {
+          "x": -210,
+          "y": 32,
+          "scale": 95
+        }
       }
     }
   },
@@ -12219,6 +12746,25 @@
         "gacha_icon": {
           "name": "UI_Gacha_AvatarImg_PlayerGirl.png",
           "path": "image/character/PlayerGirl/avatar/default/UI_Gacha_AvatarImg_PlayerGirl.png"
+        },
+        "position": {
+          "x": -210,
+          "y": 32,
+          "scale": 95
+        }
+      },
+      "200701": {
+        "side_icon": {
+          "name": "UI_AvatarIcon_Side_PlayerGirlCostumeCWXR.png",
+          "path": "image/character/PlayerGirl/avatar/200701/UI_AvatarIcon_Side_PlayerGirlCostumeCWXR.png"
+        },
+        "avatar_icon": {
+          "name": "UI_AvatarIcon_PlayerGirlCostumeCWXR.png",
+          "path": "image/character/PlayerGirl/avatar/200701/avatar/200701/UI_AvatarIcon_PlayerGirlCostumeCWXR.png"
+        },
+        "gacha_icon": {
+          "name": "UI_Costume_PlayerGirlCostumeCWXR.png",
+          "path": "image/character/PlayerGirl/avatar/200701/avatar/200701/UI_Costume_PlayerGirlCostumeCWXR.png"
         },
         "position": {
           "x": -210,
@@ -12312,6 +12858,25 @@
           "y": 32,
           "scale": 95
         }
+      },
+      "200701": {
+        "side_icon": {
+          "name": "UI_AvatarIcon_Side_PlayerGirlCostumeCWXR.png",
+          "path": "image/character/PlayerGirl/avatar/200701/UI_AvatarIcon_Side_PlayerGirlCostumeCWXR.png"
+        },
+        "avatar_icon": {
+          "name": "UI_AvatarIcon_PlayerGirlCostumeCWXR.png",
+          "path": "image/character/PlayerGirl/avatar/200701/avatar/200701/UI_AvatarIcon_PlayerGirlCostumeCWXR.png"
+        },
+        "gacha_icon": {
+          "name": "UI_Costume_PlayerGirlCostumeCWXR.png",
+          "path": "image/character/PlayerGirl/avatar/200701/avatar/200701/UI_Costume_PlayerGirlCostumeCWXR.png"
+        },
+        "position": {
+          "x": -210,
+          "y": 32,
+          "scale": 95
+        }
       }
     }
   },
@@ -12393,6 +12958,25 @@
         "gacha_icon": {
           "name": "UI_Gacha_AvatarImg_PlayerGirl.png",
           "path": "image/character/PlayerGirl/avatar/default/UI_Gacha_AvatarImg_PlayerGirl.png"
+        },
+        "position": {
+          "x": -210,
+          "y": 32,
+          "scale": 95
+        }
+      },
+      "200701": {
+        "side_icon": {
+          "name": "UI_AvatarIcon_Side_PlayerGirlCostumeCWXR.png",
+          "path": "image/character/PlayerGirl/avatar/200701/UI_AvatarIcon_Side_PlayerGirlCostumeCWXR.png"
+        },
+        "avatar_icon": {
+          "name": "UI_AvatarIcon_PlayerGirlCostumeCWXR.png",
+          "path": "image/character/PlayerGirl/avatar/200701/avatar/200701/UI_AvatarIcon_PlayerGirlCostumeCWXR.png"
+        },
+        "gacha_icon": {
+          "name": "UI_Costume_PlayerGirlCostumeCWXR.png",
+          "path": "image/character/PlayerGirl/avatar/200701/avatar/200701/UI_Costume_PlayerGirlCostumeCWXR.png"
         },
         "position": {
           "x": -210,

@@ -6,11 +6,25 @@
             "path": "image/pfps/UI_AvatarIcon_PlayerBoy_Circle.png"
         }
     },
+    "11": {
+        "name": "",
+        "icon": {
+            "name": "UI_AvatarIcon_PlayerBoyCostumeCWXR_Circle.png",
+            "path": "image/pfps/UI_AvatarIcon_PlayerBoyCostumeCWXR_Circle.png"
+        }
+    },
     "2": {
         "name": "",
         "icon": {
             "name": "UI_AvatarIcon_PlayerGirl_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_PlayerGirl_Circle.png"
+        }
+    },
+    "21": {
+        "name": "",
+        "icon": {
+            "name": "UI_AvatarIcon_PlayerGirlCostumeCWXR_Circle.png",
+            "path": "image/pfps/UI_AvatarIcon_PlayerGirlCostumeCWXR_Circle.png"
         }
     },
     "100": {
@@ -594,6 +608,13 @@
             "path": "image/pfps/UI_AvatarIcon_Yaoyao_Circle.png"
         }
     },
+    "6101": {
+        "name": "",
+        "icon": {
+            "name": "UI_AvatarIcon_YaoyaoCostumeWinter_Circle.png",
+            "path": "image/pfps/UI_AvatarIcon_YaoyaoCostumeWinter_Circle.png"
+        }
+    },
     "6200": {
         "name": "",
         "icon": {
@@ -669,6 +690,13 @@
         "icon": {
             "name": "UI_AvatarIcon_Neuvillette_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_Neuvillette_Circle.png"
+        }
+    },
+    "7101": {
+        "name": "",
+        "icon": {
+            "name": "UI_AvatarIcon_NeuvilletteCostumeWinter_Circle.png",
+            "path": "image/pfps/UI_AvatarIcon_NeuvilletteCostumeWinter_Circle.png"
         }
     },
     "7200": {
@@ -930,6 +958,27 @@
             "path": "image/pfps/UI_AvatarIcon_Jahoda_Circle.png"
         }
     },
+    "10800": {
+        "name": "",
+        "icon": {
+            "name": "UI_AvatarIcon_Columbina_Circle.png",
+            "path": "image/pfps/UI_AvatarIcon_Columbina_Circle.png"
+        }
+    },
+    "10900": {
+        "name": "",
+        "icon": {
+            "name": "UI_AvatarIcon_Illuga_Circle.png",
+            "path": "image/pfps/UI_AvatarIcon_Illuga_Circle.png"
+        }
+    },
+    "11000": {
+        "name": "",
+        "icon": {
+            "name": "UI_AvatarIcon_Zibai_Circle.png",
+            "path": "image/pfps/UI_AvatarIcon_Zibai_Circle.png"
+        }
+    },
     "99999": {
         "name": "",
         "icon": {
@@ -1103,6 +1152,13 @@
         "icon": {
             "name": "UI_AvatarIcon_76003_Circle.png",
             "path": "image/pfps/UI_AvatarIcon_76003_Circle.png"
+        }
+    },
+    "100250": {
+        "name": "",
+        "icon": {
+            "name": "UI_AvatarIcon_76101_Circle.png",
+            "path": "image/pfps/UI_AvatarIcon_76101_Circle.png"
         }
     },
     "200010": {
