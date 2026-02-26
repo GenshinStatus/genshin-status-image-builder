@@ -650,6 +650,13 @@
         },
         "name": "千烈の日輪"
     },
+    "UI_EquipIcon_Claymore_EnsisAquilonis": {
+        "icon": {
+            "name": "UI_EquipIcon_Claymore_EnsisAquilonis.png",
+            "path": "image/weapon/UI_EquipIcon_Claymore_EnsisAquilonis.png"
+        },
+        "name": "狼の武勲詩"
+    },
     "UI_EquipIcon_Pole_Gewalt": {
         "icon": {
             "name": "UI_EquipIcon_Pole_Gewalt.png",
@@ -1671,5 +1678,19 @@
             "path": "image/weapon/UI_EquipIcon_Bow_MorphChrod_Great_Wind.png"
         },
         "name": "貫星・真化"
+    },
+    "UI_EquipIcon_Catalyst_Kristall": {
+        "icon": {
+            "name": "UI_EquipIcon_Catalyst_Kristall.png",
+            "path": "image/weapon/UI_EquipIcon_Catalyst_Kristall.png"
+        },
+        "name": "幻のギフト・スターオーメン"
+    },
+    "UI_EquipIcon_Claymore_VarkaTunkeldegen": {
+        "icon": {
+            "name": "UI_EquipIcon_Claymore_VarkaTunkeldegen.png",
+            "path": "image/weapon/UI_EquipIcon_Claymore_VarkaTunkeldegen.png"
+        },
+        "name": "無毀・デュランガルド"
     }
 }

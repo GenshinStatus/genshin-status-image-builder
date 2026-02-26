@@ -11328,6 +11328,93 @@
       }
     }
   },
+  "10000128": {
+    "element": "Wind",
+    "consts": [
+      {
+        "name": "UI_Talent_S_Varka_01.png",
+        "path": "image/character/Varka/consts/UI_Talent_S_Varka_01.png"
+      },
+      {
+        "name": "UI_Talent_S_Varka_02.png",
+        "path": "image/character/Varka/consts/UI_Talent_S_Varka_02.png"
+      },
+      {
+        "name": "UI_Talent_U_Varka_01.png",
+        "path": "image/character/Varka/consts/UI_Talent_U_Varka_01.png"
+      },
+      {
+        "name": "UI_Talent_S_Varka_03.png",
+        "path": "image/character/Varka/consts/UI_Talent_S_Varka_03.png"
+      },
+      {
+        "name": "UI_Talent_U_Varka_02.png",
+        "path": "image/character/Varka/consts/UI_Talent_U_Varka_02.png"
+      },
+      {
+        "name": "UI_Talent_S_Varka_04.png",
+        "path": "image/character/Varka/consts/UI_Talent_S_Varka_04.png"
+      }
+    ],
+    "skills": [
+      {
+        "name": "通常攻撃",
+        "icon": {
+          "name": "Skill_A_04.png",
+          "path": "image/character/Varka/skill/Skill_A_04.png"
+        },
+        "id": "11281",
+        "proud_id": "12831"
+      },
+      {
+        "name": "元素スキル",
+        "icon": {
+          "name": "Skill_S_Varka_01.png",
+          "path": "image/character/Varka/skill/Skill_S_Varka_01.png"
+        },
+        "id": "11282",
+        "proud_id": "12832"
+      },
+      {
+        "name": "元素爆発",
+        "icon": {
+          "name": "Skill_E_Varka_01.png",
+          "path": "image/character/Varka/skill/Skill_E_Varka_01.png"
+        },
+        "id": "11285",
+        "proud_id": "12839"
+      }
+    ],
+    "name": "ファルカ",
+    "english_name": "Varka",
+    "proud_map": {
+      "11281": "12831",
+      "11282": "12832",
+      "11285": "12839"
+    },
+    "quality": 5,
+    "costumes": {
+      "default": {
+        "side_icon": {
+          "name": "UI_AvatarIcon_Side_Varka.png",
+          "path": "image/character/Varka/avatar/default/UI_AvatarIcon_Side_Varka.png"
+        },
+        "avatar_icon": {
+          "name": "UI_AvatarIcon_Varka.png",
+          "path": "image/character/Varka/avatar/default/UI_AvatarIcon_Varka.png"
+        },
+        "gacha_icon": {
+          "name": "UI_Gacha_AvatarImg_Varka.png",
+          "path": "image/character/Varka/avatar/default/UI_Gacha_AvatarImg_Varka.png"
+        },
+        "position": {
+          "x": "-254",
+          "y": "-8",
+          "scale": "89"
+        }
+      }
+    }
+  },
   "10000901": {
     "element": "Fire",
     "consts": [
