@@ -1606,5 +1606,17 @@
             "name": "UI_NameCardPic_Bp47_P.png",
             "path": "image/namecard/UI_NameCardPic_Bp47_P.png"
         }
+    },
+    "210273": {
+        "icon": {
+            "name": "UI_NameCardPic_Varka_P.png",
+            "path": "image/namecard/UI_NameCardPic_Varka_P.png"
+        }
+    },
+    "210274": {
+        "icon": {
+            "name": "UI_NameCardPic_Bp48_P.png",
+            "path": "image/namecard/UI_NameCardPic_Bp48_P.png"
+        }
     }
 }
