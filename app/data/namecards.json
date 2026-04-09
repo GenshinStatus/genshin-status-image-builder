@@ -1618,5 +1618,29 @@
             "name": "UI_NameCardPic_Bp48_P.png",
             "path": "image/namecard/UI_NameCardPic_Bp48_P.png"
         }
+    },
+    "210275": {
+        "icon": {
+            "name": "UI_NameCardPic_Linnea_P.png",
+            "path": "image/namecard/UI_NameCardPic_Linnea_P.png"
+        }
+    },
+    "210276": {
+        "icon": {
+            "name": "UI_NameCardPic_Kzsd_P.png",
+            "path": "image/namecard/UI_NameCardPic_Kzsd_P.png"
+        }
+    },
+    "210277": {
+        "icon": {
+            "name": "UI_NameCardPic_KzsdOffering_P.png",
+            "path": "image/namecard/UI_NameCardPic_KzsdOffering_P.png"
+        }
+    },
+    "210278": {
+        "icon": {
+            "name": "UI_NameCardPic_Bp49_P.png",
+            "path": "image/namecard/UI_NameCardPic_Bp49_P.png"
+        }
     }
 }

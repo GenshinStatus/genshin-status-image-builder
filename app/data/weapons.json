@@ -1609,6 +1609,13 @@
         },
         "name": "暁を告げる歴史"
     },
+    "UI_EquipIcon_Bow_Alkonost": {
+        "icon": {
+            "name": "UI_EquipIcon_Bow_Alkonost.png",
+            "path": "image/weapon/UI_EquipIcon_Bow_Alkonost.png"
+        },
+        "name": "霜契の金枝"
+    },
     "UI_EquipIcon_Sword_MorphVinces_Wind": {
         "icon": {
             "name": "UI_EquipIcon_Sword_MorphVinces_Wind.png",
