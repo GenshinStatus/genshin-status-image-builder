@@ -11415,6 +11415,93 @@
       }
     }
   },
+  "10000130": {
+    "element": "Rock",
+    "consts": [
+      {
+        "name": "UI_Talent_S_Linnea_01.png",
+        "path": "image/character/Linnea/consts/UI_Talent_S_Linnea_01.png"
+      },
+      {
+        "name": "UI_Talent_S_Linnea_02.png",
+        "path": "image/character/Linnea/consts/UI_Talent_S_Linnea_02.png"
+      },
+      {
+        "name": "UI_Talent_U_Linnea_01.png",
+        "path": "image/character/Linnea/consts/UI_Talent_U_Linnea_01.png"
+      },
+      {
+        "name": "UI_Talent_S_Linnea_03.png",
+        "path": "image/character/Linnea/consts/UI_Talent_S_Linnea_03.png"
+      },
+      {
+        "name": "UI_Talent_U_Linnea_02.png",
+        "path": "image/character/Linnea/consts/UI_Talent_U_Linnea_02.png"
+      },
+      {
+        "name": "UI_Talent_S_Linnea_04.png",
+        "path": "image/character/Linnea/consts/UI_Talent_S_Linnea_04.png"
+      }
+    ],
+    "skills": [
+      {
+        "name": "通常攻撃",
+        "icon": {
+          "name": "Skill_A_02.png",
+          "path": "image/character/Linnea/skill/Skill_A_02.png"
+        },
+        "id": "11301",
+        "proud_id": "13031"
+      },
+      {
+        "name": "元素スキル",
+        "icon": {
+          "name": "Skill_S_Linnea_01.png",
+          "path": "image/character/Linnea/skill/Skill_S_Linnea_01.png"
+        },
+        "id": "11302",
+        "proud_id": "13032"
+      },
+      {
+        "name": "元素爆発",
+        "icon": {
+          "name": "Skill_E_Linnea_01.png",
+          "path": "image/character/Linnea/skill/Skill_E_Linnea_01.png"
+        },
+        "id": "11305",
+        "proud_id": "13039"
+      }
+    ],
+    "name": "リンネア",
+    "english_name": "Linnea",
+    "proud_map": {
+      "11301": "13031",
+      "11302": "13032",
+      "11305": "13039"
+    },
+    "quality": 5,
+    "costumes": {
+      "default": {
+        "side_icon": {
+          "name": "UI_AvatarIcon_Side_Linnea.png",
+          "path": "image/character/Linnea/avatar/default/UI_AvatarIcon_Side_Linnea.png"
+        },
+        "avatar_icon": {
+          "name": "UI_AvatarIcon_Linnea.png",
+          "path": "image/character/Linnea/avatar/default/UI_AvatarIcon_Linnea.png"
+        },
+        "gacha_icon": {
+          "name": "UI_Gacha_AvatarImg_Linnea.png",
+          "path": "image/character/Linnea/avatar/default/UI_Gacha_AvatarImg_Linnea.png"
+        },
+        "position": {
+          "x": "-254",
+          "y": "-8",
+          "scale": "89"
+        }
+      }
+    }
+  },
   "10000901": {
     "element": "Fire",
     "consts": [
