@@ -368,7 +368,7 @@
             "name": "UI_EquipIcon_Claymore_Aniki.png",
             "path": "image/weapon/UI_EquipIcon_Claymore_Aniki.png"
         },
-        "name": "訓練用大剣"
+        "name": "美玉魚"
     },
     "UI_EquipIcon_Claymore_Oyaji": {
         "icon": {
@@ -1292,7 +1292,7 @@
             "name": "UI_EquipIcon_Bow_Hunters.png",
             "path": "image/weapon/UI_EquipIcon_Bow_Hunters.png"
         },
-        "name": "狩猟弓"
+        "name": "高価なオーブ"
     },
     "UI_EquipIcon_Bow_Old": {
         "icon": {
@@ -1699,5 +1699,19 @@
             "path": "image/weapon/UI_EquipIcon_Claymore_VarkaTunkeldegen.png"
         },
         "name": "無毀・デュランガルド"
+    },
+    "UI_EquipIcon_Pole_Carbine": {
+        "icon": {
+            "name": "UI_EquipIcon_Pole_Carbine.png",
+            "path": "image/weapon/UI_EquipIcon_Pole_Carbine.png"
+        },
+        "name": "災憾"
+    },
+    "UI_EquipIcon_Catalyst_FairyGarden": {
+        "icon": {
+            "name": "UI_EquipIcon_Catalyst_FairyGarden.png",
+            "path": "image/weapon/UI_EquipIcon_Catalyst_FairyGarden.png"
+        },
+        "name": "塵と光の七つの誓約"
     }
 }

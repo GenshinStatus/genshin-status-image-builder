@@ -2319,6 +2319,86 @@
         "set_name": "風立ちの日",
         "equip_type": "EQUIP_SHOES"
     },
+    "UI_RelicIcon_15045_1": {
+        "icon": {
+            "name": "UI_RelicIcon_15045_1.png",
+            "path": "image/artifact/UI_RelicIcon_15045_1.png"
+        },
+        "set_name": "天からの贈り物",
+        "equip_type": "EQUIP_RING"
+    },
+    "UI_RelicIcon_15045_2": {
+        "icon": {
+            "name": "UI_RelicIcon_15045_2.png",
+            "path": "image/artifact/UI_RelicIcon_15045_2.png"
+        },
+        "set_name": "天からの贈り物",
+        "equip_type": "EQUIP_NECKLACE"
+    },
+    "UI_RelicIcon_15045_3": {
+        "icon": {
+            "name": "UI_RelicIcon_15045_3.png",
+            "path": "image/artifact/UI_RelicIcon_15045_3.png"
+        },
+        "set_name": "天からの贈り物",
+        "equip_type": "EQUIP_DRESS"
+    },
+    "UI_RelicIcon_15045_4": {
+        "icon": {
+            "name": "UI_RelicIcon_15045_4.png",
+            "path": "image/artifact/UI_RelicIcon_15045_4.png"
+        },
+        "set_name": "天からの贈り物",
+        "equip_type": "EQUIP_BRACER"
+    },
+    "UI_RelicIcon_15045_5": {
+        "icon": {
+            "name": "UI_RelicIcon_15045_5.png",
+            "path": "image/artifact/UI_RelicIcon_15045_5.png"
+        },
+        "set_name": "天からの贈り物",
+        "equip_type": "EQUIP_SHOES"
+    },
+    "UI_RelicIcon_15046_1": {
+        "icon": {
+            "name": "UI_RelicIcon_15046_1.png",
+            "path": "image/artifact/UI_RelicIcon_15046_1.png"
+        },
+        "set_name": "影に沈む幻",
+        "equip_type": "EQUIP_RING"
+    },
+    "UI_RelicIcon_15046_2": {
+        "icon": {
+            "name": "UI_RelicIcon_15046_2.png",
+            "path": "image/artifact/UI_RelicIcon_15046_2.png"
+        },
+        "set_name": "影に沈む幻",
+        "equip_type": "EQUIP_NECKLACE"
+    },
+    "UI_RelicIcon_15046_3": {
+        "icon": {
+            "name": "UI_RelicIcon_15046_3.png",
+            "path": "image/artifact/UI_RelicIcon_15046_3.png"
+        },
+        "set_name": "影に沈む幻",
+        "equip_type": "EQUIP_DRESS"
+    },
+    "UI_RelicIcon_15046_4": {
+        "icon": {
+            "name": "UI_RelicIcon_15046_4.png",
+            "path": "image/artifact/UI_RelicIcon_15046_4.png"
+        },
+        "set_name": "影に沈む幻",
+        "equip_type": "EQUIP_BRACER"
+    },
+    "UI_RelicIcon_15046_5": {
+        "icon": {
+            "name": "UI_RelicIcon_15046_5.png",
+            "path": "image/artifact/UI_RelicIcon_15046_5.png"
+        },
+        "set_name": "影に沈む幻",
+        "equip_type": "EQUIP_SHOES"
+    },
     "UI_RelicIcon_10000_2": {
         "icon": {
             "name": "UI_RelicIcon_10000_2.png",
