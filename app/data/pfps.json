@@ -993,6 +993,27 @@
             "path": "image/pfps/UI_AvatarIcon_Linnea_Circle.png"
         }
     },
+    "11300": {
+        "name": "",
+        "icon": {
+            "name": "UI_AvatarIcon_Prune_Circle.png",
+            "path": "image/pfps/UI_AvatarIcon_Prune_Circle.png"
+        }
+    },
+    "11400": {
+        "name": "",
+        "icon": {
+            "name": "UI_AvatarIcon_Nicole_Circle.png",
+            "path": "image/pfps/UI_AvatarIcon_Nicole_Circle.png"
+        }
+    },
+    "11500": {
+        "name": "",
+        "icon": {
+            "name": "UI_AvatarIcon_Lohen_Circle.png",
+            "path": "image/pfps/UI_AvatarIcon_Lohen_Circle.png"
+        }
+    },
     "99999": {
         "name": "",
         "icon": {

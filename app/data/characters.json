@@ -11502,6 +11502,180 @@
       }
     }
   },
+  "10000131": {
+    "element": "Fire",
+    "consts": [
+      {
+        "name": "UI_Talent_S_Nicole_01.png",
+        "path": "image/character/Nicole/consts/UI_Talent_S_Nicole_01.png"
+      },
+      {
+        "name": "UI_Talent_S_Nicole_02.png",
+        "path": "image/character/Nicole/consts/UI_Talent_S_Nicole_02.png"
+      },
+      {
+        "name": "UI_Talent_U_Nicole_01.png",
+        "path": "image/character/Nicole/consts/UI_Talent_U_Nicole_01.png"
+      },
+      {
+        "name": "UI_Talent_S_Nicole_03.png",
+        "path": "image/character/Nicole/consts/UI_Talent_S_Nicole_03.png"
+      },
+      {
+        "name": "UI_Talent_U_Nicole_02.png",
+        "path": "image/character/Nicole/consts/UI_Talent_U_Nicole_02.png"
+      },
+      {
+        "name": "UI_Talent_S_Nicole_04.png",
+        "path": "image/character/Nicole/consts/UI_Talent_S_Nicole_04.png"
+      }
+    ],
+    "skills": [
+      {
+        "name": "通常攻撃",
+        "icon": {
+          "name": "Skill_A_Catalyst_MD.png",
+          "path": "image/character/Nicole/skill/Skill_A_Catalyst_MD.png"
+        },
+        "id": "11311",
+        "proud_id": "13131"
+      },
+      {
+        "name": "元素スキル",
+        "icon": {
+          "name": "Skill_S_Nicole_01.png",
+          "path": "image/character/Nicole/skill/Skill_S_Nicole_01.png"
+        },
+        "id": "11312",
+        "proud_id": "13132"
+      },
+      {
+        "name": "元素爆発",
+        "icon": {
+          "name": "Skill_E_Nicole_01.png",
+          "path": "image/character/Nicole/skill/Skill_E_Nicole_01.png"
+        },
+        "id": "11315",
+        "proud_id": "13139"
+      }
+    ],
+    "name": "ニコ",
+    "english_name": "Nicole",
+    "proud_map": {
+      "11311": "13131",
+      "11312": "13132",
+      "11315": "13139"
+    },
+    "quality": 5,
+    "costumes": {
+      "default": {
+        "side_icon": {
+          "name": "UI_AvatarIcon_Side_Nicole.png",
+          "path": "image/character/Nicole/avatar/default/UI_AvatarIcon_Side_Nicole.png"
+        },
+        "avatar_icon": {
+          "name": "UI_AvatarIcon_Nicole.png",
+          "path": "image/character/Nicole/avatar/default/UI_AvatarIcon_Nicole.png"
+        },
+        "gacha_icon": {
+          "name": "UI_Gacha_AvatarImg_Nicole.png",
+          "path": "image/character/Nicole/avatar/default/UI_Gacha_AvatarImg_Nicole.png"
+        },
+        "position": {
+          "x": "-254",
+          "y": "-8",
+          "scale": "89"
+        }
+      }
+    }
+  },
+  "10000132": {
+    "element": "Wind",
+    "consts": [
+      {
+        "name": "UI_Talent_S_Prune_01.png",
+        "path": "image/character/Prune/consts/UI_Talent_S_Prune_01.png"
+      },
+      {
+        "name": "UI_Talent_S_Prune_02.png",
+        "path": "image/character/Prune/consts/UI_Talent_S_Prune_02.png"
+      },
+      {
+        "name": "UI_Talent_U_Prune_01.png",
+        "path": "image/character/Prune/consts/UI_Talent_U_Prune_01.png"
+      },
+      {
+        "name": "UI_Talent_S_Prune_03.png",
+        "path": "image/character/Prune/consts/UI_Talent_S_Prune_03.png"
+      },
+      {
+        "name": "UI_Talent_U_Prune_02.png",
+        "path": "image/character/Prune/consts/UI_Talent_U_Prune_02.png"
+      },
+      {
+        "name": "UI_Talent_S_Prune_04.png",
+        "path": "image/character/Prune/consts/UI_Talent_S_Prune_04.png"
+      }
+    ],
+    "skills": [
+      {
+        "name": "通常攻撃",
+        "icon": {
+          "name": "Skill_A_Catalyst_MD.png",
+          "path": "image/character/Prune/skill/Skill_A_Catalyst_MD.png"
+        },
+        "id": "11321",
+        "proud_id": "13231"
+      },
+      {
+        "name": "元素スキル",
+        "icon": {
+          "name": "Skill_S_Prune_01.png",
+          "path": "image/character/Prune/skill/Skill_S_Prune_01.png"
+        },
+        "id": "11322",
+        "proud_id": "13232"
+      },
+      {
+        "name": "元素爆発",
+        "icon": {
+          "name": "Skill_E_Prune_01.png",
+          "path": "image/character/Prune/skill/Skill_E_Prune_01.png"
+        },
+        "id": "11325",
+        "proud_id": "13239"
+      }
+    ],
+    "name": "プルーネ",
+    "english_name": "Prune",
+    "proud_map": {
+      "11321": "13231",
+      "11322": "13232",
+      "11325": "13239"
+    },
+    "quality": 4,
+    "costumes": {
+      "default": {
+        "side_icon": {
+          "name": "UI_AvatarIcon_Side_Prune.png",
+          "path": "image/character/Prune/avatar/default/UI_AvatarIcon_Side_Prune.png"
+        },
+        "avatar_icon": {
+          "name": "UI_AvatarIcon_Prune.png",
+          "path": "image/character/Prune/avatar/default/UI_AvatarIcon_Prune.png"
+        },
+        "gacha_icon": {
+          "name": "UI_Gacha_AvatarImg_Prune.png",
+          "path": "image/character/Prune/avatar/default/UI_Gacha_AvatarImg_Prune.png"
+        },
+        "position": {
+          "x": "-254",
+          "y": "-8",
+          "scale": "89"
+        }
+      }
+    }
+  },
   "10000901": {
     "element": "Fire",
     "consts": [

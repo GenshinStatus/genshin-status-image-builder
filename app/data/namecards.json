@@ -1642,5 +1642,29 @@
             "name": "UI_NameCardPic_Bp49_P.png",
             "path": "image/namecard/UI_NameCardPic_Bp49_P.png"
         }
+    },
+    "210279": {
+        "icon": {
+            "name": "UI_NameCardPic_Nicole_P.png",
+            "path": "image/namecard/UI_NameCardPic_Nicole_P.png"
+        }
+    },
+    "210280": {
+        "icon": {
+            "name": "UI_NameCardPic_Lohen_P.png",
+            "path": "image/namecard/UI_NameCardPic_Lohen_P.png"
+        }
+    },
+    "210281": {
+        "icon": {
+            "name": "UI_NameCardPic_Prune_P.png",
+            "path": "image/namecard/UI_NameCardPic_Prune_P.png"
+        }
+    },
+    "210283": {
+        "icon": {
+            "name": "UI_NameCardPic_Bp50_P.png",
+            "path": "image/namecard/UI_NameCardPic_Bp50_P.png"
+        }
     }
 }
