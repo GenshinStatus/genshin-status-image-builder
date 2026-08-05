@@ -6,3 +6,5 @@ COPY init.sh .
 
 RUN apk update && apk add --no-cache gcc g++ libffi-dev
 RUN pip install --no-cache-dir -r requirements.txt
+COPY app/ ./
+CMD ["sh", "start_script.sh"]
