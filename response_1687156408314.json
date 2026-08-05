@@ -22,7 +22,7 @@
   },
   "characters": [
     {
-      "id": "10000030",
+      "id": "10000086",
       "star": 5,
       "constellations": 0,
       "level": 90,
@@ -37,7 +37,7 @@
       "critical_damage": 104.4,
       "charge_efficiency": 137.6,
       "elemental_mastery": 23,
-      "elemental_name": "Rock",
+      "elemental_name": "Water",
       "elemental_value": "75.4%",
       "skills": [
         {

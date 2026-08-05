@@ -32,16 +32,16 @@ services:
     networks:
       - database_network
 
-  tunnel:
-    restart: always
-    depends_on:
-      - api
-    image: cloudflare/cloudflared
-    command: tunnel run
-    networks:
-      - api_network
-    env_file:
-      - ./env/cloudflared.env
+#  tunnel:
+#    restart: always
+#    depends_on:
+#      - api
+#    image: cloudflare/cloudflared
+#    command: tunnel run
+#    networks:
+#      - api_network
+#    env_file:
+#      - ./env/cloudflared.env
 
 networks:
   database_network:
