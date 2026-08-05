@@ -13333,5 +13333,92 @@
         }
       }
     }
+  },
+  "10000133": {
+    "element": "Ice",
+    "consts": [
+      {
+        "name": "UI_Talent_S_MarionetteNew_01.png",
+        "path": "image/character/MarionetteNew/consts/UI_Talent_S_MarionetteNew_01.png"
+      },
+      {
+        "name": "UI_Talent_S_MarionetteNew_02.png",
+        "path": "image/character/MarionetteNew/consts/UI_Talent_S_MarionetteNew_02.png"
+      },
+      {
+        "name": "UI_Talent_U_MarionetteNew_01.png",
+        "path": "image/character/MarionetteNew/consts/UI_Talent_U_MarionetteNew_01.png"
+      },
+      {
+        "name": "UI_Talent_S_MarionetteNew_03.png",
+        "path": "image/character/MarionetteNew/consts/UI_Talent_S_MarionetteNew_03.png"
+      },
+      {
+        "name": "UI_Talent_U_MarionetteNew_02.png",
+        "path": "image/character/MarionetteNew/consts/UI_Talent_U_MarionetteNew_02.png"
+      },
+      {
+        "name": "UI_Talent_S_MarionetteNew_04.png",
+        "path": "image/character/MarionetteNew/consts/UI_Talent_S_MarionetteNew_04.png"
+      }
+    ],
+    "skills": [
+      {
+        "name": "通常攻撃",
+        "icon": {
+          "name": "Skill_A_04.png",
+          "path": "image/character/MarionetteNew/skill/Skill_A_04.png"
+        },
+        "id": "11331",
+        "proud_id": "13331"
+      },
+      {
+        "name": "元素スキル",
+        "icon": {
+          "name": "Skill_S_MarionetteNew_01.png",
+          "path": "image/character/MarionetteNew/skill/Skill_S_MarionetteNew_01.png"
+        },
+        "id": "11332",
+        "proud_id": "13332"
+      },
+      {
+        "name": "元素爆発",
+        "icon": {
+          "name": "Skill_E_MarionetteNew_01.png",
+          "path": "image/character/MarionetteNew/skill/Skill_E_MarionetteNew_01.png"
+        },
+        "id": "11335",
+        "proud_id": "13339"
+      }
+    ],
+    "name": "サンドローネ",
+    "english_name": "MarionetteNew",
+    "proud_map": {
+      "11331": "13331",
+      "11332": "13332",
+      "11335": "13339"
+    },
+    "quality": 5,
+    "costumes": {
+      "default": {
+        "side_icon": {
+          "name": "UI_AvatarIcon_Side_MarionetteNew.png",
+          "path": "image/character/MarionetteNew/avatar/default/UI_AvatarIcon_Side_MarionetteNew.png"
+        },
+        "avatar_icon": {
+          "name": "UI_AvatarIcon_MarionetteNew.png",
+          "path": "image/character/MarionetteNew/avatar/default/UI_AvatarIcon_MarionetteNew.png"
+        },
+        "gacha_icon": {
+          "name": "UI_Gacha_AvatarImg_MarionetteNew.png",
+          "path": "image/character/MarionetteNew/avatar/default/UI_Gacha_AvatarImg_MarionetteNew.png"
+        },
+        "position": {
+          "x": "-254",
+          "y": "-8",
+          "scale": "89"
+        }
+      }
+    }
   }
 }
