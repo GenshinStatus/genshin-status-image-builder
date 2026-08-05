@@ -1713,5 +1713,12 @@
             "path": "image/weapon/UI_EquipIcon_Catalyst_FairyGarden.png"
         },
         "name": "塵と光の七つの誓約"
+    },
+    "UI_EquipIcon_Claymore_CrystallineSword": {
+        "icon": {
+            "name": "UI_EquipIcon_Claymore_CrystallineSword.png",
+            "path": "image/weapon/UI_EquipIcon_Claymore_CrystallineSword.png"
+        },
+        "name": "超越の鍵"
     }
 }
