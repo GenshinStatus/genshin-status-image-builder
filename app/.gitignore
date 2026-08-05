@@ -3,7 +3,6 @@ build_images/*
 *.pyc
 sample
 test.py
-font
 test/*
 !image/assets/**
 !image/character/sample
