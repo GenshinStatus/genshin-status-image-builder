@@ -47,13 +47,30 @@ def check_traveler(id: int):
     return id in ["10000007", "10000005", "10000118", "10000117"]
 
 
+def resolve_character_id(avatar_info: enka_model.AvatarInfo) -> str:
+    """キャラクターデータの参照キーを返します。旅人はskillDepotIdを付与します
+
+    Args:
+        avatar_info (enka_model.AvatarInfo): enkaのキャラクター情報
+
+    Returns:
+        str: characters.jsonの参照キー
+    """
+    id = avatar_info.avatarId
+    if check_traveler(id):
+        id = f"{id}-{avatar_info.skillDepotId}"
+    return id
+
+
 def get_characters(
     uid: int,
     create_date: str,
     avatar_info_list: list[enka_model.AvatarInfo]
 ) -> list[status_model.Character]:
+    # 新バージョンで追加されデータ未収録のIDは除外する
     characters = [
         get_character_status(uid, create_date, v) for v in avatar_info_list
+        if resolve_character_id(v) in CHARACTER_DATA_DICT
     ]
     return characters
 
@@ -152,9 +169,7 @@ def get_elemental_name_value(id: str, avatar_info: enka_model.AvatarInfo):
 
 
 def get_character_status(uid: int, create_date: str, avatar_info: enka_model.AvatarInfo):
-    id = avatar_info.avatarId
-    if check_traveler(id):
-        id = f"{id}-{avatar_info.skillDepotId}"
+    id = resolve_character_id(avatar_info)
     star = CHARACTER_DATA_DICT[id].quality
     constellations = len(avatar_info.talentIdList)
     level = int(avatar_info.propMap["4001"].val)
@@ -212,8 +227,11 @@ async def get_user_data(uid) -> status_model.UserData:
 
     enka = await enka_repository.get_enka_model(uid)
     create_date = datetime.datetime.now().strftime("%Y%m%d%H%M%S")
-    char_name_map = {CHARACTER_DATA_DICT[c.avatarId].name: i for i, c in enumerate(
-        enka.playerInfo.showAvatarInfoList)}
+    char_name_map = {
+        CHARACTER_DATA_DICT[c.avatarId].name: i
+        for i, c in enumerate(enka.playerInfo.showAvatarInfoList)
+        if c.avatarId in CHARACTER_DATA_DICT
+    }
     char_list = get_characters(enka.uid, create_date, enka.avatarInfoList)
 
     user_data = status_model.UserData(
