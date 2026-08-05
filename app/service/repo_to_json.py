@@ -1,8 +1,9 @@
 from model.git_model import ArtifactModel, ArtifactSetNameModel,  WeaponModel, CharacterConfigModel
 from model.util_model import Artifact, Weapon, NameCard, Costume, Skill, Icon,  JpCharacterModel, Position
-from lib.json_lib import save_json
+from lib.json_lib import save_json, load_json
 import repository.git_repository as git_repo
 import repository.util_repository as util_repository
+import os
 
 
 NAME_SUBSTR = len("UI_AvatarIcon_Side_")
@@ -10,6 +11,25 @@ NAME_SUBSTR = len("UI_AvatarIcon_Side_")
 
 async def save_json_file(file_name: str, obj: dict):
     save_json(f"data/{file_name}", obj)
+
+
+def lost_keys(file_name: str, obj: dict) -> list[str]:
+    """更新後に失われる既存キーを返します
+
+    Args:
+        file_name (str): dataディレクトリ内のファイル名
+        obj (dict): 保存しようとしているデータ
+
+    Returns:
+        list[str]: 既存にあり更新後に存在しないキー
+    """
+    path = f"data/{file_name}"
+    if not os.path.exists(path):
+        return []
+    current = load_json(path)
+    if not isinstance(current, dict) or not isinstance(obj, dict):
+        return []
+    return [k for k in current if k not in obj]
 
 
 async def weapon_dict_builder(
@@ -249,12 +269,27 @@ async def updates(debug_flg: bool = False):
 
     namecard_dict = namecard_dict_builder(namecards=namecards)
 
+    save_targets = [
+        ("artifacts.json", {k: v.dict() for k, v in artifact_dict.items()}),
+        ("weapons.json", {k: v.dict() for k, v in weapon_dict.items()}),
+        ("namecards.json", {k: v.dict() for k, v in namecard_dict.items()}),
+        ("names.json", names["ja"]),
+        ("characters.json", {k: v.dict() for k, v in character_dict.items()}),
+    ]
+
+    # 取得元が自前データより古い場合に既存データを失うため、書き込み前に中止する
+    aborted = False
+    for file_name, obj in save_targets:
+        lost = lost_keys(file_name, obj)
+        if lost:
+            aborted = True
+            print(f"update aborted -> {file_name} は{len(lost)}件を失う: {lost[:5]}")
+    if aborted:
+        return False
+
     # 各情報をjsonとして保存します
-    await save_json_file("artifacts.json", {k: v.dict() for k, v in artifact_dict.items()})
-    await save_json_file("weapons.json", {k: v.dict() for k, v in weapon_dict.items()})
-    await save_json_file("namecards.json", {k: v.dict() for k, v in namecard_dict.items()})
-    await save_json_file("names.json", names["ja"])
-    await save_json_file("characters.json", {k: v.dict() for k, v in character_dict.items()})
+    for file_name, obj in save_targets:
+        await save_json_file(file_name, obj)
 
     git_repo.save_last_push_dates()
 
