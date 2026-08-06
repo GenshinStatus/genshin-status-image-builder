@@ -13,6 +13,28 @@ async def save_json_file(file_name: str, obj: dict):
     save_json(f"data/{file_name}", obj)
 
 
+def merge_with_existing(file_name: str, obj: dict) -> dict:
+    """既存データをベースに取得結果を重ねます
+
+    上流が収録範囲を縮小しても手元のデータを失わないようにするため、
+    置き換えではなくマージで保存する。
+
+    Args:
+        file_name (str): dataディレクトリ内のファイル名
+        obj (dict): 取得したデータ
+
+    Returns:
+        dict: 既存に取得結果を重ねたデータ
+    """
+    path = f"data/{file_name}"
+    if not os.path.exists(path):
+        return obj
+    current = load_json(path)
+    if not isinstance(current, dict) or not isinstance(obj, dict):
+        return obj
+    return {**current, **obj}
+
+
 def lost_keys(file_name: str, obj: dict) -> list[str]:
     """更新後に失われる既存キーを返します
 
@@ -270,11 +292,14 @@ async def updates(debug_flg: bool = False):
     namecard_dict = namecard_dict_builder(namecards=namecards)
 
     save_targets = [
-        ("artifacts.json", {k: v.dict() for k, v in artifact_dict.items()}),
-        ("weapons.json", {k: v.dict() for k, v in weapon_dict.items()}),
-        ("namecards.json", {k: v.dict() for k, v in namecard_dict.items()}),
-        ("names.json", names["ja"]),
-        ("characters.json", {k: v.dict() for k, v in character_dict.items()}),
+        (file_name, merge_with_existing(file_name, obj))
+        for file_name, obj in [
+            ("artifacts.json", {k: v.dict() for k, v in artifact_dict.items()}),
+            ("weapons.json", {k: v.dict() for k, v in weapon_dict.items()}),
+            ("namecards.json", {k: v.dict() for k, v in namecard_dict.items()}),
+            ("names.json", names["ja"]),
+            ("characters.json", {k: v.dict() for k, v in character_dict.items()}),
+        ]
     ]
 
     # 取得元が自前データより古い場合に既存データを失うため、書き込み前に中止する

@@ -156,18 +156,68 @@ async def get_weapon_dict():
     )
 
 
+def strip_ui_path(value: str) -> str:
+    """store/gi配下の値から/ui/接頭辞と拡張子を除きアイコン名だけにします
+
+    Args:
+        value (str): "/ui/UI_AvatarIcon_Side_Ayaka.png" 形式の値
+
+    Returns:
+        str: "UI_AvatarIcon_Side_Ayaka" 形式のアイコン名
+    """
+    name = value.rsplit("/", 1)[-1]
+    return name.rsplit(".", 1)[0]
+
+
+def normalize_avatar(data: dict) -> dict:
+    """store/gi/avatars.jsonをstore/characters.json相当の形へ揃えます
+
+    上流は旅人のConstsとSkillsに文字列のNoneを入れているため、
+    そうしたエントリは手元の正しいデータを壊さないよう除外する。
+
+    Args:
+        data (dict): idに紐付けられたavatarの生データ
+
+    Returns:
+        dict: アイコン名から/ui/接頭辞と拡張子を除いたデータ
+    """
+    result = {}
+    for k, v in data.items():
+        v = dict(v)
+        if "SideIconName" in v:
+            v["SideIconName"] = strip_ui_path(v["SideIconName"])
+        if "Consts" in v:
+            v["Consts"] = [strip_ui_path(i) for i in v["Consts"]]
+        if "Skills" in v:
+            v["Skills"] = {sk: strip_ui_path(sv) for sk, sv in v["Skills"].items()}
+        # Costumesはキー名もSideIcon / Icon / Artへ変わっている
+        v["Costumes"] = {
+            ck: {
+                "sideIconName": strip_ui_path(cv["SideIcon"]) if "SideIcon" in cv else None,
+                "icon": strip_ui_path(cv["Icon"]) if "Icon" in cv else None,
+                "art": strip_ui_path(cv["Art"]) if "Art" in cv else None,
+            }
+            for ck, cv in v.get("Costumes", {}).items()
+        }
+        if "None" in v.get("Consts", []) or "None" in v.get("Skills", {}).values():
+            print(f"skip avatar (upstream has None) -> {k}")
+            continue
+        result[k] = v
+    return result
+
+
 async def get_name_dict():
     return await git_json_download(
-        REPOS[ENKA_DATA_REPO_NAME].get_contents("store/loc.json").download_url
+        REPOS[ENKA_DATA_REPO_NAME].get_contents("store/gi/locs.json").download_url
     )
 
 
 async def get_namecard_dict():
     return {
-        k: v["icon"]
+        k: strip_ui_path(v["Icon"])
         for k, v in (await git_json_download(
             REPOS[ENKA_DATA_REPO_NAME].get_contents(
-                "store/namecards.json"
+                "store/gi/namecards.json"
             ).download_url
         )).items()
     }
@@ -175,10 +225,12 @@ async def get_namecard_dict():
 
 async def get_character_dict():
     return conversion_dict_to_model(
-        await git_json_download(
-            REPOS[ENKA_DATA_REPO_NAME].get_contents(
-                "store/characters.json"
-            ).download_url
+        normalize_avatar(
+            await git_json_download(
+                REPOS[ENKA_DATA_REPO_NAME].get_contents(
+                    "store/gi/avatars.json"
+                ).download_url
+            )
         ),
         CharacterConfigModel
     )
